@@ -829,12 +829,12 @@ environments in the htaccesss
 
 	$dotenv = new Dotenv\Dotenv(APPPATH . CONFIG_FOLDER . DIRECTORY_SEPARATOR . ENVIRONMENT  );
 			$dotenv->load();
-			$dotenv->required(['XYZ_DBHOST_DEFAULT', 'XYZ_DBUSER_DEFAULT', 'XYZ_DBPASSWORD_DEFAULT']);
+			$dotenv->required(['ZERHUEL_DBHOST_DEFAULT', 'ZERHUEL_DBUSER_DEFAULT', 'ZERHUEL_DBPASSWORD_DEFAULT']);
 			
 			//check the variables if empty, error will be return in the exception
-			$dotenv->required('XYZ_DBHOST_DEFAULT')->notEmpty();
-			$dotenv->required('XYZ_DBUSER_DEFAULT')->notEmpty();
-			$dotenv->required('XYZ_DBPASSWORD_DEFAULT')->notEmpty();
+			$dotenv->required('ZERHUEL_DBHOST_DEFAULT')->notEmpty();
+			$dotenv->required('ZERHUEL_DBUSER_DEFAULT')->notEmpty();
+			$dotenv->required('ZERHUEL_DBPASSWORD_DEFAULT')->notEmpty();
 $hook['pre_controller'][] = array(
   'class' => 'environment',
   'function' => 'environments',
