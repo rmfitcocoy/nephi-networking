@@ -112,7 +112,7 @@ defined('PROXY_IPS') 		OR define('PROXY_IPS', $_SERVER["HTTP_X_REAL_IP"] ?? $_SE
 
 //Generic setup for application environment data
 defined('DEFAULT_TIMEZONE') OR define('DEFAULT_TIMEZONE','Asia/Urumqi' ,TRUE);  //Timezone Setup in Asia, can be used also in 'Asia/Manila'
-defined('SSL_PORT') 		OR define('SSL_PORT', 443 ,TRUE);  //SSL Port number 
+defined('SSL_PORT') 		OR define('SSL_PORT', 8080 ,TRUE);  //SSL Port number 
 
 // Application folder name for scallable
 defined('PUBLIC_FOLDER') 	OR define('PUBLIC_FOLDER','zerhuel_public' ,TRUE);  //  Folder name of the directory in public folder
@@ -153,7 +153,7 @@ defined('THIRD_PARTY_FOLDER') OR define('THIRD_PARTY_FOLDER','third_party' ,TRUE
  * @todo		Apply and setup server variables
  * 
  ************************************************/
-defined('ZERHUEL_DBHOST_DEFAULT') 		OR define('ZERHUEL_DBHOST_DEFAULT',$_SERVER['ZERHUEL_DBHOST_DEFAULT'] ?? ($_ENV['ZERHUEL_DBHOST_DEFAULT'] ?? 'localhost') ,TRUE);  // Setup variable of the default database host
+defined('ZERHUEL_DBHOST_DEFAULT') 		OR define('ZERHUEL_DBHOST_DEFAULT',$_SERVER['ZERHUEL_DBHOST_DEFAULT'] ?? ($_ENV['ZERHUEL_DBHOST_DEFAULT'] ?? 'localhost:8080') ,TRUE);  // Setup variable of the default database host
 defined('ZERHUEL_DBNAME_DEFAULT') 		OR define('ZERHUEL_DBNAME_DEFAULT',$_SERVER['ZERHUEL_DBNAME_DEFAULT'] ?? ($_ENV['ZERHUEL_DBNAME_DEFAULT'] ?? 'test') ,TRUE);  // Setup variable of the default database name
 defined('ZERHUEL_DBUSER_DEFAULT') 		OR define('ZERHUEL_DBUSER_DEFAULT',$_SERVER['ZERHUEL_DBUSER_DEFAULT'] ?? ($_ENV['ZERHUEL_DBUSER_DEFAULT'] ?? 'root') ,TRUE); // Setup variable of the default database user
-defined('ZERHUEL_DBPASSWORD_DEFAULT') 	OR define('ZERHUEL_DBPASSWORD_DEFAULT',$_SERVER['ZERHUEL_DBPASSWORD_DEFAULT'] ?? ($_ENV['ZERHUEL_DBPASSWORD_DEFAULT'] ?? 'admin') ,TRUE); // Setup variable of the default database password
+defined('ZERHUEL_DBPASSWORD_DEFAULT') 	OR define('ZERHUEL_DBPASSWORD_DEFAULT',$_SERVER['ZERHUEL_DBPASSWORD_DEFAULT'] ?? ($_ENV['ZERHUEL_DBPASSWORD_DEFAULT'] ?? '') ,TRUE); // Setup variable of the default database password

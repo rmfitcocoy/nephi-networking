@@ -117,16 +117,16 @@ if(! defined('ENVIRONMENT') )
 	{
 		$domain = strtolower($_SERVER['HTTP_HOST']);
 		switch($domain) {		
-			case 'dev.scarfonictech.com' :
+			case 'localhost:8080' :
 			  defined('ENVIRONMENT') OR define('ENVIRONMENT', $development);
 			break;
 			
-			case 'qa.scarfonictech.com' :
-			case 'test.scarfonictech.com' :
+			case 'localhost:8080' :
+			case 'localhost:8080' :
 			  defined('ENVIRONMENT') OR define('ENVIRONMENT', $testing);
 			break;
 			
-			case 'devscarfonictech.azurewebsites.net':
+			case 'localhost:8080' :
 			  defined('ENVIRONMENT') OR define('ENVIRONMENT', $production);
 			break;
 			
