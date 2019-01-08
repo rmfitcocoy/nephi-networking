@@ -58,7 +58,8 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array( 'email','session');
+//referrence : https://github.com/terrylinooo/codeigniter-simple-template-library
+$autoload['libraries'] = array('layout', 'email','session');
 
 /*
 | -------------------------------------------------------------------

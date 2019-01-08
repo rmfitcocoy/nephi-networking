@@ -56,10 +56,12 @@ date_default_timezone_set(DEFAULT_TIMEZONE);
 $protocol = is_https() ? "https://" : "http://";
 $host = isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : "";
 if(is_cli()){
-   $config['base_url'] = 'dev.scarfonictech.com';
+   // $config['base_url'] = 'localhost:8080';
+   $config['base_url'] = 'http://localhost:8080/nephi-networking/zerhuel_public/';
 }
 else if(stristr($host, "localhost") !== FALSE || (stristr($host, '192.168.') !== FALSE) || (stristr($host, '127.0.0') !== FALSE)){
-   $config['base_url'] = $protocol.$host;
+   // $config['base_url'] = $protocol.$host;
+   $config['base_url'] = 'http://localhost:8080/nephi-networking/zerhuel_public/';
 }
 else{
     $allowed_hosts = ['dev.scarfonictech.com', 'www.dev.scarfonictech.com'];
@@ -76,7 +78,7 @@ else{
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------

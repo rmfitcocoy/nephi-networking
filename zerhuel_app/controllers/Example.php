@@ -12,7 +12,7 @@ class Example extends CI_Controller
     public function __construct()
     {
         parent::__construct();
-        $this->load->library(array( 'layout'));
+      
         $this->load->helper(array('url'));
 
         $this->layout->add_custom_meta('meta', array(
@@ -38,7 +38,7 @@ alert('this is just a test');
 EOT;
 
         // Load view into a variable for importing javascript
-        $js_text_footer = $this->load->view('footer_javascript', '', true);
+        $js_text_footer = $this->load->view('themes/default/footer_javascript', '', true);
 
         $this->layout->add_css_rawtext($css_text);
         $this->layout->add_js_rawtext($js_text);
@@ -59,9 +59,10 @@ EOT;
         $this->layout->set_body_attr(array('id' => 'home', 'class' => 'test more_class'));
         
         // load views and send data
-        $this->load->view('header');
-        $this->load->view('index');
-        $this->load->view('footer');
+        // die($this->load->view('themes/default/header'));
+        $this->load->view('themes/default/header');
+        $this->load->view('themes/default/index');
+        $this->load->view('themes/default/footer');
     }
 }
 
