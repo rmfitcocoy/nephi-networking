@@ -13,15 +13,10 @@ class Home extends CI_Controller
     {
         parent::__construct();
       
-        $this->load->helper(array('url'));
-
         $this->layout->add_custom_meta('meta', array(
             'charset' => 'utf-8'
         ));
-        $this->layout->add_custom_meta('meta', array(
-            'viewport' => 'width=device-width, initial-scale=1"'
-        ));
-        
+ 
         $this->layout->add_custom_meta('meta', array(
             'http-equiv' => 'X-UA-Compatible',
             'content' => 'IE=edge'
@@ -71,22 +66,6 @@ class Home extends CI_Controller
 		$this->layout->add_js_files(
 		array('main.js','slick-custom.js'),
 		base_url().'assets/themes/corastore/js/','footer');
-/*         $css_text = <<<EOF
-.text {
-font-size: 12px;
-background-color: #eeeeee;
-}
-EOF;
-
-        $js_text = <<<EOT
-alert('this is just a test');
-EOT;
-
-
-        $this->layout->add_css_rawtext($css_text);
-        $this->layout->add_js_rawtext($js_text);
- */
-        // Load view into a variable for importing javascript
         $js_text_footer = $this->load->view('themes/corastore/footer_javascript', '', true);
 
 
@@ -103,15 +82,16 @@ EOT;
      */
     public function index()
     {
+		//todo: get the file name  and replace the title and the id
+
         $this->layout->set_title('Home');
-        $this->layout->set_body_attr(array('id' => 'home', 'class' => 'animsition'));
-        // die(CI_head());
+        $this->layout->set_body_attr(array('class' => 'animsition'));
+
         // load views and send data
-        // die($this->load->view('themes/default/header'));
-        $this->load->view('themes/corastore/header',null);
+        $this->load->view('themes/corastore/header');
         $this->load->view('themes/corastore/home-banner');
-        $this->load->view('themes/corastore/index');
-        $this->load->view('themes/corastore/footer',null);
+        $this->load->view('themes/corastore/home-index');
+        $this->load->view('themes/corastore/footer');
     }
 }
 

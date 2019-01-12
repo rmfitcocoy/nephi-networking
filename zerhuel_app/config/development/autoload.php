@@ -91,7 +91,7 @@ $autoload['drivers'] = array();
 |	$autoload['helper'] = array('url', 'file');
 |	$autoload['helper'] = array('storehours');
 */
-$autoload['helper'] = array('storehours');
+$autoload['helper'] = array('storehours','url');
 
 /*
 | -------------------------------------------------------------------

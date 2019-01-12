@@ -4247,3 +4247,2454 @@ INFO - 2019-01-10 21:16:42 --> Language Class Initialized
 INFO - 2019-01-10 21:16:42 --> Language Class Initialized
 ERROR - 2019-01-10 21:16:42 --> 404 Page Not Found: Images/icons
 ERROR - 2019-01-10 21:16:42 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:18:40 --> Config Class Initialized
+INFO - 2019-01-10 21:18:40 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:18:40 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:18:40 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:40 --> URI Class Initialized
+INFO - 2019-01-10 21:18:40 --> Router Class Initialized
+INFO - 2019-01-10 21:18:40 --> Output Class Initialized
+INFO - 2019-01-10 21:18:40 --> Security Class Initialized
+DEBUG - 2019-01-10 21:18:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:18:40 --> Input Class Initialized
+INFO - 2019-01-10 21:18:40 --> Language Class Initialized
+INFO - 2019-01-10 21:18:40 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:18:40 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:18:40 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:18:40 --> Email Class Initialized
+DEBUG - 2019-01-10 21:18:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:18:40 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:18:40 --> Controller Class Initialized
+INFO - 2019-01-10 21:18:40 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:18:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-10 21:18:41 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:18:41 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:18:41 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:18:41 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:18:41 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:18:41 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:18:41 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:18:41 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:18:41 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:18:41 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:18:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:18:41 --> Final output sent to browser
+DEBUG - 2019-01-10 21:18:41 --> Total execution time: 1.2887
+INFO - 2019-01-10 21:18:41 --> Config Class Initialized
+INFO - 2019-01-10 21:18:41 --> Config Class Initialized
+INFO - 2019-01-10 21:18:41 --> Config Class Initialized
+INFO - 2019-01-10 21:18:41 --> Config Class Initialized
+INFO - 2019-01-10 21:18:41 --> Config Class Initialized
+INFO - 2019-01-10 21:18:41 --> Hooks Class Initialized
+INFO - 2019-01-10 21:18:41 --> Hooks Class Initialized
+INFO - 2019-01-10 21:18:41 --> Hooks Class Initialized
+INFO - 2019-01-10 21:18:41 --> Hooks Class Initialized
+INFO - 2019-01-10 21:18:41 --> Hooks Class Initialized
+INFO - 2019-01-10 21:18:41 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+DEBUG - 2019-01-10 21:18:41 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:18:42 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:42 --> URI Class Initialized
+INFO - 2019-01-10 21:18:42 --> Router Class Initialized
+INFO - 2019-01-10 21:18:42 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+DEBUG - 2019-01-10 21:18:42 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:18:42 --> Output Class Initialized
+INFO - 2019-01-10 21:18:42 --> Config Class Initialized
+DEBUG - 2019-01-10 21:18:42 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:18:42 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:18:42 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:18:42 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:18:42 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:18:42 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:42 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:42 --> URI Class Initialized
+INFO - 2019-01-10 21:18:42 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:42 --> Security Class Initialized
+INFO - 2019-01-10 21:18:42 --> URI Class Initialized
+INFO - 2019-01-10 21:18:42 --> Router Class Initialized
+INFO - 2019-01-10 21:18:42 --> Output Class Initialized
+INFO - 2019-01-10 21:18:42 --> Security Class Initialized
+DEBUG - 2019-01-10 21:18:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:18:42 --> Input Class Initialized
+INFO - 2019-01-10 21:18:42 --> Language Class Initialized
+ERROR - 2019-01-10 21:18:42 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:18:42 --> Router Class Initialized
+INFO - 2019-01-10 21:18:42 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:42 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:42 --> URI Class Initialized
+DEBUG - 2019-01-10 21:18:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:18:42 --> Output Class Initialized
+INFO - 2019-01-10 21:18:42 --> Security Class Initialized
+INFO - 2019-01-10 21:18:42 --> Config Class Initialized
+INFO - 2019-01-10 21:18:42 --> URI Class Initialized
+INFO - 2019-01-10 21:18:42 --> Router Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:18:43 --> Hooks Class Initialized
+INFO - 2019-01-10 21:18:43 --> Input Class Initialized
+INFO - 2019-01-10 21:18:43 --> Router Class Initialized
+INFO - 2019-01-10 21:18:43 --> URI Class Initialized
+INFO - 2019-01-10 21:18:43 --> Language Class Initialized
+INFO - 2019-01-10 21:18:43 --> Output Class Initialized
+INFO - 2019-01-10 21:18:43 --> Input Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:18:43 --> Router Class Initialized
+ERROR - 2019-01-10 21:18:43 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:18:43 --> Output Class Initialized
+INFO - 2019-01-10 21:18:43 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:43 --> Output Class Initialized
+INFO - 2019-01-10 21:18:43 --> Security Class Initialized
+INFO - 2019-01-10 21:18:43 --> Language Class Initialized
+INFO - 2019-01-10 21:18:43 --> Config Class Initialized
+INFO - 2019-01-10 21:18:43 --> URI Class Initialized
+INFO - 2019-01-10 21:18:43 --> Security Class Initialized
+INFO - 2019-01-10 21:18:43 --> Security Class Initialized
+INFO - 2019-01-10 21:18:43 --> Router Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:18:43 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-10 21:18:43 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:18:43 --> Output Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:18:43 --> Config Class Initialized
+INFO - 2019-01-10 21:18:43 --> Input Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:18:43 --> Input Class Initialized
+INFO - 2019-01-10 21:18:43 --> Hooks Class Initialized
+INFO - 2019-01-10 21:18:43 --> Security Class Initialized
+INFO - 2019-01-10 21:18:43 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:43 --> Input Class Initialized
+INFO - 2019-01-10 21:18:43 --> Language Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:18:43 --> Language Class Initialized
+ERROR - 2019-01-10 21:18:43 --> 404 Page Not Found: Images/item-cart-03.jpg
+INFO - 2019-01-10 21:18:43 --> URI Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:18:43 --> Language Class Initialized
+INFO - 2019-01-10 21:18:43 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:43 --> Router Class Initialized
+INFO - 2019-01-10 21:18:43 --> Input Class Initialized
+ERROR - 2019-01-10 21:18:43 --> 404 Page Not Found: Images/item-cart-02.jpg
+ERROR - 2019-01-10 21:18:43 --> 404 Page Not Found: Images/item-cart-01.jpg
+INFO - 2019-01-10 21:18:43 --> Config Class Initialized
+INFO - 2019-01-10 21:18:43 --> URI Class Initialized
+INFO - 2019-01-10 21:18:43 --> Output Class Initialized
+INFO - 2019-01-10 21:18:43 --> Hooks Class Initialized
+INFO - 2019-01-10 21:18:43 --> Language Class Initialized
+INFO - 2019-01-10 21:18:43 --> Router Class Initialized
+INFO - 2019-01-10 21:18:43 --> Security Class Initialized
+ERROR - 2019-01-10 21:18:43 --> 404 Page Not Found: Images/icons
+DEBUG - 2019-01-10 21:18:43 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:18:43 --> Output Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:18:43 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:18:43 --> Security Class Initialized
+INFO - 2019-01-10 21:18:43 --> Input Class Initialized
+INFO - 2019-01-10 21:18:43 --> URI Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:18:43 --> Language Class Initialized
+INFO - 2019-01-10 21:18:43 --> Input Class Initialized
+INFO - 2019-01-10 21:18:43 --> Language Class Initialized
+INFO - 2019-01-10 21:18:43 --> Router Class Initialized
+ERROR - 2019-01-10 21:18:43 --> 404 Page Not Found: Images/icons
+ERROR - 2019-01-10 21:18:43 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:18:43 --> Output Class Initialized
+INFO - 2019-01-10 21:18:43 --> Security Class Initialized
+DEBUG - 2019-01-10 21:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:18:43 --> Input Class Initialized
+INFO - 2019-01-10 21:18:43 --> Language Class Initialized
+ERROR - 2019-01-10 21:18:44 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:20:11 --> Config Class Initialized
+INFO - 2019-01-10 21:20:11 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:20:11 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:20:11 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:11 --> URI Class Initialized
+INFO - 2019-01-10 21:20:11 --> Router Class Initialized
+INFO - 2019-01-10 21:20:11 --> Output Class Initialized
+INFO - 2019-01-10 21:20:11 --> Security Class Initialized
+DEBUG - 2019-01-10 21:20:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:20:11 --> Input Class Initialized
+INFO - 2019-01-10 21:20:11 --> Language Class Initialized
+INFO - 2019-01-10 21:20:11 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:20:11 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:20:11 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:20:11 --> Email Class Initialized
+DEBUG - 2019-01-10 21:20:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:20:11 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:20:11 --> Controller Class Initialized
+ERROR - 2019-01-10 21:20:11 --> Severity: error --> Exception: Call to undefined function base_url() C:\xampp\htdocs\nephi-networking\zerhuel_app\controllers\Home.php 37
+INFO - 2019-01-10 21:20:31 --> Config Class Initialized
+INFO - 2019-01-10 21:20:32 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:20:32 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:20:32 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:32 --> URI Class Initialized
+INFO - 2019-01-10 21:20:32 --> Router Class Initialized
+INFO - 2019-01-10 21:20:32 --> Output Class Initialized
+INFO - 2019-01-10 21:20:32 --> Security Class Initialized
+DEBUG - 2019-01-10 21:20:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:20:32 --> Input Class Initialized
+INFO - 2019-01-10 21:20:32 --> Language Class Initialized
+INFO - 2019-01-10 21:20:32 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:20:32 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:20:32 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:20:32 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:20:32 --> Email Class Initialized
+DEBUG - 2019-01-10 21:20:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:20:32 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:20:32 --> Controller Class Initialized
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-10 21:20:32 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:20:32 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:20:32 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:20:32 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:20:32 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:20:32 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:20:32 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:20:32 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:20:32 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:20:32 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:20:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:20:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:20:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:20:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:20:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:20:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:20:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:20:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:20:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:20:33 --> Final output sent to browser
+DEBUG - 2019-01-10 21:20:33 --> Total execution time: 1.1867
+INFO - 2019-01-10 21:20:33 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:20:33 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:20:33 --> Config Class Initialized
+INFO - 2019-01-10 21:20:33 --> Config Class Initialized
+INFO - 2019-01-10 21:20:33 --> Hooks Class Initialized
+INFO - 2019-01-10 21:20:33 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:20:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:20:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:33 --> Config Class Initialized
+INFO - 2019-01-10 21:20:33 --> Config Class Initialized
+INFO - 2019-01-10 21:20:33 --> Config Class Initialized
+INFO - 2019-01-10 21:20:33 --> Config Class Initialized
+DEBUG - 2019-01-10 21:20:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:20:33 --> Hooks Class Initialized
+INFO - 2019-01-10 21:20:33 --> Hooks Class Initialized
+INFO - 2019-01-10 21:20:33 --> URI Class Initialized
+INFO - 2019-01-10 21:20:33 --> Hooks Class Initialized
+INFO - 2019-01-10 21:20:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:33 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:20:33 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:20:33 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:20:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:20:33 --> Router Class Initialized
+INFO - 2019-01-10 21:20:33 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:20:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:20:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:33 --> URI Class Initialized
+INFO - 2019-01-10 21:20:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:33 --> Output Class Initialized
+INFO - 2019-01-10 21:20:33 --> URI Class Initialized
+INFO - 2019-01-10 21:20:33 --> URI Class Initialized
+INFO - 2019-01-10 21:20:33 --> Router Class Initialized
+INFO - 2019-01-10 21:20:33 --> URI Class Initialized
+INFO - 2019-01-10 21:20:33 --> URI Class Initialized
+INFO - 2019-01-10 21:20:33 --> Security Class Initialized
+INFO - 2019-01-10 21:20:33 --> Router Class Initialized
+INFO - 2019-01-10 21:20:33 --> Output Class Initialized
+INFO - 2019-01-10 21:20:33 --> Router Class Initialized
+INFO - 2019-01-10 21:20:33 --> Router Class Initialized
+DEBUG - 2019-01-10 21:20:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:20:33 --> Router Class Initialized
+INFO - 2019-01-10 21:20:33 --> Output Class Initialized
+INFO - 2019-01-10 21:20:33 --> Input Class Initialized
+INFO - 2019-01-10 21:20:33 --> Output Class Initialized
+INFO - 2019-01-10 21:20:33 --> Security Class Initialized
+INFO - 2019-01-10 21:20:33 --> Security Class Initialized
+DEBUG - 2019-01-10 21:20:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:20:33 --> Security Class Initialized
+INFO - 2019-01-10 21:20:33 --> Output Class Initialized
+INFO - 2019-01-10 21:20:33 --> Output Class Initialized
+INFO - 2019-01-10 21:20:34 --> Input Class Initialized
+INFO - 2019-01-10 21:20:34 --> Language Class Initialized
+DEBUG - 2019-01-10 21:20:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:20:34 --> Language Class Initialized
+INFO - 2019-01-10 21:20:34 --> Input Class Initialized
+INFO - 2019-01-10 21:20:34 --> Language Class Initialized
+ERROR - 2019-01-10 21:20:34 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:20:34 --> Security Class Initialized
+INFO - 2019-01-10 21:20:34 --> Security Class Initialized
+DEBUG - 2019-01-10 21:20:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:20:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:20:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-10 21:20:34 --> 404 Page Not Found: Images/item-cart-01.jpg
+INFO - 2019-01-10 21:20:34 --> Input Class Initialized
+ERROR - 2019-01-10 21:20:34 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:20:34 --> Config Class Initialized
+INFO - 2019-01-10 21:20:34 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:20:34 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:20:34 --> Input Class Initialized
+INFO - 2019-01-10 21:20:34 --> Input Class Initialized
+INFO - 2019-01-10 21:20:34 --> Config Class Initialized
+INFO - 2019-01-10 21:20:34 --> Config Class Initialized
+INFO - 2019-01-10 21:20:34 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:34 --> Hooks Class Initialized
+INFO - 2019-01-10 21:20:34 --> Hooks Class Initialized
+INFO - 2019-01-10 21:20:34 --> Language Class Initialized
+INFO - 2019-01-10 21:20:34 --> Language Class Initialized
+INFO - 2019-01-10 21:20:34 --> Language Class Initialized
+INFO - 2019-01-10 21:20:34 --> URI Class Initialized
+DEBUG - 2019-01-10 21:20:34 --> UTF-8 Support Enabled
+ERROR - 2019-01-10 21:20:34 --> 404 Page Not Found: Images/item-cart-03.jpg
+ERROR - 2019-01-10 21:20:34 --> 404 Page Not Found: Images/icons
+DEBUG - 2019-01-10 21:20:34 --> UTF-8 Support Enabled
+ERROR - 2019-01-10 21:20:34 --> 404 Page Not Found: Images/item-cart-02.jpg
+INFO - 2019-01-10 21:20:34 --> Router Class Initialized
+INFO - 2019-01-10 21:20:34 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:34 --> Config Class Initialized
+INFO - 2019-01-10 21:20:34 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:20:34 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:20:34 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:34 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:20:34 --> Output Class Initialized
+INFO - 2019-01-10 21:20:34 --> URI Class Initialized
+INFO - 2019-01-10 21:20:34 --> URI Class Initialized
+INFO - 2019-01-10 21:20:34 --> Security Class Initialized
+INFO - 2019-01-10 21:20:34 --> URI Class Initialized
+INFO - 2019-01-10 21:20:34 --> Router Class Initialized
+INFO - 2019-01-10 21:20:34 --> Router Class Initialized
+DEBUG - 2019-01-10 21:20:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:20:34 --> Router Class Initialized
+INFO - 2019-01-10 21:20:34 --> Input Class Initialized
+INFO - 2019-01-10 21:20:34 --> Output Class Initialized
+INFO - 2019-01-10 21:20:34 --> Output Class Initialized
+INFO - 2019-01-10 21:20:34 --> Output Class Initialized
+INFO - 2019-01-10 21:20:34 --> Security Class Initialized
+INFO - 2019-01-10 21:20:34 --> Language Class Initialized
+INFO - 2019-01-10 21:20:34 --> Security Class Initialized
+INFO - 2019-01-10 21:20:34 --> Security Class Initialized
+DEBUG - 2019-01-10 21:20:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:20:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:20:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:20:34 --> Input Class Initialized
+ERROR - 2019-01-10 21:20:34 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:20:34 --> Language Class Initialized
+INFO - 2019-01-10 21:20:34 --> Input Class Initialized
+INFO - 2019-01-10 21:20:34 --> Input Class Initialized
+INFO - 2019-01-10 21:20:34 --> Language Class Initialized
+ERROR - 2019-01-10 21:20:34 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:20:34 --> Language Class Initialized
+ERROR - 2019-01-10 21:20:34 --> 404 Page Not Found: Images/icons
+ERROR - 2019-01-10 21:20:34 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:23:53 --> Config Class Initialized
+INFO - 2019-01-10 21:23:53 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:23:53 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:23:53 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:23:53 --> URI Class Initialized
+INFO - 2019-01-10 21:23:53 --> Router Class Initialized
+INFO - 2019-01-10 21:23:53 --> Output Class Initialized
+INFO - 2019-01-10 21:23:53 --> Security Class Initialized
+DEBUG - 2019-01-10 21:23:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:23:53 --> Input Class Initialized
+INFO - 2019-01-10 21:23:53 --> Language Class Initialized
+INFO - 2019-01-10 21:23:54 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:23:54 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:23:54 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:23:54 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:23:54 --> Email Class Initialized
+DEBUG - 2019-01-10 21:23:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:23:54 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:23:54 --> Controller Class Initialized
+INFO - 2019-01-10 21:23:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-10 21:23:54 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:23:54 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:23:54 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:23:54 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:23:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:23:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:23:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:23:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:23:54 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:23:54 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:23:54 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:23:54 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:23:54 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:23:54 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:23:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:23:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:23:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:23:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:23:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:23:55 --> Final output sent to browser
+DEBUG - 2019-01-10 21:23:55 --> Total execution time: 1.6438
+INFO - 2019-01-10 21:23:55 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:23:55 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:23:55 --> Config Class Initialized
+INFO - 2019-01-10 21:23:55 --> Config Class Initialized
+INFO - 2019-01-10 21:23:55 --> Config Class Initialized
+INFO - 2019-01-10 21:23:55 --> Hooks Class Initialized
+INFO - 2019-01-10 21:23:55 --> Hooks Class Initialized
+INFO - 2019-01-10 21:23:55 --> Hooks Class Initialized
+INFO - 2019-01-10 21:23:55 --> Config Class Initialized
+INFO - 2019-01-10 21:23:55 --> Config Class Initialized
+INFO - 2019-01-10 21:23:55 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:23:55 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:23:55 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:23:55 --> URI Class Initialized
+INFO - 2019-01-10 21:23:55 --> Router Class Initialized
+INFO - 2019-01-10 21:23:55 --> Output Class Initialized
+DEBUG - 2019-01-10 21:23:55 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:23:55 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:23:56 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:23:56 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:23:56 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:23:56 --> Security Class Initialized
+DEBUG - 2019-01-10 21:23:56 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:23:56 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:23:56 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:23:56 --> URI Class Initialized
+DEBUG - 2019-01-10 21:23:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:23:56 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:23:56 --> URI Class Initialized
+INFO - 2019-01-10 21:23:56 --> URI Class Initialized
+INFO - 2019-01-10 21:23:56 --> Input Class Initialized
+INFO - 2019-01-10 21:23:56 --> Language Class Initialized
+ERROR - 2019-01-10 21:23:56 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:23:56 --> Router Class Initialized
+INFO - 2019-01-10 21:23:56 --> Output Class Initialized
+INFO - 2019-01-10 21:23:56 --> Security Class Initialized
+DEBUG - 2019-01-10 21:23:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:23:56 --> Router Class Initialized
+INFO - 2019-01-10 21:23:56 --> URI Class Initialized
+INFO - 2019-01-10 21:23:56 --> Input Class Initialized
+INFO - 2019-01-10 21:23:56 --> Language Class Initialized
+INFO - 2019-01-10 21:23:56 --> Router Class Initialized
+ERROR - 2019-01-10 21:23:56 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:23:56 --> Output Class Initialized
+INFO - 2019-01-10 21:23:56 --> Router Class Initialized
+INFO - 2019-01-10 21:23:56 --> Output Class Initialized
+INFO - 2019-01-10 21:23:56 --> Output Class Initialized
+INFO - 2019-01-10 21:23:56 --> Security Class Initialized
+DEBUG - 2019-01-10 21:23:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:23:56 --> Input Class Initialized
+INFO - 2019-01-10 21:23:56 --> Language Class Initialized
+ERROR - 2019-01-10 21:23:56 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:23:56 --> Security Class Initialized
+INFO - 2019-01-10 21:23:56 --> Security Class Initialized
+DEBUG - 2019-01-10 21:23:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:23:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:23:56 --> Input Class Initialized
+INFO - 2019-01-10 21:23:56 --> Input Class Initialized
+INFO - 2019-01-10 21:23:56 --> Language Class Initialized
+INFO - 2019-01-10 21:23:56 --> Language Class Initialized
+ERROR - 2019-01-10 21:23:56 --> 404 Page Not Found: Images/icons
+ERROR - 2019-01-10 21:23:56 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:23:58 --> Config Class Initialized
+INFO - 2019-01-10 21:23:59 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:23:59 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:23:59 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:23:59 --> URI Class Initialized
+INFO - 2019-01-10 21:23:59 --> Router Class Initialized
+INFO - 2019-01-10 21:23:59 --> Output Class Initialized
+INFO - 2019-01-10 21:23:59 --> Security Class Initialized
+DEBUG - 2019-01-10 21:23:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:23:59 --> Input Class Initialized
+INFO - 2019-01-10 21:23:59 --> Language Class Initialized
+INFO - 2019-01-10 21:23:59 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:23:59 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:23:59 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:23:59 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:23:59 --> Email Class Initialized
+DEBUG - 2019-01-10 21:23:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:23:59 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:23:59 --> Controller Class Initialized
+INFO - 2019-01-10 21:23:59 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-10 21:23:59 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:23:59 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:23:59 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:23:59 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:23:59 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:23:59 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:23:59 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:23:59 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:23:59 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:24:00 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:24:00 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:24:00 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:24:00 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:24:00 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:24:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:24:00 --> Final output sent to browser
+DEBUG - 2019-01-10 21:24:00 --> Total execution time: 1.5420
+INFO - 2019-01-10 21:24:00 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:24:00 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:24:06 --> Config Class Initialized
+INFO - 2019-01-10 21:24:06 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:24:06 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:24:06 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:24:06 --> URI Class Initialized
+INFO - 2019-01-10 21:24:06 --> Router Class Initialized
+INFO - 2019-01-10 21:24:06 --> Output Class Initialized
+INFO - 2019-01-10 21:24:06 --> Security Class Initialized
+DEBUG - 2019-01-10 21:24:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:24:06 --> Input Class Initialized
+INFO - 2019-01-10 21:24:06 --> Language Class Initialized
+ERROR - 2019-01-10 21:24:06 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-10 21:24:12 --> Config Class Initialized
+INFO - 2019-01-10 21:24:12 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:24:12 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:24:12 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:24:12 --> URI Class Initialized
+INFO - 2019-01-10 21:24:12 --> Router Class Initialized
+INFO - 2019-01-10 21:24:12 --> Output Class Initialized
+INFO - 2019-01-10 21:24:12 --> Security Class Initialized
+DEBUG - 2019-01-10 21:24:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:24:12 --> Input Class Initialized
+INFO - 2019-01-10 21:24:12 --> Language Class Initialized
+INFO - 2019-01-10 21:24:12 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:24:12 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:24:12 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:24:12 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:24:12 --> Email Class Initialized
+DEBUG - 2019-01-10 21:24:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:24:12 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:24:12 --> Controller Class Initialized
+INFO - 2019-01-10 21:24:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-10 21:24:12 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:24:12 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:24:12 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:24:13 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:24:13 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:24:13 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:24:13 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:24:13 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:24:13 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:24:13 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:24:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:24:13 --> Final output sent to browser
+INFO - 2019-01-10 21:24:13 --> Config Class Initialized
+DEBUG - 2019-01-10 21:24:13 --> Total execution time: 1.4406
+INFO - 2019-01-10 21:24:14 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:24:14 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:24:14 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:24:14 --> URI Class Initialized
+INFO - 2019-01-10 21:24:14 --> Router Class Initialized
+INFO - 2019-01-10 21:24:14 --> Output Class Initialized
+INFO - 2019-01-10 21:24:14 --> Security Class Initialized
+DEBUG - 2019-01-10 21:24:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:24:14 --> Input Class Initialized
+INFO - 2019-01-10 21:24:14 --> Language Class Initialized
+ERROR - 2019-01-10 21:24:14 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:24:14 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:24:14 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:24:14 --> Config Class Initialized
+INFO - 2019-01-10 21:24:14 --> Config Class Initialized
+INFO - 2019-01-10 21:24:14 --> Config Class Initialized
+INFO - 2019-01-10 21:24:14 --> Config Class Initialized
+INFO - 2019-01-10 21:24:14 --> Config Class Initialized
+INFO - 2019-01-10 21:24:14 --> Hooks Class Initialized
+INFO - 2019-01-10 21:24:14 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:24:15 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:24:15 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:24:15 --> URI Class Initialized
+INFO - 2019-01-10 21:24:15 --> Router Class Initialized
+INFO - 2019-01-10 21:24:15 --> Output Class Initialized
+INFO - 2019-01-10 21:24:15 --> Hooks Class Initialized
+INFO - 2019-01-10 21:24:15 --> Hooks Class Initialized
+INFO - 2019-01-10 21:24:15 --> Security Class Initialized
+DEBUG - 2019-01-10 21:24:15 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:24:15 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:24:15 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:24:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:24:15 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:24:15 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:24:15 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:24:15 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:24:15 --> Input Class Initialized
+INFO - 2019-01-10 21:24:15 --> URI Class Initialized
+INFO - 2019-01-10 21:24:15 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:24:15 --> URI Class Initialized
+INFO - 2019-01-10 21:24:15 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:24:15 --> Language Class Initialized
+INFO - 2019-01-10 21:24:15 --> URI Class Initialized
+INFO - 2019-01-10 21:24:15 --> Router Class Initialized
+INFO - 2019-01-10 21:24:15 --> URI Class Initialized
+INFO - 2019-01-10 21:24:15 --> Output Class Initialized
+ERROR - 2019-01-10 21:24:15 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-10 21:24:15 --> Router Class Initialized
+INFO - 2019-01-10 21:24:15 --> Security Class Initialized
+INFO - 2019-01-10 21:24:15 --> Router Class Initialized
+INFO - 2019-01-10 21:24:15 --> Router Class Initialized
+INFO - 2019-01-10 21:24:15 --> Output Class Initialized
+INFO - 2019-01-10 21:24:15 --> Output Class Initialized
+DEBUG - 2019-01-10 21:24:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:24:15 --> Output Class Initialized
+INFO - 2019-01-10 21:24:15 --> Input Class Initialized
+INFO - 2019-01-10 21:24:15 --> Security Class Initialized
+INFO - 2019-01-10 21:24:15 --> Security Class Initialized
+DEBUG - 2019-01-10 21:24:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:24:15 --> Input Class Initialized
+INFO - 2019-01-10 21:24:15 --> Security Class Initialized
+INFO - 2019-01-10 21:24:15 --> Language Class Initialized
+INFO - 2019-01-10 21:24:15 --> Language Class Initialized
+DEBUG - 2019-01-10 21:24:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-10 21:24:15 --> 404 Page Not Found: Images/icons
+DEBUG - 2019-01-10 21:24:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:24:15 --> Input Class Initialized
+INFO - 2019-01-10 21:24:16 --> Input Class Initialized
+INFO - 2019-01-10 21:24:16 --> Language Class Initialized
+ERROR - 2019-01-10 21:24:16 --> 404 Page Not Found: Images/icons
+ERROR - 2019-01-10 21:24:16 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:24:16 --> Language Class Initialized
+ERROR - 2019-01-10 21:24:16 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:24:35 --> Config Class Initialized
+INFO - 2019-01-10 21:24:35 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:24:35 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:24:36 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:24:36 --> URI Class Initialized
+INFO - 2019-01-10 21:24:36 --> Router Class Initialized
+INFO - 2019-01-10 21:24:36 --> Output Class Initialized
+INFO - 2019-01-10 21:24:36 --> Security Class Initialized
+DEBUG - 2019-01-10 21:24:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:24:36 --> Input Class Initialized
+INFO - 2019-01-10 21:24:36 --> Language Class Initialized
+ERROR - 2019-01-10 21:24:36 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:24:36 --> Config Class Initialized
+INFO - 2019-01-10 21:24:36 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:24:36 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:24:36 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:24:36 --> URI Class Initialized
+INFO - 2019-01-10 21:24:36 --> Router Class Initialized
+INFO - 2019-01-10 21:24:36 --> Output Class Initialized
+INFO - 2019-01-10 21:24:36 --> Security Class Initialized
+DEBUG - 2019-01-10 21:24:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:24:36 --> Input Class Initialized
+INFO - 2019-01-10 21:24:36 --> Language Class Initialized
+ERROR - 2019-01-10 21:24:36 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:28:10 --> Config Class Initialized
+INFO - 2019-01-10 21:28:10 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:28:10 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:28:10 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:28:10 --> URI Class Initialized
+INFO - 2019-01-10 21:28:10 --> Router Class Initialized
+INFO - 2019-01-10 21:28:10 --> Output Class Initialized
+INFO - 2019-01-10 21:28:10 --> Security Class Initialized
+DEBUG - 2019-01-10 21:28:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:28:10 --> Input Class Initialized
+INFO - 2019-01-10 21:28:10 --> Language Class Initialized
+INFO - 2019-01-10 21:28:10 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:28:11 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:28:11 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:28:11 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:28:11 --> Email Class Initialized
+DEBUG - 2019-01-10 21:28:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:28:11 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:28:11 --> Controller Class Initialized
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-10 21:28:11 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:28:11 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:28:11 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:28:11 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:28:11 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:28:11 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:28:11 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:28:11 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:28:11 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:28:11 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:28:11 --> Final output sent to browser
+DEBUG - 2019-01-10 21:28:12 --> Total execution time: 1.2835
+INFO - 2019-01-10 21:28:12 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:28:12 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:28:12 --> Config Class Initialized
+INFO - 2019-01-10 21:28:12 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:28:12 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:28:12 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:28:12 --> URI Class Initialized
+INFO - 2019-01-10 21:28:12 --> Router Class Initialized
+INFO - 2019-01-10 21:28:12 --> Output Class Initialized
+INFO - 2019-01-10 21:28:12 --> Security Class Initialized
+DEBUG - 2019-01-10 21:28:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:28:12 --> Input Class Initialized
+INFO - 2019-01-10 21:28:12 --> Language Class Initialized
+ERROR - 2019-01-10 21:28:12 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:28:12 --> Config Class Initialized
+INFO - 2019-01-10 21:28:12 --> Hooks Class Initialized
+INFO - 2019-01-10 21:28:12 --> Config Class Initialized
+INFO - 2019-01-10 21:28:12 --> Config Class Initialized
+INFO - 2019-01-10 21:28:12 --> Config Class Initialized
+INFO - 2019-01-10 21:28:12 --> Config Class Initialized
+INFO - 2019-01-10 21:28:12 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:28:13 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:28:13 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:28:13 --> URI Class Initialized
+INFO - 2019-01-10 21:28:13 --> Router Class Initialized
+INFO - 2019-01-10 21:28:13 --> Output Class Initialized
+INFO - 2019-01-10 21:28:13 --> Security Class Initialized
+INFO - 2019-01-10 21:28:13 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:28:13 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:28:13 --> Hooks Class Initialized
+INFO - 2019-01-10 21:28:13 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:28:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:28:13 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:28:13 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:28:13 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:28:13 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:28:13 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:28:13 --> Input Class Initialized
+INFO - 2019-01-10 21:28:13 --> URI Class Initialized
+INFO - 2019-01-10 21:28:13 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:28:13 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:28:13 --> URI Class Initialized
+INFO - 2019-01-10 21:28:13 --> Language Class Initialized
+INFO - 2019-01-10 21:28:13 --> URI Class Initialized
+ERROR - 2019-01-10 21:28:13 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:28:13 --> URI Class Initialized
+INFO - 2019-01-10 21:28:13 --> Router Class Initialized
+INFO - 2019-01-10 21:28:13 --> Router Class Initialized
+INFO - 2019-01-10 21:28:13 --> Router Class Initialized
+INFO - 2019-01-10 21:28:13 --> Output Class Initialized
+INFO - 2019-01-10 21:28:13 --> Output Class Initialized
+INFO - 2019-01-10 21:28:13 --> Output Class Initialized
+INFO - 2019-01-10 21:28:13 --> Router Class Initialized
+INFO - 2019-01-10 21:28:13 --> Security Class Initialized
+INFO - 2019-01-10 21:28:13 --> Security Class Initialized
+INFO - 2019-01-10 21:28:13 --> Security Class Initialized
+INFO - 2019-01-10 21:28:13 --> Output Class Initialized
+INFO - 2019-01-10 21:28:13 --> Security Class Initialized
+DEBUG - 2019-01-10 21:28:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:28:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:28:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:28:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:28:13 --> Input Class Initialized
+INFO - 2019-01-10 21:28:13 --> Input Class Initialized
+INFO - 2019-01-10 21:28:13 --> Input Class Initialized
+INFO - 2019-01-10 21:28:13 --> Language Class Initialized
+INFO - 2019-01-10 21:28:13 --> Input Class Initialized
+INFO - 2019-01-10 21:28:13 --> Language Class Initialized
+INFO - 2019-01-10 21:28:13 --> Language Class Initialized
+ERROR - 2019-01-10 21:28:13 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:28:13 --> Language Class Initialized
+ERROR - 2019-01-10 21:28:13 --> 404 Page Not Found: Assets/themes
+ERROR - 2019-01-10 21:28:13 --> 404 Page Not Found: Images/icons
+ERROR - 2019-01-10 21:28:13 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-10 21:28:47 --> Config Class Initialized
+INFO - 2019-01-10 21:28:47 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:28:47 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:28:47 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:28:47 --> URI Class Initialized
+INFO - 2019-01-10 21:28:47 --> Router Class Initialized
+INFO - 2019-01-10 21:28:47 --> Output Class Initialized
+INFO - 2019-01-10 21:28:47 --> Security Class Initialized
+DEBUG - 2019-01-10 21:28:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:28:47 --> Input Class Initialized
+INFO - 2019-01-10 21:28:47 --> Language Class Initialized
+INFO - 2019-01-10 21:28:47 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:28:47 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:28:47 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:28:47 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:28:47 --> Email Class Initialized
+DEBUG - 2019-01-10 21:28:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:28:47 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:28:47 --> Controller Class Initialized
+INFO - 2019-01-10 21:28:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-10 21:28:47 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:28:47 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:28:47 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:28:47 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:28:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:28:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:28:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:28:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:28:47 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:28:47 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:28:47 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:28:47 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:28:47 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:28:48 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:28:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:28:48 --> Final output sent to browser
+DEBUG - 2019-01-10 21:28:48 --> Total execution time: 1.3372
+INFO - 2019-01-10 21:28:48 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:28:48 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:28:48 --> Config Class Initialized
+INFO - 2019-01-10 21:28:48 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:28:49 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:28:49 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:28:49 --> URI Class Initialized
+INFO - 2019-01-10 21:28:49 --> Router Class Initialized
+INFO - 2019-01-10 21:28:49 --> Output Class Initialized
+INFO - 2019-01-10 21:28:49 --> Security Class Initialized
+DEBUG - 2019-01-10 21:28:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:28:49 --> Input Class Initialized
+INFO - 2019-01-10 21:28:49 --> Language Class Initialized
+ERROR - 2019-01-10 21:28:49 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-10 21:29:55 --> Config Class Initialized
+INFO - 2019-01-10 21:29:55 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:29:55 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:29:55 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:29:55 --> URI Class Initialized
+INFO - 2019-01-10 21:29:55 --> Router Class Initialized
+INFO - 2019-01-10 21:29:55 --> Output Class Initialized
+INFO - 2019-01-10 21:29:55 --> Security Class Initialized
+DEBUG - 2019-01-10 21:29:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:29:55 --> Input Class Initialized
+INFO - 2019-01-10 21:29:55 --> Language Class Initialized
+INFO - 2019-01-10 21:29:55 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:29:55 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:29:55 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:29:55 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:29:55 --> Email Class Initialized
+DEBUG - 2019-01-10 21:29:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:29:55 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:29:55 --> Controller Class Initialized
+INFO - 2019-01-10 21:29:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-10 21:29:55 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:29:56 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:29:56 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:29:56 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:29:56 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:29:56 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:29:56 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:29:56 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:29:56 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:29:56 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:29:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:29:56 --> Final output sent to browser
+DEBUG - 2019-01-10 21:29:56 --> Total execution time: 1.3100
+INFO - 2019-01-10 21:29:56 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:29:56 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:29:57 --> Config Class Initialized
+INFO - 2019-01-10 21:29:57 --> Config Class Initialized
+INFO - 2019-01-10 21:29:57 --> Hooks Class Initialized
+INFO - 2019-01-10 21:29:57 --> Hooks Class Initialized
+INFO - 2019-01-10 21:29:57 --> Config Class Initialized
+DEBUG - 2019-01-10 21:29:57 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:29:57 --> Hooks Class Initialized
+INFO - 2019-01-10 21:29:57 --> Config Class Initialized
+INFO - 2019-01-10 21:29:57 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:29:57 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:29:57 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:29:57 --> URI Class Initialized
+INFO - 2019-01-10 21:29:57 --> Router Class Initialized
+INFO - 2019-01-10 21:29:58 --> Output Class Initialized
+INFO - 2019-01-10 21:29:58 --> Security Class Initialized
+DEBUG - 2019-01-10 21:29:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:29:58 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:29:58 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:29:58 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:29:58 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:29:58 --> URI Class Initialized
+INFO - 2019-01-10 21:29:58 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:29:58 --> Input Class Initialized
+INFO - 2019-01-10 21:29:58 --> URI Class Initialized
+INFO - 2019-01-10 21:29:58 --> Router Class Initialized
+INFO - 2019-01-10 21:29:58 --> URI Class Initialized
+INFO - 2019-01-10 21:29:58 --> Language Class Initialized
+INFO - 2019-01-10 21:29:58 --> Router Class Initialized
+INFO - 2019-01-10 21:29:58 --> Router Class Initialized
+ERROR - 2019-01-10 21:29:58 --> 404 Page Not Found: Images/slide-03.jpg
+INFO - 2019-01-10 21:29:58 --> Output Class Initialized
+INFO - 2019-01-10 21:29:58 --> Output Class Initialized
+INFO - 2019-01-10 21:29:58 --> Security Class Initialized
+INFO - 2019-01-10 21:29:58 --> Output Class Initialized
+INFO - 2019-01-10 21:29:58 --> Security Class Initialized
+DEBUG - 2019-01-10 21:29:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:29:58 --> Security Class Initialized
+DEBUG - 2019-01-10 21:29:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:29:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:29:58 --> Input Class Initialized
+INFO - 2019-01-10 21:29:58 --> Input Class Initialized
+INFO - 2019-01-10 21:29:58 --> Input Class Initialized
+INFO - 2019-01-10 21:29:58 --> Language Class Initialized
+INFO - 2019-01-10 21:29:58 --> Language Class Initialized
+INFO - 2019-01-10 21:29:58 --> Language Class Initialized
+ERROR - 2019-01-10 21:29:58 --> 404 Page Not Found: Images/slide-01.jpg
+ERROR - 2019-01-10 21:29:58 --> 404 Page Not Found: Images/slide-02.jpg
+ERROR - 2019-01-10 21:29:58 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-10 21:31:11 --> Config Class Initialized
+INFO - 2019-01-10 21:31:11 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:31:11 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:31:12 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:31:12 --> URI Class Initialized
+INFO - 2019-01-10 21:31:12 --> Router Class Initialized
+INFO - 2019-01-10 21:31:12 --> Output Class Initialized
+INFO - 2019-01-10 21:31:12 --> Security Class Initialized
+DEBUG - 2019-01-10 21:31:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:31:12 --> Input Class Initialized
+INFO - 2019-01-10 21:31:12 --> Language Class Initialized
+INFO - 2019-01-10 21:31:12 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:31:12 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:31:12 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:31:12 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:31:12 --> Email Class Initialized
+DEBUG - 2019-01-10 21:31:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:31:12 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:31:12 --> Controller Class Initialized
+INFO - 2019-01-10 21:31:12 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:31:12 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:31:12 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:31:12 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:31:12 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:31:12 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:31:12 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:31:12 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:31:12 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:31:12 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:31:12 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:31:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:31:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:31:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:31:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:31:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:31:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:31:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:31:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:31:13 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:31:13 --> Final output sent to browser
+DEBUG - 2019-01-10 21:31:13 --> Total execution time: 1.2777
+INFO - 2019-01-10 21:31:13 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:31:13 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:31:13 --> Config Class Initialized
+INFO - 2019-01-10 21:31:13 --> Config Class Initialized
+INFO - 2019-01-10 21:31:13 --> Hooks Class Initialized
+INFO - 2019-01-10 21:31:13 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:31:13 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:31:13 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:31:13 --> URI Class Initialized
+INFO - 2019-01-10 21:31:14 --> Router Class Initialized
+INFO - 2019-01-10 21:31:14 --> Output Class Initialized
+INFO - 2019-01-10 21:31:14 --> Security Class Initialized
+DEBUG - 2019-01-10 21:31:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:31:14 --> Input Class Initialized
+INFO - 2019-01-10 21:31:14 --> Language Class Initialized
+ERROR - 2019-01-10 21:31:14 --> 404 Page Not Found: Images/slide-02.jpg
+INFO - 2019-01-10 21:31:14 --> Config Class Initialized
+INFO - 2019-01-10 21:31:14 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:31:14 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:31:14 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:31:14 --> Config Class Initialized
+DEBUG - 2019-01-10 21:31:14 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:31:14 --> URI Class Initialized
+INFO - 2019-01-10 21:31:14 --> Hooks Class Initialized
+INFO - 2019-01-10 21:31:14 --> Router Class Initialized
+INFO - 2019-01-10 21:31:14 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:31:14 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:31:14 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:31:14 --> Output Class Initialized
+INFO - 2019-01-10 21:31:14 --> URI Class Initialized
+INFO - 2019-01-10 21:31:14 --> Security Class Initialized
+INFO - 2019-01-10 21:31:14 --> URI Class Initialized
+INFO - 2019-01-10 21:31:14 --> Router Class Initialized
+DEBUG - 2019-01-10 21:31:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:31:14 --> Router Class Initialized
+INFO - 2019-01-10 21:31:14 --> Output Class Initialized
+INFO - 2019-01-10 21:31:14 --> Input Class Initialized
+INFO - 2019-01-10 21:31:14 --> Language Class Initialized
+INFO - 2019-01-10 21:31:14 --> Security Class Initialized
+ERROR - 2019-01-10 21:31:15 --> 404 Page Not Found: Images/slide-03.jpg
+INFO - 2019-01-10 21:31:15 --> Output Class Initialized
+INFO - 2019-01-10 21:31:15 --> Security Class Initialized
+DEBUG - 2019-01-10 21:31:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:31:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:31:15 --> Input Class Initialized
+INFO - 2019-01-10 21:31:15 --> Input Class Initialized
+INFO - 2019-01-10 21:31:15 --> Language Class Initialized
+INFO - 2019-01-10 21:31:15 --> Language Class Initialized
+ERROR - 2019-01-10 21:31:15 --> 404 Page Not Found: Images/slide-01.jpg
+ERROR - 2019-01-10 21:31:15 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-10 21:32:04 --> Config Class Initialized
+INFO - 2019-01-10 21:32:04 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:04 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:04 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:04 --> URI Class Initialized
+INFO - 2019-01-10 21:32:04 --> Router Class Initialized
+INFO - 2019-01-10 21:32:04 --> Output Class Initialized
+INFO - 2019-01-10 21:32:04 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:04 --> Input Class Initialized
+INFO - 2019-01-10 21:32:04 --> Language Class Initialized
+INFO - 2019-01-10 21:32:04 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:32:04 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:32:04 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:32:04 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:32:04 --> Email Class Initialized
+DEBUG - 2019-01-10 21:32:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:32:04 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:32:04 --> Controller Class Initialized
+INFO - 2019-01-10 21:32:04 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:32:04 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:32:05 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:32:05 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:32:05 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:32:05 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:32:05 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:32:05 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:32:05 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:32:05 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:32:05 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:32:05 --> Final output sent to browser
+DEBUG - 2019-01-10 21:32:05 --> Total execution time: 1.5620
+INFO - 2019-01-10 21:32:06 --> Config Class Initialized
+INFO - 2019-01-10 21:32:06 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:32:06 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:06 --> Config Class Initialized
+INFO - 2019-01-10 21:32:06 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:06 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:06 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:06 --> URI Class Initialized
+INFO - 2019-01-10 21:32:06 --> Router Class Initialized
+INFO - 2019-01-10 21:32:06 --> Output Class Initialized
+INFO - 2019-01-10 21:32:06 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:06 --> Input Class Initialized
+INFO - 2019-01-10 21:32:06 --> Language Class Initialized
+INFO - 2019-01-10 21:32:06 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:32:06 --> Config Class Initialized
+INFO - 2019-01-10 21:32:06 --> Config Class Initialized
+ERROR - 2019-01-10 21:32:06 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:32:06 --> Config Class Initialized
+DEBUG - 2019-01-10 21:32:06 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:06 --> Config Class Initialized
+INFO - 2019-01-10 21:32:06 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:06 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:06 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:06 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:07 --> Config Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:07 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:07 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:07 --> Router Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:07 --> Router Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:07 --> Router Class Initialized
+INFO - 2019-01-10 21:32:07 --> Output Class Initialized
+INFO - 2019-01-10 21:32:07 --> Output Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+INFO - 2019-01-10 21:32:07 --> Output Class Initialized
+INFO - 2019-01-10 21:32:07 --> Security Class Initialized
+INFO - 2019-01-10 21:32:07 --> Security Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+INFO - 2019-01-10 21:32:07 --> Router Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:07 --> Router Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:07 --> Input Class Initialized
+INFO - 2019-01-10 21:32:07 --> Router Class Initialized
+INFO - 2019-01-10 21:32:07 --> Security Class Initialized
+INFO - 2019-01-10 21:32:07 --> Output Class Initialized
+INFO - 2019-01-10 21:32:07 --> Output Class Initialized
+INFO - 2019-01-10 21:32:07 --> Input Class Initialized
+INFO - 2019-01-10 21:32:07 --> Output Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:07 --> Language Class Initialized
+INFO - 2019-01-10 21:32:07 --> Language Class Initialized
+INFO - 2019-01-10 21:32:07 --> Security Class Initialized
+INFO - 2019-01-10 21:32:07 --> Input Class Initialized
+INFO - 2019-01-10 21:32:07 --> Security Class Initialized
+ERROR - 2019-01-10 21:32:07 --> 404 Page Not Found: Vendor/jquery
+INFO - 2019-01-10 21:32:07 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:32:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:32:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-10 21:32:07 --> 404 Page Not Found: Images/slide-01.jpg
+INFO - 2019-01-10 21:32:07 --> Language Class Initialized
+INFO - 2019-01-10 21:32:07 --> Config Class Initialized
+INFO - 2019-01-10 21:32:07 --> Input Class Initialized
+ERROR - 2019-01-10 21:32:07 --> 404 Page Not Found: Vendor/select2
+INFO - 2019-01-10 21:32:07 --> Config Class Initialized
+INFO - 2019-01-10 21:32:07 --> Input Class Initialized
+INFO - 2019-01-10 21:32:07 --> Input Class Initialized
+INFO - 2019-01-10 21:32:07 --> Language Class Initialized
+INFO - 2019-01-10 21:32:07 --> Language Class Initialized
+INFO - 2019-01-10 21:32:07 --> Config Class Initialized
+INFO - 2019-01-10 21:32:07 --> Hooks Class Initialized
+ERROR - 2019-01-10 21:32:07 --> 404 Page Not Found: Vendor/daterangepicker
+DEBUG - 2019-01-10 21:32:07 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:07 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:07 --> Language Class Initialized
+INFO - 2019-01-10 21:32:07 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:07 --> Config Class Initialized
+ERROR - 2019-01-10 21:32:07 --> 404 Page Not Found: Vendor/animsition
+ERROR - 2019-01-10 21:32:07 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:32:07 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:07 --> Config Class Initialized
+INFO - 2019-01-10 21:32:07 --> Config Class Initialized
+INFO - 2019-01-10 21:32:07 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:07 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:32:07 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:07 --> Router Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+DEBUG - 2019-01-10 21:32:07 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:07 --> Router Class Initialized
+INFO - 2019-01-10 21:32:07 --> Router Class Initialized
+INFO - 2019-01-10 21:32:07 --> Output Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+INFO - 2019-01-10 21:32:07 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:07 --> Router Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+INFO - 2019-01-10 21:32:07 --> Security Class Initialized
+INFO - 2019-01-10 21:32:07 --> URI Class Initialized
+INFO - 2019-01-10 21:32:07 --> Output Class Initialized
+INFO - 2019-01-10 21:32:07 --> Output Class Initialized
+INFO - 2019-01-10 21:32:08 --> Output Class Initialized
+INFO - 2019-01-10 21:32:08 --> Router Class Initialized
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+INFO - 2019-01-10 21:32:08 --> Output Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+INFO - 2019-01-10 21:32:08 --> Router Class Initialized
+INFO - 2019-01-10 21:32:08 --> Input Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:08 --> Language Class Initialized
+INFO - 2019-01-10 21:32:08 --> Input Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+ERROR - 2019-01-10 21:32:08 --> 404 Page Not Found: Js/slick-custom.js
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:08 --> Output Class Initialized
+INFO - 2019-01-10 21:32:08 --> Input Class Initialized
+INFO - 2019-01-10 21:32:08 --> Input Class Initialized
+INFO - 2019-01-10 21:32:08 --> Language Class Initialized
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:08 --> Language Class Initialized
+INFO - 2019-01-10 21:32:08 --> Language Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:08 --> Config Class Initialized
+ERROR - 2019-01-10 21:32:08 --> 404 Page Not Found: Vendor/daterangepicker
+ERROR - 2019-01-10 21:32:08 --> 404 Page Not Found: Vendor/slick
+ERROR - 2019-01-10 21:32:08 --> 404 Page Not Found: Vendor/parallax100
+INFO - 2019-01-10 21:32:08 --> Input Class Initialized
+INFO - 2019-01-10 21:32:08 --> Input Class Initialized
+INFO - 2019-01-10 21:32:08 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:08 --> Config Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:08 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:08 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:08 --> Language Class Initialized
+INFO - 2019-01-10 21:32:08 --> Config Class Initialized
+INFO - 2019-01-10 21:32:08 --> Config Class Initialized
+INFO - 2019-01-10 21:32:08 --> Language Class Initialized
+INFO - 2019-01-10 21:32:08 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:08 --> URI Class Initialized
+INFO - 2019-01-10 21:32:08 --> Hooks Class Initialized
+ERROR - 2019-01-10 21:32:08 --> 404 Page Not Found: Vendor/MagnificPopup
+ERROR - 2019-01-10 21:32:08 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:32:08 --> URI Class Initialized
+INFO - 2019-01-10 21:32:08 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:08 --> Router Class Initialized
+INFO - 2019-01-10 21:32:08 --> Config Class Initialized
+INFO - 2019-01-10 21:32:08 --> Config Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:32:08 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:08 --> Router Class Initialized
+INFO - 2019-01-10 21:32:08 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:08 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:32:08 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:08 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:08 --> Output Class Initialized
+INFO - 2019-01-10 21:32:08 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:08 --> Output Class Initialized
+INFO - 2019-01-10 21:32:08 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:08 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:08 --> URI Class Initialized
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+INFO - 2019-01-10 21:32:08 --> URI Class Initialized
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+INFO - 2019-01-10 21:32:08 --> URI Class Initialized
+INFO - 2019-01-10 21:32:08 --> URI Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:08 --> Router Class Initialized
+INFO - 2019-01-10 21:32:08 --> Router Class Initialized
+INFO - 2019-01-10 21:32:08 --> Router Class Initialized
+INFO - 2019-01-10 21:32:08 --> Router Class Initialized
+INFO - 2019-01-10 21:32:08 --> Input Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:08 --> Language Class Initialized
+INFO - 2019-01-10 21:32:08 --> Output Class Initialized
+INFO - 2019-01-10 21:32:08 --> Output Class Initialized
+INFO - 2019-01-10 21:32:08 --> Output Class Initialized
+INFO - 2019-01-10 21:32:08 --> Output Class Initialized
+INFO - 2019-01-10 21:32:08 --> Input Class Initialized
+ERROR - 2019-01-10 21:32:08 --> 404 Page Not Found: Vendor/sweetalert
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+INFO - 2019-01-10 21:32:08 --> Language Class Initialized
+INFO - 2019-01-10 21:32:08 --> Config Class Initialized
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+INFO - 2019-01-10 21:32:08 --> Security Class Initialized
+INFO - 2019-01-10 21:32:08 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-10 21:32:08 --> 404 Page Not Found: Vendor/isotope
+DEBUG - 2019-01-10 21:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:09 --> Input Class Initialized
+INFO - 2019-01-10 21:32:09 --> Input Class Initialized
+INFO - 2019-01-10 21:32:09 --> Input Class Initialized
+INFO - 2019-01-10 21:32:09 --> Input Class Initialized
+DEBUG - 2019-01-10 21:32:09 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:09 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:09 --> Language Class Initialized
+INFO - 2019-01-10 21:32:09 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:09 --> 404 Page Not Found: Js/main.js
+INFO - 2019-01-10 21:32:09 --> URI Class Initialized
+INFO - 2019-01-10 21:32:09 --> Language Class Initialized
+INFO - 2019-01-10 21:32:09 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:09 --> 404 Page Not Found: Images/slide-02.jpg
+ERROR - 2019-01-10 21:32:09 --> 404 Page Not Found: Vendor/perfect-scrollbar
+ERROR - 2019-01-10 21:32:09 --> 404 Page Not Found: Images/slide-03.jpg
+INFO - 2019-01-10 21:32:09 --> Router Class Initialized
+INFO - 2019-01-10 21:32:09 --> Output Class Initialized
+INFO - 2019-01-10 21:32:09 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:09 --> Input Class Initialized
+INFO - 2019-01-10 21:32:09 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:09 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:32:09 --> Config Class Initialized
+INFO - 2019-01-10 21:32:09 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:09 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:09 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:09 --> URI Class Initialized
+INFO - 2019-01-10 21:32:09 --> Router Class Initialized
+INFO - 2019-01-10 21:32:09 --> Output Class Initialized
+INFO - 2019-01-10 21:32:09 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:09 --> Input Class Initialized
+INFO - 2019-01-10 21:32:09 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:09 --> 404 Page Not Found: Vendor/select2
+INFO - 2019-01-10 21:32:09 --> Config Class Initialized
+INFO - 2019-01-10 21:32:09 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:09 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:09 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:09 --> URI Class Initialized
+INFO - 2019-01-10 21:32:09 --> Router Class Initialized
+INFO - 2019-01-10 21:32:09 --> Output Class Initialized
+INFO - 2019-01-10 21:32:09 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:10 --> Input Class Initialized
+INFO - 2019-01-10 21:32:10 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:10 --> 404 Page Not Found: Vendor/daterangepicker
+INFO - 2019-01-10 21:32:10 --> Config Class Initialized
+INFO - 2019-01-10 21:32:10 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:10 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:10 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:10 --> URI Class Initialized
+INFO - 2019-01-10 21:32:10 --> Router Class Initialized
+INFO - 2019-01-10 21:32:10 --> Output Class Initialized
+INFO - 2019-01-10 21:32:10 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:10 --> Input Class Initialized
+INFO - 2019-01-10 21:32:10 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:10 --> 404 Page Not Found: Vendor/daterangepicker
+INFO - 2019-01-10 21:32:10 --> Config Class Initialized
+INFO - 2019-01-10 21:32:10 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:10 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:10 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:10 --> URI Class Initialized
+INFO - 2019-01-10 21:32:10 --> Router Class Initialized
+INFO - 2019-01-10 21:32:10 --> Output Class Initialized
+INFO - 2019-01-10 21:32:10 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:10 --> Input Class Initialized
+INFO - 2019-01-10 21:32:10 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:10 --> 404 Page Not Found: Vendor/slick
+INFO - 2019-01-10 21:32:10 --> Config Class Initialized
+INFO - 2019-01-10 21:32:10 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:10 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:10 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:10 --> URI Class Initialized
+INFO - 2019-01-10 21:32:10 --> Router Class Initialized
+INFO - 2019-01-10 21:32:10 --> Output Class Initialized
+INFO - 2019-01-10 21:32:10 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:10 --> Input Class Initialized
+INFO - 2019-01-10 21:32:10 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:11 --> 404 Page Not Found: Js/slick-custom.js
+INFO - 2019-01-10 21:32:11 --> Config Class Initialized
+INFO - 2019-01-10 21:32:11 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:11 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:11 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:11 --> URI Class Initialized
+INFO - 2019-01-10 21:32:11 --> Router Class Initialized
+INFO - 2019-01-10 21:32:11 --> Output Class Initialized
+INFO - 2019-01-10 21:32:11 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:11 --> Input Class Initialized
+INFO - 2019-01-10 21:32:11 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:11 --> 404 Page Not Found: Vendor/parallax100
+INFO - 2019-01-10 21:32:11 --> Config Class Initialized
+INFO - 2019-01-10 21:32:11 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:11 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:11 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:11 --> URI Class Initialized
+INFO - 2019-01-10 21:32:11 --> Router Class Initialized
+INFO - 2019-01-10 21:32:11 --> Output Class Initialized
+INFO - 2019-01-10 21:32:11 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:11 --> Input Class Initialized
+INFO - 2019-01-10 21:32:11 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:11 --> 404 Page Not Found: Vendor/MagnificPopup
+INFO - 2019-01-10 21:32:11 --> Config Class Initialized
+INFO - 2019-01-10 21:32:11 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:11 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:11 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:11 --> URI Class Initialized
+INFO - 2019-01-10 21:32:11 --> Router Class Initialized
+INFO - 2019-01-10 21:32:11 --> Output Class Initialized
+INFO - 2019-01-10 21:32:11 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:11 --> Input Class Initialized
+INFO - 2019-01-10 21:32:11 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:11 --> 404 Page Not Found: Vendor/isotope
+INFO - 2019-01-10 21:32:12 --> Config Class Initialized
+INFO - 2019-01-10 21:32:12 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:12 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:12 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:12 --> URI Class Initialized
+INFO - 2019-01-10 21:32:12 --> Router Class Initialized
+INFO - 2019-01-10 21:32:12 --> Output Class Initialized
+INFO - 2019-01-10 21:32:12 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:12 --> Input Class Initialized
+INFO - 2019-01-10 21:32:12 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:12 --> 404 Page Not Found: Vendor/sweetalert
+INFO - 2019-01-10 21:32:12 --> Config Class Initialized
+INFO - 2019-01-10 21:32:12 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:12 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:12 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:12 --> URI Class Initialized
+INFO - 2019-01-10 21:32:12 --> Router Class Initialized
+INFO - 2019-01-10 21:32:12 --> Output Class Initialized
+INFO - 2019-01-10 21:32:12 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:12 --> Input Class Initialized
+INFO - 2019-01-10 21:32:12 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:12 --> 404 Page Not Found: Vendor/perfect-scrollbar
+INFO - 2019-01-10 21:32:12 --> Config Class Initialized
+INFO - 2019-01-10 21:32:12 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:12 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:12 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:12 --> URI Class Initialized
+INFO - 2019-01-10 21:32:12 --> Router Class Initialized
+INFO - 2019-01-10 21:32:12 --> Output Class Initialized
+INFO - 2019-01-10 21:32:12 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:12 --> Input Class Initialized
+INFO - 2019-01-10 21:32:12 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:12 --> 404 Page Not Found: Js/main.js
+INFO - 2019-01-10 21:32:13 --> Config Class Initialized
+INFO - 2019-01-10 21:32:13 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:13 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:13 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:13 --> URI Class Initialized
+INFO - 2019-01-10 21:32:13 --> Router Class Initialized
+INFO - 2019-01-10 21:32:13 --> Output Class Initialized
+INFO - 2019-01-10 21:32:13 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:13 --> Input Class Initialized
+INFO - 2019-01-10 21:32:13 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:13 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-10 21:32:30 --> Config Class Initialized
+INFO - 2019-01-10 21:32:30 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:30 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:30 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:31 --> URI Class Initialized
+INFO - 2019-01-10 21:32:31 --> Router Class Initialized
+INFO - 2019-01-10 21:32:31 --> Output Class Initialized
+INFO - 2019-01-10 21:32:31 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:31 --> Input Class Initialized
+INFO - 2019-01-10 21:32:31 --> Language Class Initialized
+INFO - 2019-01-10 21:32:31 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:32:31 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:32:31 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:32:31 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:32:31 --> Email Class Initialized
+DEBUG - 2019-01-10 21:32:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:32:31 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:32:31 --> Controller Class Initialized
+INFO - 2019-01-10 21:32:31 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:32:31 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:32:31 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:32:31 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:32:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:32:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:32:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:32:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:32:31 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:32:31 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:32:31 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:32:31 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:32:31 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:32:31 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:32:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:32:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:32:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:32:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:32:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:32:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:32:32 --> Final output sent to browser
+DEBUG - 2019-01-10 21:32:32 --> Total execution time: 1.3732
+INFO - 2019-01-10 21:32:32 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:32:32 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:32:32 --> Config Class Initialized
+INFO - 2019-01-10 21:32:32 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:32 --> Config Class Initialized
+DEBUG - 2019-01-10 21:32:32 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:32 --> Config Class Initialized
+INFO - 2019-01-10 21:32:32 --> Config Class Initialized
+INFO - 2019-01-10 21:32:32 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:32 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:32:32 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:32 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:32 --> URI Class Initialized
+INFO - 2019-01-10 21:32:32 --> Router Class Initialized
+INFO - 2019-01-10 21:32:32 --> Config Class Initialized
+INFO - 2019-01-10 21:32:32 --> Config Class Initialized
+INFO - 2019-01-10 21:32:32 --> Output Class Initialized
+INFO - 2019-01-10 21:32:32 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:32 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:32 --> URI Class Initialized
+INFO - 2019-01-10 21:32:32 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:32 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:32 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:32:32 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:32:32 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:32 --> Security Class Initialized
+INFO - 2019-01-10 21:32:32 --> Router Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:33 --> Output Class Initialized
+INFO - 2019-01-10 21:32:33 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:33 --> Input Class Initialized
+INFO - 2019-01-10 21:32:33 --> URI Class Initialized
+INFO - 2019-01-10 21:32:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:33 --> Language Class Initialized
+INFO - 2019-01-10 21:32:33 --> Router Class Initialized
+INFO - 2019-01-10 21:32:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:33 --> URI Class Initialized
+INFO - 2019-01-10 21:32:33 --> Security Class Initialized
+INFO - 2019-01-10 21:32:33 --> URI Class Initialized
+ERROR - 2019-01-10 21:32:33 --> 404 Page Not Found: Vendor/jquery
+INFO - 2019-01-10 21:32:33 --> Router Class Initialized
+INFO - 2019-01-10 21:32:33 --> Output Class Initialized
+INFO - 2019-01-10 21:32:33 --> URI Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:33 --> Router Class Initialized
+INFO - 2019-01-10 21:32:33 --> Security Class Initialized
+INFO - 2019-01-10 21:32:33 --> Output Class Initialized
+INFO - 2019-01-10 21:32:33 --> Config Class Initialized
+INFO - 2019-01-10 21:32:33 --> Router Class Initialized
+INFO - 2019-01-10 21:32:33 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:32:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:33 --> Input Class Initialized
+INFO - 2019-01-10 21:32:33 --> Output Class Initialized
+INFO - 2019-01-10 21:32:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:33 --> Input Class Initialized
+INFO - 2019-01-10 21:32:33 --> Security Class Initialized
+INFO - 2019-01-10 21:32:33 --> Output Class Initialized
+INFO - 2019-01-10 21:32:33 --> URI Class Initialized
+INFO - 2019-01-10 21:32:33 --> Language Class Initialized
+INFO - 2019-01-10 21:32:33 --> Router Class Initialized
+ERROR - 2019-01-10 21:32:33 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:32:33 --> Security Class Initialized
+INFO - 2019-01-10 21:32:33 --> Language Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:33 --> Output Class Initialized
+INFO - 2019-01-10 21:32:33 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:33 --> Config Class Initialized
+INFO - 2019-01-10 21:32:33 --> Input Class Initialized
+INFO - 2019-01-10 21:32:33 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-10 21:32:33 --> 404 Page Not Found: Vendor/animsition
+INFO - 2019-01-10 21:32:33 --> Input Class Initialized
+INFO - 2019-01-10 21:32:33 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:33 --> Input Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:33 --> Config Class Initialized
+INFO - 2019-01-10 21:32:33 --> Language Class Initialized
+INFO - 2019-01-10 21:32:33 --> Language Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:33 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:33 --> 404 Page Not Found: Vendor/daterangepicker
+INFO - 2019-01-10 21:32:33 --> Input Class Initialized
+ERROR - 2019-01-10 21:32:33 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:32:33 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:33 --> Language Class Initialized
+INFO - 2019-01-10 21:32:33 --> Config Class Initialized
+INFO - 2019-01-10 21:32:33 --> Config Class Initialized
+INFO - 2019-01-10 21:32:33 --> Utf8 Class Initialized
+ERROR - 2019-01-10 21:32:33 --> 404 Page Not Found: Vendor/select2
+DEBUG - 2019-01-10 21:32:33 --> UTF-8 Support Enabled
+ERROR - 2019-01-10 21:32:33 --> 404 Page Not Found: Images/slide-01.jpg
+INFO - 2019-01-10 21:32:33 --> Config Class Initialized
+INFO - 2019-01-10 21:32:33 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:33 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:33 --> URI Class Initialized
+INFO - 2019-01-10 21:32:33 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:33 --> Config Class Initialized
+INFO - 2019-01-10 21:32:33 --> Router Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:33 --> URI Class Initialized
+INFO - 2019-01-10 21:32:33 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:33 --> Output Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:33 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:33 --> Router Class Initialized
+INFO - 2019-01-10 21:32:33 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:33 --> URI Class Initialized
+INFO - 2019-01-10 21:32:33 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:32:33 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:33 --> URI Class Initialized
+INFO - 2019-01-10 21:32:33 --> Router Class Initialized
+INFO - 2019-01-10 21:32:33 --> Security Class Initialized
+INFO - 2019-01-10 21:32:34 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+INFO - 2019-01-10 21:32:34 --> URI Class Initialized
+INFO - 2019-01-10 21:32:34 --> Router Class Initialized
+INFO - 2019-01-10 21:32:34 --> URI Class Initialized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+INFO - 2019-01-10 21:32:34 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:34 --> Router Class Initialized
+INFO - 2019-01-10 21:32:34 --> Router Class Initialized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:34 --> Input Class Initialized
+INFO - 2019-01-10 21:32:34 --> Security Class Initialized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+INFO - 2019-01-10 21:32:34 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:34 --> Language Class Initialized
+INFO - 2019-01-10 21:32:34 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:34 --> Input Class Initialized
+INFO - 2019-01-10 21:32:34 --> Security Class Initialized
+INFO - 2019-01-10 21:32:34 --> Input Class Initialized
+INFO - 2019-01-10 21:32:34 --> Input Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:34 --> Language Class Initialized
+INFO - 2019-01-10 21:32:34 --> Input Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-10 21:32:34 --> 404 Page Not Found: Images/slide-03.jpg
+ERROR - 2019-01-10 21:32:34 --> 404 Page Not Found: Images/slide-02.jpg
+INFO - 2019-01-10 21:32:34 --> Language Class Initialized
+INFO - 2019-01-10 21:32:34 --> Language Class Initialized
+INFO - 2019-01-10 21:32:34 --> Language Class Initialized
+INFO - 2019-01-10 21:32:34 --> Config Class Initialized
+ERROR - 2019-01-10 21:32:34 --> 404 Page Not Found: Js/slick-custom.js
+INFO - 2019-01-10 21:32:34 --> Config Class Initialized
+ERROR - 2019-01-10 21:32:34 --> 404 Page Not Found: Vendor/daterangepicker
+INFO - 2019-01-10 21:32:34 --> Input Class Initialized
+ERROR - 2019-01-10 21:32:34 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:32:34 --> Config Class Initialized
+INFO - 2019-01-10 21:32:34 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:34 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:34 --> Config Class Initialized
+INFO - 2019-01-10 21:32:34 --> Config Class Initialized
+INFO - 2019-01-10 21:32:34 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:34 --> Language Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:34 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:34 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:34 --> Utf8 Class Initialized
+ERROR - 2019-01-10 21:32:34 --> 404 Page Not Found: Vendor/slick
+DEBUG - 2019-01-10 21:32:34 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:34 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:32:34 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:34 --> Config Class Initialized
+INFO - 2019-01-10 21:32:34 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:34 --> URI Class Initialized
+INFO - 2019-01-10 21:32:34 --> URI Class Initialized
+INFO - 2019-01-10 21:32:34 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:34 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:34 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:34 --> Router Class Initialized
+INFO - 2019-01-10 21:32:34 --> URI Class Initialized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:34 --> URI Class Initialized
+INFO - 2019-01-10 21:32:34 --> Router Class Initialized
+INFO - 2019-01-10 21:32:34 --> URI Class Initialized
+INFO - 2019-01-10 21:32:34 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:34 --> Router Class Initialized
+INFO - 2019-01-10 21:32:34 --> Router Class Initialized
+INFO - 2019-01-10 21:32:34 --> Security Class Initialized
+INFO - 2019-01-10 21:32:34 --> Router Class Initialized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+INFO - 2019-01-10 21:32:34 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+INFO - 2019-01-10 21:32:34 --> URI Class Initialized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:34 --> Security Class Initialized
+INFO - 2019-01-10 21:32:34 --> Security Class Initialized
+INFO - 2019-01-10 21:32:34 --> Security Class Initialized
+INFO - 2019-01-10 21:32:34 --> Input Class Initialized
+INFO - 2019-01-10 21:32:34 --> Router Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:34 --> Language Class Initialized
+INFO - 2019-01-10 21:32:34 --> Input Class Initialized
+INFO - 2019-01-10 21:32:34 --> Output Class Initialized
+INFO - 2019-01-10 21:32:34 --> Input Class Initialized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:32:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:34 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:34 --> 404 Page Not Found: Vendor/isotope
+ERROR - 2019-01-10 21:32:35 --> 404 Page Not Found: Vendor/parallax100
+INFO - 2019-01-10 21:32:35 --> Input Class Initialized
+INFO - 2019-01-10 21:32:35 --> Input Class Initialized
+INFO - 2019-01-10 21:32:35 --> Security Class Initialized
+INFO - 2019-01-10 21:32:35 --> Config Class Initialized
+INFO - 2019-01-10 21:32:35 --> Language Class Initialized
+INFO - 2019-01-10 21:32:35 --> Language Class Initialized
+INFO - 2019-01-10 21:32:35 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:35 --> Language Class Initialized
+DEBUG - 2019-01-10 21:32:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:32:35 --> UTF-8 Support Enabled
+ERROR - 2019-01-10 21:32:35 --> 404 Page Not Found: Vendor/perfect-scrollbar
+INFO - 2019-01-10 21:32:35 --> Utf8 Class Initialized
+ERROR - 2019-01-10 21:32:35 --> 404 Page Not Found: Vendor/MagnificPopup
+INFO - 2019-01-10 21:32:35 --> URI Class Initialized
+ERROR - 2019-01-10 21:32:35 --> 404 Page Not Found: Vendor/sweetalert
+INFO - 2019-01-10 21:32:35 --> Input Class Initialized
+INFO - 2019-01-10 21:32:35 --> Router Class Initialized
+INFO - 2019-01-10 21:32:35 --> Language Class Initialized
+INFO - 2019-01-10 21:32:35 --> Output Class Initialized
+ERROR - 2019-01-10 21:32:35 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:32:35 --> Security Class Initialized
+INFO - 2019-01-10 21:32:35 --> Config Class Initialized
+DEBUG - 2019-01-10 21:32:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:35 --> Hooks Class Initialized
+INFO - 2019-01-10 21:32:35 --> Input Class Initialized
+INFO - 2019-01-10 21:32:35 --> Language Class Initialized
+DEBUG - 2019-01-10 21:32:35 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:35 --> Utf8 Class Initialized
+ERROR - 2019-01-10 21:32:35 --> 404 Page Not Found: Js/main.js
+INFO - 2019-01-10 21:32:35 --> URI Class Initialized
+INFO - 2019-01-10 21:32:35 --> Router Class Initialized
+INFO - 2019-01-10 21:32:35 --> Output Class Initialized
+INFO - 2019-01-10 21:32:35 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:35 --> Input Class Initialized
+INFO - 2019-01-10 21:32:35 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:35 --> 404 Page Not Found: Vendor/select2
+INFO - 2019-01-10 21:32:35 --> Config Class Initialized
+INFO - 2019-01-10 21:32:35 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:35 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:35 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:35 --> URI Class Initialized
+INFO - 2019-01-10 21:32:35 --> Router Class Initialized
+INFO - 2019-01-10 21:32:35 --> Output Class Initialized
+INFO - 2019-01-10 21:32:35 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:35 --> Input Class Initialized
+INFO - 2019-01-10 21:32:36 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:36 --> 404 Page Not Found: Vendor/daterangepicker
+INFO - 2019-01-10 21:32:36 --> Config Class Initialized
+INFO - 2019-01-10 21:32:36 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:36 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:36 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:36 --> URI Class Initialized
+INFO - 2019-01-10 21:32:36 --> Router Class Initialized
+INFO - 2019-01-10 21:32:36 --> Output Class Initialized
+INFO - 2019-01-10 21:32:36 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:36 --> Input Class Initialized
+INFO - 2019-01-10 21:32:36 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:36 --> 404 Page Not Found: Vendor/daterangepicker
+INFO - 2019-01-10 21:32:36 --> Config Class Initialized
+INFO - 2019-01-10 21:32:36 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:36 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:36 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:36 --> URI Class Initialized
+INFO - 2019-01-10 21:32:36 --> Router Class Initialized
+INFO - 2019-01-10 21:32:36 --> Output Class Initialized
+INFO - 2019-01-10 21:32:36 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:36 --> Input Class Initialized
+INFO - 2019-01-10 21:32:36 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:36 --> 404 Page Not Found: Vendor/slick
+INFO - 2019-01-10 21:32:36 --> Config Class Initialized
+INFO - 2019-01-10 21:32:36 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:36 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:36 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:36 --> URI Class Initialized
+INFO - 2019-01-10 21:32:36 --> Router Class Initialized
+INFO - 2019-01-10 21:32:37 --> Output Class Initialized
+INFO - 2019-01-10 21:32:37 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:37 --> Input Class Initialized
+INFO - 2019-01-10 21:32:37 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:37 --> 404 Page Not Found: Js/slick-custom.js
+INFO - 2019-01-10 21:32:37 --> Config Class Initialized
+INFO - 2019-01-10 21:32:37 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:37 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:37 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:37 --> URI Class Initialized
+INFO - 2019-01-10 21:32:37 --> Router Class Initialized
+INFO - 2019-01-10 21:32:37 --> Output Class Initialized
+INFO - 2019-01-10 21:32:37 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:37 --> Input Class Initialized
+INFO - 2019-01-10 21:32:37 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:37 --> 404 Page Not Found: Vendor/parallax100
+INFO - 2019-01-10 21:32:37 --> Config Class Initialized
+INFO - 2019-01-10 21:32:37 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:37 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:38 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:38 --> URI Class Initialized
+INFO - 2019-01-10 21:32:38 --> Router Class Initialized
+INFO - 2019-01-10 21:32:38 --> Output Class Initialized
+INFO - 2019-01-10 21:32:38 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:38 --> Input Class Initialized
+INFO - 2019-01-10 21:32:38 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:38 --> 404 Page Not Found: Vendor/MagnificPopup
+INFO - 2019-01-10 21:32:38 --> Config Class Initialized
+INFO - 2019-01-10 21:32:38 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:38 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:38 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:38 --> URI Class Initialized
+INFO - 2019-01-10 21:32:38 --> Router Class Initialized
+INFO - 2019-01-10 21:32:38 --> Output Class Initialized
+INFO - 2019-01-10 21:32:38 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:38 --> Input Class Initialized
+INFO - 2019-01-10 21:32:38 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:38 --> 404 Page Not Found: Vendor/isotope
+INFO - 2019-01-10 21:32:38 --> Config Class Initialized
+INFO - 2019-01-10 21:32:38 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:38 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:38 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:38 --> URI Class Initialized
+INFO - 2019-01-10 21:32:38 --> Router Class Initialized
+INFO - 2019-01-10 21:32:38 --> Output Class Initialized
+INFO - 2019-01-10 21:32:38 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:38 --> Input Class Initialized
+INFO - 2019-01-10 21:32:38 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:39 --> 404 Page Not Found: Vendor/sweetalert
+INFO - 2019-01-10 21:32:39 --> Config Class Initialized
+INFO - 2019-01-10 21:32:39 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:39 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:39 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:39 --> URI Class Initialized
+INFO - 2019-01-10 21:32:39 --> Router Class Initialized
+INFO - 2019-01-10 21:32:39 --> Output Class Initialized
+INFO - 2019-01-10 21:32:39 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:39 --> Input Class Initialized
+INFO - 2019-01-10 21:32:39 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:39 --> 404 Page Not Found: Vendor/perfect-scrollbar
+INFO - 2019-01-10 21:32:39 --> Config Class Initialized
+INFO - 2019-01-10 21:32:39 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:32:39 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:32:39 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:32:39 --> URI Class Initialized
+INFO - 2019-01-10 21:32:39 --> Router Class Initialized
+INFO - 2019-01-10 21:32:39 --> Output Class Initialized
+INFO - 2019-01-10 21:32:39 --> Security Class Initialized
+DEBUG - 2019-01-10 21:32:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:32:39 --> Input Class Initialized
+INFO - 2019-01-10 21:32:40 --> Language Class Initialized
+ERROR - 2019-01-10 21:32:40 --> 404 Page Not Found: Js/main.js
+INFO - 2019-01-10 21:34:20 --> Config Class Initialized
+INFO - 2019-01-10 21:34:20 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:20 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:21 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:21 --> URI Class Initialized
+INFO - 2019-01-10 21:34:21 --> Router Class Initialized
+INFO - 2019-01-10 21:34:21 --> Output Class Initialized
+INFO - 2019-01-10 21:34:21 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:21 --> Input Class Initialized
+INFO - 2019-01-10 21:34:21 --> Language Class Initialized
+INFO - 2019-01-10 21:34:21 --> Config Class Initialized
+INFO - 2019-01-10 21:34:21 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:21 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:21 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:21 --> URI Class Initialized
+INFO - 2019-01-10 21:34:21 --> Router Class Initialized
+INFO - 2019-01-10 21:34:21 --> Output Class Initialized
+INFO - 2019-01-10 21:34:21 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:21 --> Input Class Initialized
+ERROR - 2019-01-10 21:34:21 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-10 21:34:21 --> Language Class Initialized
+INFO - 2019-01-10 21:34:21 --> Loader Class Initialized
+DEBUG - 2019-01-10 21:34:21 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-10 21:34:22 --> Helper loaded: storehours_helper
+INFO - 2019-01-10 21:34:22 --> Helper loaded: url_helper
+INFO - 2019-01-10 21:34:22 --> Email Class Initialized
+DEBUG - 2019-01-10 21:34:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-10 21:34:22 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-10 21:34:22 --> Controller Class Initialized
+INFO - 2019-01-10 21:34:22 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:34:22 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-10 21:34:22 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-10 21:34:22 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-10 21:34:22 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-10 21:34:22 --> Helper loaded: utility_helper
+INFO - 2019-01-10 21:34:22 --> Helper loaded: language_helper
+INFO - 2019-01-10 21:34:22 --> Helper loaded: text_helper
+INFO - 2019-01-10 21:34:22 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-10 21:34:22 --> DevelBar Class Initialized !
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-10 21:34:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-10 21:34:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-10 21:34:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-10 21:34:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-10 21:34:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-10 21:34:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-10 21:34:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-10 21:34:23 --> Final output sent to browser
+INFO - 2019-01-10 21:34:23 --> Config Class Initialized
+DEBUG - 2019-01-10 21:34:23 --> Total execution time: 1.7681
+INFO - 2019-01-10 21:34:23 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:23 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:23 --> Config Class Initialized
+INFO - 2019-01-10 21:34:23 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:23 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:23 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:23 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:23 --> URI Class Initialized
+INFO - 2019-01-10 21:34:23 --> Router Class Initialized
+INFO - 2019-01-10 21:34:23 --> Output Class Initialized
+INFO - 2019-01-10 21:34:23 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:23 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:34:23 --> Config Class Initialized
+INFO - 2019-01-10 21:34:23 --> Config Class Initialized
+INFO - 2019-01-10 21:34:23 --> Config Class Initialized
+INFO - 2019-01-10 21:34:23 --> URI Class Initialized
+INFO - 2019-01-10 21:34:23 --> Input Class Initialized
+INFO - 2019-01-10 21:34:23 --> Language Class Initialized
+INFO - 2019-01-10 21:34:24 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-10 21:34:24 --> Config Class Initialized
+INFO - 2019-01-10 21:34:24 --> Hooks Class Initialized
+ERROR - 2019-01-10 21:34:24 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:34:24 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:24 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:24 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:24 --> Router Class Initialized
+INFO - 2019-01-10 21:34:24 --> Output Class Initialized
+DEBUG - 2019-01-10 21:34:24 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:24 --> Config Class Initialized
+DEBUG - 2019-01-10 21:34:24 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:34:24 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:34:24 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:24 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:24 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:24 --> Security Class Initialized
+INFO - 2019-01-10 21:34:24 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:24 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:24 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:34:24 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:24 --> URI Class Initialized
+INFO - 2019-01-10 21:34:24 --> URI Class Initialized
+DEBUG - 2019-01-10 21:34:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:24 --> Router Class Initialized
+INFO - 2019-01-10 21:34:24 --> URI Class Initialized
+INFO - 2019-01-10 21:34:24 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:24 --> URI Class Initialized
+INFO - 2019-01-10 21:34:24 --> Output Class Initialized
+INFO - 2019-01-10 21:34:24 --> Input Class Initialized
+INFO - 2019-01-10 21:34:24 --> Router Class Initialized
+INFO - 2019-01-10 21:34:24 --> Router Class Initialized
+INFO - 2019-01-10 21:34:24 --> URI Class Initialized
+INFO - 2019-01-10 21:34:24 --> Router Class Initialized
+INFO - 2019-01-10 21:34:24 --> Output Class Initialized
+INFO - 2019-01-10 21:34:24 --> Language Class Initialized
+INFO - 2019-01-10 21:34:24 --> Security Class Initialized
+INFO - 2019-01-10 21:34:24 --> Output Class Initialized
+INFO - 2019-01-10 21:34:24 --> Output Class Initialized
+INFO - 2019-01-10 21:34:24 --> Security Class Initialized
+INFO - 2019-01-10 21:34:24 --> Security Class Initialized
+INFO - 2019-01-10 21:34:24 --> Router Class Initialized
+INFO - 2019-01-10 21:34:24 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:34:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:24 --> Input Class Initialized
+DEBUG - 2019-01-10 21:34:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:24 --> Output Class Initialized
+ERROR - 2019-01-10 21:34:24 --> 404 Page Not Found: Vendor/jquery
+INFO - 2019-01-10 21:34:24 --> Input Class Initialized
+DEBUG - 2019-01-10 21:34:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:24 --> Input Class Initialized
+INFO - 2019-01-10 21:34:24 --> Config Class Initialized
+INFO - 2019-01-10 21:34:24 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:24 --> Language Class Initialized
+INFO - 2019-01-10 21:34:24 --> Input Class Initialized
+INFO - 2019-01-10 21:34:24 --> Security Class Initialized
+INFO - 2019-01-10 21:34:24 --> Language Class Initialized
+INFO - 2019-01-10 21:34:25 --> Language Class Initialized
+DEBUG - 2019-01-10 21:34:25 --> UTF-8 Support Enabled
+ERROR - 2019-01-10 21:34:25 --> 404 Page Not Found: Vendor/select2
+ERROR - 2019-01-10 21:34:25 --> 404 Page Not Found: Vendor/animsition
+DEBUG - 2019-01-10 21:34:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:25 --> Language Class Initialized
+INFO - 2019-01-10 21:34:25 --> Utf8 Class Initialized
+ERROR - 2019-01-10 21:34:25 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:34:25 --> Config Class Initialized
+INFO - 2019-01-10 21:34:25 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:25 --> Config Class Initialized
+INFO - 2019-01-10 21:34:25 --> URI Class Initialized
+INFO - 2019-01-10 21:34:25 --> Input Class Initialized
+ERROR - 2019-01-10 21:34:25 --> 404 Page Not Found: Images/slide-01.jpg
+DEBUG - 2019-01-10 21:34:25 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:25 --> Config Class Initialized
+INFO - 2019-01-10 21:34:25 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:25 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:25 --> Config Class Initialized
+INFO - 2019-01-10 21:34:25 --> Language Class Initialized
+INFO - 2019-01-10 21:34:25 --> Router Class Initialized
+INFO - 2019-01-10 21:34:25 --> URI Class Initialized
+ERROR - 2019-01-10 21:34:25 --> 404 Page Not Found: Images/slide-03.jpg
+INFO - 2019-01-10 21:34:25 --> Output Class Initialized
+DEBUG - 2019-01-10 21:34:25 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:25 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:25 --> Router Class Initialized
+INFO - 2019-01-10 21:34:25 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:25 --> Output Class Initialized
+INFO - 2019-01-10 21:34:25 --> Config Class Initialized
+DEBUG - 2019-01-10 21:34:25 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:25 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:25 --> Security Class Initialized
+INFO - 2019-01-10 21:34:25 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:25 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:25 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:25 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:25 --> URI Class Initialized
+INFO - 2019-01-10 21:34:25 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:25 --> URI Class Initialized
+INFO - 2019-01-10 21:34:25 --> Router Class Initialized
+INFO - 2019-01-10 21:34:25 --> URI Class Initialized
+DEBUG - 2019-01-10 21:34:25 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:25 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:25 --> URI Class Initialized
+INFO - 2019-01-10 21:34:25 --> Router Class Initialized
+INFO - 2019-01-10 21:34:25 --> Output Class Initialized
+INFO - 2019-01-10 21:34:25 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:25 --> Input Class Initialized
+INFO - 2019-01-10 21:34:25 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:25 --> 404 Page Not Found: Js/slick-custom.js
+INFO - 2019-01-10 21:34:26 --> Output Class Initialized
+INFO - 2019-01-10 21:34:26 --> Input Class Initialized
+DEBUG - 2019-01-10 21:34:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:26 --> Router Class Initialized
+INFO - 2019-01-10 21:34:26 --> Router Class Initialized
+INFO - 2019-01-10 21:34:26 --> Config Class Initialized
+INFO - 2019-01-10 21:34:26 --> Language Class Initialized
+INFO - 2019-01-10 21:34:26 --> Security Class Initialized
+INFO - 2019-01-10 21:34:26 --> Hooks Class Initialized
+ERROR - 2019-01-10 21:34:26 --> 404 Page Not Found: Vendor/daterangepicker
+INFO - 2019-01-10 21:34:26 --> Input Class Initialized
+DEBUG - 2019-01-10 21:34:26 --> UTF-8 Support Enabled
+DEBUG - 2019-01-10 21:34:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:26 --> Output Class Initialized
+INFO - 2019-01-10 21:34:26 --> Language Class Initialized
+INFO - 2019-01-10 21:34:26 --> Config Class Initialized
+INFO - 2019-01-10 21:34:26 --> Output Class Initialized
+INFO - 2019-01-10 21:34:26 --> Input Class Initialized
+INFO - 2019-01-10 21:34:26 --> Security Class Initialized
+INFO - 2019-01-10 21:34:26 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:26 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:26 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:26 --> Utf8 Class Initialized
+DEBUG - 2019-01-10 21:34:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:26 --> Input Class Initialized
+INFO - 2019-01-10 21:34:26 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:26 --> 404 Page Not Found: Vendor/slick
+INFO - 2019-01-10 21:34:26 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:26 --> 404 Page Not Found: Vendor/daterangepicker
+INFO - 2019-01-10 21:34:26 --> URI Class Initialized
+ERROR - 2019-01-10 21:34:26 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-10 21:34:26 --> Config Class Initialized
+INFO - 2019-01-10 21:34:26 --> Config Class Initialized
+INFO - 2019-01-10 21:34:26 --> Security Class Initialized
+INFO - 2019-01-10 21:34:26 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:26 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:26 --> URI Class Initialized
+INFO - 2019-01-10 21:34:26 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:26 --> Config Class Initialized
+INFO - 2019-01-10 21:34:26 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:26 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:26 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:26 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:26 --> URI Class Initialized
+INFO - 2019-01-10 21:34:26 --> Router Class Initialized
+INFO - 2019-01-10 21:34:26 --> Router Class Initialized
+DEBUG - 2019-01-10 21:34:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-10 21:34:27 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:27 --> URI Class Initialized
+INFO - 2019-01-10 21:34:27 --> Input Class Initialized
+INFO - 2019-01-10 21:34:27 --> Output Class Initialized
+INFO - 2019-01-10 21:34:27 --> Output Class Initialized
+INFO - 2019-01-10 21:34:27 --> Router Class Initialized
+INFO - 2019-01-10 21:34:27 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:27 --> URI Class Initialized
+INFO - 2019-01-10 21:34:27 --> Router Class Initialized
+INFO - 2019-01-10 21:34:27 --> Output Class Initialized
+INFO - 2019-01-10 21:34:27 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:27 --> Input Class Initialized
+INFO - 2019-01-10 21:34:27 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:27 --> 404 Page Not Found: Vendor/isotope
+INFO - 2019-01-10 21:34:27 --> Output Class Initialized
+INFO - 2019-01-10 21:34:27 --> Security Class Initialized
+INFO - 2019-01-10 21:34:27 --> Router Class Initialized
+INFO - 2019-01-10 21:34:27 --> Language Class Initialized
+INFO - 2019-01-10 21:34:27 --> Security Class Initialized
+INFO - 2019-01-10 21:34:27 --> Config Class Initialized
+DEBUG - 2019-01-10 21:34:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:27 --> Input Class Initialized
+INFO - 2019-01-10 21:34:27 --> Language Class Initialized
+INFO - 2019-01-10 21:34:27 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:27 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-10 21:34:27 --> 404 Page Not Found: Vendor/bootstrap
+INFO - 2019-01-10 21:34:27 --> Output Class Initialized
+INFO - 2019-01-10 21:34:27 --> Security Class Initialized
+ERROR - 2019-01-10 21:34:27 --> 404 Page Not Found: Vendor/perfect-scrollbar
+DEBUG - 2019-01-10 21:34:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:27 --> Input Class Initialized
+DEBUG - 2019-01-10 21:34:27 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:27 --> Config Class Initialized
+INFO - 2019-01-10 21:34:27 --> Config Class Initialized
+INFO - 2019-01-10 21:34:27 --> Input Class Initialized
+DEBUG - 2019-01-10 21:34:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:27 --> Language Class Initialized
+INFO - 2019-01-10 21:34:27 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:27 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:27 --> Hooks Class Initialized
+INFO - 2019-01-10 21:34:27 --> Input Class Initialized
+INFO - 2019-01-10 21:34:27 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:27 --> 404 Page Not Found: Vendor/sweetalert
+DEBUG - 2019-01-10 21:34:27 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:27 --> Language Class Initialized
+INFO - 2019-01-10 21:34:27 --> URI Class Initialized
+DEBUG - 2019-01-10 21:34:27 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:27 --> Utf8 Class Initialized
+ERROR - 2019-01-10 21:34:27 --> 404 Page Not Found: Vendor/parallax100
+ERROR - 2019-01-10 21:34:27 --> 404 Page Not Found: Vendor/MagnificPopup
+INFO - 2019-01-10 21:34:27 --> Router Class Initialized
+INFO - 2019-01-10 21:34:27 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:27 --> URI Class Initialized
+INFO - 2019-01-10 21:34:27 --> Router Class Initialized
+INFO - 2019-01-10 21:34:27 --> URI Class Initialized
+INFO - 2019-01-10 21:34:27 --> Output Class Initialized
+INFO - 2019-01-10 21:34:27 --> Security Class Initialized
+INFO - 2019-01-10 21:34:27 --> Router Class Initialized
+INFO - 2019-01-10 21:34:27 --> Output Class Initialized
+DEBUG - 2019-01-10 21:34:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:28 --> Input Class Initialized
+INFO - 2019-01-10 21:34:28 --> Output Class Initialized
+INFO - 2019-01-10 21:34:28 --> Security Class Initialized
+INFO - 2019-01-10 21:34:28 --> Language Class Initialized
+INFO - 2019-01-10 21:34:28 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-10 21:34:28 --> 404 Page Not Found: Js/main.js
+INFO - 2019-01-10 21:34:28 --> Input Class Initialized
+DEBUG - 2019-01-10 21:34:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:28 --> Input Class Initialized
+INFO - 2019-01-10 21:34:28 --> Language Class Initialized
+INFO - 2019-01-10 21:34:28 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:28 --> 404 Page Not Found: Vendor/bootstrap
+ERROR - 2019-01-10 21:34:28 --> 404 Page Not Found: Images/slide-02.jpg
+INFO - 2019-01-10 21:34:28 --> Config Class Initialized
+INFO - 2019-01-10 21:34:28 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:28 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:28 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:28 --> URI Class Initialized
+INFO - 2019-01-10 21:34:28 --> Router Class Initialized
+INFO - 2019-01-10 21:34:28 --> Output Class Initialized
+INFO - 2019-01-10 21:34:28 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:28 --> Input Class Initialized
+INFO - 2019-01-10 21:34:28 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:28 --> 404 Page Not Found: Vendor/select2
+INFO - 2019-01-10 21:34:28 --> Config Class Initialized
+INFO - 2019-01-10 21:34:28 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:28 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:28 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:28 --> URI Class Initialized
+INFO - 2019-01-10 21:34:28 --> Router Class Initialized
+INFO - 2019-01-10 21:34:28 --> Output Class Initialized
+INFO - 2019-01-10 21:34:28 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:28 --> Input Class Initialized
+INFO - 2019-01-10 21:34:28 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:28 --> 404 Page Not Found: Vendor/daterangepicker
+INFO - 2019-01-10 21:34:28 --> Config Class Initialized
+INFO - 2019-01-10 21:34:29 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:29 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:29 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:29 --> URI Class Initialized
+INFO - 2019-01-10 21:34:29 --> Router Class Initialized
+INFO - 2019-01-10 21:34:29 --> Output Class Initialized
+INFO - 2019-01-10 21:34:29 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:29 --> Input Class Initialized
+INFO - 2019-01-10 21:34:29 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:29 --> 404 Page Not Found: Vendor/daterangepicker
+INFO - 2019-01-10 21:34:29 --> Config Class Initialized
+INFO - 2019-01-10 21:34:29 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:29 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:29 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:29 --> URI Class Initialized
+INFO - 2019-01-10 21:34:29 --> Router Class Initialized
+INFO - 2019-01-10 21:34:29 --> Output Class Initialized
+INFO - 2019-01-10 21:34:29 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:29 --> Input Class Initialized
+INFO - 2019-01-10 21:34:29 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:29 --> 404 Page Not Found: Vendor/slick
+INFO - 2019-01-10 21:34:29 --> Config Class Initialized
+INFO - 2019-01-10 21:34:29 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:29 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:29 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:29 --> URI Class Initialized
+INFO - 2019-01-10 21:34:29 --> Router Class Initialized
+INFO - 2019-01-10 21:34:29 --> Output Class Initialized
+INFO - 2019-01-10 21:34:29 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:29 --> Input Class Initialized
+INFO - 2019-01-10 21:34:29 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:29 --> 404 Page Not Found: Js/slick-custom.js
+INFO - 2019-01-10 21:34:29 --> Config Class Initialized
+INFO - 2019-01-10 21:34:29 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:30 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:30 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:30 --> URI Class Initialized
+INFO - 2019-01-10 21:34:30 --> Router Class Initialized
+INFO - 2019-01-10 21:34:30 --> Output Class Initialized
+INFO - 2019-01-10 21:34:30 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:30 --> Input Class Initialized
+INFO - 2019-01-10 21:34:30 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:30 --> 404 Page Not Found: Vendor/parallax100
+INFO - 2019-01-10 21:34:30 --> Config Class Initialized
+INFO - 2019-01-10 21:34:30 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:30 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:30 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:30 --> URI Class Initialized
+INFO - 2019-01-10 21:34:30 --> Router Class Initialized
+INFO - 2019-01-10 21:34:30 --> Output Class Initialized
+INFO - 2019-01-10 21:34:30 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:30 --> Input Class Initialized
+INFO - 2019-01-10 21:34:30 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:30 --> 404 Page Not Found: Vendor/MagnificPopup
+INFO - 2019-01-10 21:34:30 --> Config Class Initialized
+INFO - 2019-01-10 21:34:30 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:30 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:30 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:30 --> URI Class Initialized
+INFO - 2019-01-10 21:34:30 --> Router Class Initialized
+INFO - 2019-01-10 21:34:30 --> Output Class Initialized
+INFO - 2019-01-10 21:34:30 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:30 --> Input Class Initialized
+INFO - 2019-01-10 21:34:30 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:30 --> 404 Page Not Found: Vendor/isotope
+INFO - 2019-01-10 21:34:30 --> Config Class Initialized
+INFO - 2019-01-10 21:34:30 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:30 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:31 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:31 --> URI Class Initialized
+INFO - 2019-01-10 21:34:31 --> Router Class Initialized
+INFO - 2019-01-10 21:34:31 --> Output Class Initialized
+INFO - 2019-01-10 21:34:31 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:31 --> Input Class Initialized
+INFO - 2019-01-10 21:34:31 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:31 --> 404 Page Not Found: Vendor/sweetalert
+INFO - 2019-01-10 21:34:31 --> Config Class Initialized
+INFO - 2019-01-10 21:34:31 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:31 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:31 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:31 --> URI Class Initialized
+INFO - 2019-01-10 21:34:31 --> Router Class Initialized
+INFO - 2019-01-10 21:34:31 --> Output Class Initialized
+INFO - 2019-01-10 21:34:31 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:31 --> Input Class Initialized
+INFO - 2019-01-10 21:34:31 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:31 --> 404 Page Not Found: Vendor/perfect-scrollbar
+INFO - 2019-01-10 21:34:31 --> Config Class Initialized
+INFO - 2019-01-10 21:34:31 --> Hooks Class Initialized
+DEBUG - 2019-01-10 21:34:31 --> UTF-8 Support Enabled
+INFO - 2019-01-10 21:34:31 --> Utf8 Class Initialized
+INFO - 2019-01-10 21:34:31 --> URI Class Initialized
+INFO - 2019-01-10 21:34:31 --> Router Class Initialized
+INFO - 2019-01-10 21:34:31 --> Output Class Initialized
+INFO - 2019-01-10 21:34:31 --> Security Class Initialized
+DEBUG - 2019-01-10 21:34:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-10 21:34:31 --> Input Class Initialized
+INFO - 2019-01-10 21:34:31 --> Language Class Initialized
+ERROR - 2019-01-10 21:34:31 --> 404 Page Not Found: Js/main.js
