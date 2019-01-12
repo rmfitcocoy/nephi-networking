@@ -4,7 +4,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /*************************************************  
  *
  * Set PHP Timezone for standard and unity and we should not rely on php.ini only.
- * but it may cause a problem in the shared hosting in the future
+ * but it may cause a problem in the shared hosting in the future.
+ * Set your timezone (codes listed at http://php.net/manual/en/timezones.php)
+ * Delete the following line if you've already defined a timezone elsewhere.
  *
  * @category	php.ini
  * @since		0.0.1
@@ -54,13 +56,15 @@ date_default_timezone_set(DEFAULT_TIMEZONE);
 $protocol = is_https() ? "https://" : "http://";
 $host = isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : "";
 if(is_cli()){
-   $config['base_url'] = 'prod.scarfonictech.com';
+   // $config['base_url'] = 'localhost:8080';
+   $config['base_url'] = 'https://scarfonictechtest0001.azurewebsites.net/';
 }
 else if(stristr($host, "localhost") !== FALSE || (stristr($host, '192.168.') !== FALSE) || (stristr($host, '127.0.0') !== FALSE)){
-   $config['base_url'] = $protocol.$host."/";
+   // $config['base_url'] = $protocol.$host;
+   $config['base_url'] = 'https://scarfonictechtest0001.azurewebsites.net/';
 }
 else{
-    $allowed_hosts = ['prod.scarfonictech.com', 'www.prod.scarfonictech.com'];
+    $allowed_hosts = ['https://scarfonictechtest0001.azurewebsites.net/', 'https://scarfonictechtest0001.azurewebsites.net/'];
     $config['base_url'] = in_array($host, $allowed_hosts) ? $protocol.$host."/" : "we-do-not-recognise-this-host.com";
 }
 
@@ -76,6 +80,14 @@ else{
 */
 $config['index_page'] = '';
 
+/*
+|--------------------------------------------------------------------------
+| Themes
+|--------------------------------------------------------------------------
+|
+| the default theme views variable
+*/
+$config['themes'] = array('default');
 /*
 |--------------------------------------------------------------------------
 | URI PROTOCOL
@@ -461,10 +473,19 @@ $config['sess_driver'] = 'files';
 $config['sess_cookie_name'] = 'ci_session';
 $config['sess_expiration'] = 7200;
 $config['sess_save_path'] = NULL;
+// $config['sess_save_path'] = sys_get_temp_dir();
 $config['sess_match_ip'] = FALSE;
 $config['sess_time_to_update'] = 300;
 $config['sess_regenerate_destroy'] = FALSE;
 
+// $r = implode('/', array_slice(explode('/', $_SERVER["SCRIPT_FILENAME"]),0,-1));
+// $config['sess_driver'] = 'files';
+// $config['sess_cookie_name'] = 'my_session';
+// $config['sess_expiration'] = 14400;
+// $config['sess_save_path'] = $r.'/session/';
+// $config['sess_match_ip'] = FALSE;
+// $config['sess_time_to_update'] = 600;
+// $config['sess_regenerate_destroy'] = FALSE;
 /*
 |--------------------------------------------------------------------------
 | Cookie Related Variables
@@ -613,7 +634,6 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = PROXY_IPS;
 
-
 /*
 |--------------------------------------------------------------------------
 | Custom Config Setup
@@ -630,7 +650,7 @@ $config['proxy_ips'] = PROXY_IPS;
 | @url 				https://forum.codeigniter.com/archive/index.php?thread-64427.html
 | @url			 	https://expressionengine.com/forums/archive/topic/185751/amazon-load-balancing-and-codeigniter-configproxy_ips#925678
 */
-$config["clv_log_folder_path"] = APPPATH . DIRECTORY_SEPARATOR . LOGS_FOLDER;
+$config["clv_log_folder_path"] = APPPATH . DIRECTORY_SEPARATOR . LOG_FOLDER;
 $config["clv_log_file_pattern"] = "log-*.php";
  //this is the name of the view file passed to CI load->view()
 $config["clv_view_folder_path"] = 'utilities'. DIRECTORY_SEPARATOR . 'logviewer'. DIRECTORY_SEPARATOR . 'html';

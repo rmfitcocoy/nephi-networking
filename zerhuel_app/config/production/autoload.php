@@ -39,8 +39,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |  $autoload['packages'] = array(APPPATH.'third_party', '/usr/local/shared');
 |
 */
-// $autoload['packages'] = array();
-$autoload['packages'] = array(APPPATH . 'third_party/DevelBar');
+$autoload['packages'] = array();
+
 /*
 | -------------------------------------------------------------------
 |  Auto-load Libraries
@@ -58,7 +58,8 @@ $autoload['packages'] = array(APPPATH . 'third_party/DevelBar');
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array();
+//referrence : https://github.com/terrylinooo/codeigniter-simple-template-library
+$autoload['libraries'] = array('layout', 'email','session');
 
 /*
 | -------------------------------------------------------------------
@@ -88,8 +89,9 @@ $autoload['drivers'] = array();
 | Prototype:
 |
 |	$autoload['helper'] = array('url', 'file');
+|	$autoload['helper'] = array('storehours');
 */
-$autoload['helper'] = array();
+$autoload['helper'] = array('storehours','url');
 
 /*
 | -------------------------------------------------------------------
@@ -104,6 +106,7 @@ $autoload['helper'] = array();
 |
 | 	@subpackage		maintenance_mode
 |	@var string		maintenance_config
+|	@see			zerhuel_app/hooks/maintenance_hook.php
 |	@example		$autoload['config'] = array();
 */
 $autoload['config'] = array('maintenance_config');
