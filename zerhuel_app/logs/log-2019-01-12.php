@@ -5068,3 +5068,2950 @@ DEBUG - 2019-01-12 21:05:41 --> Global POST, GET and COOKIE data sanitized
 INFO - 2019-01-12 21:05:41 --> Input Class Initialized
 INFO - 2019-01-12 21:05:41 --> Language Class Initialized
 ERROR - 2019-01-12 21:05:41 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:11:28 --> Config Class Initialized
+INFO - 2019-01-12 21:11:28 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:11:28 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:11:28 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:11:29 --> URI Class Initialized
+INFO - 2019-01-12 21:11:29 --> Router Class Initialized
+INFO - 2019-01-12 21:11:29 --> Output Class Initialized
+INFO - 2019-01-12 21:11:29 --> Security Class Initialized
+DEBUG - 2019-01-12 21:11:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:11:29 --> Input Class Initialized
+INFO - 2019-01-12 21:11:29 --> Language Class Initialized
+INFO - 2019-01-12 21:11:29 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:11:29 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:11:29 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:11:29 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:11:29 --> Email Class Initialized
+DEBUG - 2019-01-12 21:11:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:11:29 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:11:29 --> Controller Class Initialized
+INFO - 2019-01-12 21:11:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:11:29 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:11:29 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:11:30 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:11:30 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:11:30 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:11:30 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:11:43 --> Config Class Initialized
+INFO - 2019-01-12 21:11:43 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:11:43 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:11:43 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:11:43 --> URI Class Initialized
+INFO - 2019-01-12 21:11:43 --> Router Class Initialized
+INFO - 2019-01-12 21:11:43 --> Output Class Initialized
+INFO - 2019-01-12 21:11:43 --> Security Class Initialized
+DEBUG - 2019-01-12 21:11:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:11:43 --> Input Class Initialized
+INFO - 2019-01-12 21:11:43 --> Language Class Initialized
+INFO - 2019-01-12 21:11:43 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:11:43 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:11:43 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:11:43 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:11:43 --> Email Class Initialized
+DEBUG - 2019-01-12 21:11:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:11:43 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:11:43 --> Controller Class Initialized
+INFO - 2019-01-12 21:11:43 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:11:43 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:11:43 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:11:44 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:11:44 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:11:44 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:11:44 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:11:44 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:11:44 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:11:44 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:11:44 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:11:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:11:44 --> Final output sent to browser
+INFO - 2019-01-12 21:11:45 --> Config Class Initialized
+DEBUG - 2019-01-12 21:11:45 --> Total execution time: 1.6364
+INFO - 2019-01-12 21:11:45 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:11:45 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:11:45 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:11:45 --> URI Class Initialized
+INFO - 2019-01-12 21:11:45 --> Router Class Initialized
+INFO - 2019-01-12 21:11:45 --> Output Class Initialized
+INFO - 2019-01-12 21:11:45 --> Security Class Initialized
+DEBUG - 2019-01-12 21:11:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:11:45 --> Input Class Initialized
+INFO - 2019-01-12 21:11:45 --> Language Class Initialized
+ERROR - 2019-01-12 21:11:45 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:11:45 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:11:45 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:11:46 --> Config Class Initialized
+INFO - 2019-01-12 21:11:46 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:11:46 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:11:46 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:11:46 --> URI Class Initialized
+INFO - 2019-01-12 21:11:46 --> Router Class Initialized
+INFO - 2019-01-12 21:11:46 --> Output Class Initialized
+INFO - 2019-01-12 21:11:46 --> Security Class Initialized
+DEBUG - 2019-01-12 21:11:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:11:47 --> Input Class Initialized
+INFO - 2019-01-12 21:11:47 --> Language Class Initialized
+ERROR - 2019-01-12 21:11:47 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:11:53 --> Config Class Initialized
+INFO - 2019-01-12 21:11:53 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:11:53 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:11:53 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:11:53 --> URI Class Initialized
+INFO - 2019-01-12 21:11:53 --> Router Class Initialized
+INFO - 2019-01-12 21:11:53 --> Output Class Initialized
+INFO - 2019-01-12 21:11:53 --> Security Class Initialized
+DEBUG - 2019-01-12 21:11:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:11:53 --> Input Class Initialized
+INFO - 2019-01-12 21:11:53 --> Language Class Initialized
+ERROR - 2019-01-12 21:11:53 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:11:54 --> Config Class Initialized
+INFO - 2019-01-12 21:11:54 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:11:54 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:11:54 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:11:54 --> URI Class Initialized
+INFO - 2019-01-12 21:11:54 --> Router Class Initialized
+INFO - 2019-01-12 21:11:54 --> Output Class Initialized
+INFO - 2019-01-12 21:11:54 --> Security Class Initialized
+DEBUG - 2019-01-12 21:11:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:11:54 --> Input Class Initialized
+INFO - 2019-01-12 21:11:54 --> Language Class Initialized
+ERROR - 2019-01-12 21:11:54 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:26:54 --> Config Class Initialized
+INFO - 2019-01-12 21:26:54 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:26:54 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:26:54 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:26:54 --> URI Class Initialized
+INFO - 2019-01-12 21:26:54 --> Router Class Initialized
+INFO - 2019-01-12 21:26:54 --> Output Class Initialized
+INFO - 2019-01-12 21:26:54 --> Security Class Initialized
+DEBUG - 2019-01-12 21:26:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:26:54 --> Input Class Initialized
+INFO - 2019-01-12 21:26:54 --> Language Class Initialized
+INFO - 2019-01-12 21:26:54 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:26:54 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:26:54 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:26:54 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:26:54 --> Email Class Initialized
+DEBUG - 2019-01-12 21:26:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:26:55 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:26:55 --> Controller Class Initialized
+INFO - 2019-01-12 21:26:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:26:55 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:26:55 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:26:55 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:26:55 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:26:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:26:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:26:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:26:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:26:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:26:55 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:26:55 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:26:55 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:26:55 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:26:55 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:26:55 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:26:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:26:56 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:26:56 --> Final output sent to browser
+INFO - 2019-01-12 21:26:56 --> Config Class Initialized
+DEBUG - 2019-01-12 21:26:56 --> Total execution time: 1.9118
+INFO - 2019-01-12 21:26:56 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:26:56 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:26:56 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:26:56 --> URI Class Initialized
+INFO - 2019-01-12 21:26:56 --> Router Class Initialized
+INFO - 2019-01-12 21:26:57 --> Output Class Initialized
+INFO - 2019-01-12 21:26:57 --> Security Class Initialized
+DEBUG - 2019-01-12 21:26:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:26:57 --> Input Class Initialized
+INFO - 2019-01-12 21:26:57 --> Language Class Initialized
+ERROR - 2019-01-12 21:26:57 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:26:57 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:26:57 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:26:57 --> Config Class Initialized
+INFO - 2019-01-12 21:26:57 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:26:57 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:26:57 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:26:57 --> URI Class Initialized
+INFO - 2019-01-12 21:26:58 --> Router Class Initialized
+INFO - 2019-01-12 21:26:58 --> Output Class Initialized
+INFO - 2019-01-12 21:26:58 --> Security Class Initialized
+DEBUG - 2019-01-12 21:26:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:26:58 --> Input Class Initialized
+INFO - 2019-01-12 21:26:58 --> Language Class Initialized
+ERROR - 2019-01-12 21:26:58 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:27:30 --> Config Class Initialized
+INFO - 2019-01-12 21:27:30 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:27:30 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:27:30 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:27:30 --> URI Class Initialized
+INFO - 2019-01-12 21:27:30 --> Router Class Initialized
+INFO - 2019-01-12 21:27:30 --> Output Class Initialized
+INFO - 2019-01-12 21:27:30 --> Security Class Initialized
+DEBUG - 2019-01-12 21:27:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:27:30 --> Input Class Initialized
+INFO - 2019-01-12 21:27:30 --> Language Class Initialized
+ERROR - 2019-01-12 21:27:30 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:27:37 --> Config Class Initialized
+INFO - 2019-01-12 21:27:37 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:27:37 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:27:37 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:27:37 --> URI Class Initialized
+INFO - 2019-01-12 21:27:37 --> Router Class Initialized
+INFO - 2019-01-12 21:27:37 --> Output Class Initialized
+INFO - 2019-01-12 21:27:37 --> Security Class Initialized
+DEBUG - 2019-01-12 21:27:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:27:37 --> Input Class Initialized
+INFO - 2019-01-12 21:27:37 --> Language Class Initialized
+INFO - 2019-01-12 21:27:37 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:27:37 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:27:37 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:27:37 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:27:37 --> Email Class Initialized
+DEBUG - 2019-01-12 21:27:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:27:37 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:27:37 --> Controller Class Initialized
+INFO - 2019-01-12 21:27:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:27:37 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:27:37 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:27:37 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:27:38 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:27:38 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:27:38 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:27:38 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:27:38 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:27:38 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:27:38 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:27:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:27:38 --> Final output sent to browser
+INFO - 2019-01-12 21:27:38 --> Config Class Initialized
+DEBUG - 2019-01-12 21:27:38 --> Total execution time: 1.6274
+INFO - 2019-01-12 21:27:38 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:27:38 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:27:39 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:27:39 --> URI Class Initialized
+INFO - 2019-01-12 21:27:39 --> Router Class Initialized
+INFO - 2019-01-12 21:27:39 --> Output Class Initialized
+INFO - 2019-01-12 21:27:39 --> Security Class Initialized
+DEBUG - 2019-01-12 21:27:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:27:39 --> Input Class Initialized
+INFO - 2019-01-12 21:27:39 --> Language Class Initialized
+ERROR - 2019-01-12 21:27:39 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:27:39 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:27:39 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:27:39 --> Config Class Initialized
+INFO - 2019-01-12 21:27:39 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:27:39 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:27:39 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:27:39 --> URI Class Initialized
+INFO - 2019-01-12 21:27:39 --> Router Class Initialized
+INFO - 2019-01-12 21:27:40 --> Output Class Initialized
+INFO - 2019-01-12 21:27:40 --> Security Class Initialized
+DEBUG - 2019-01-12 21:27:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:27:40 --> Input Class Initialized
+INFO - 2019-01-12 21:27:40 --> Language Class Initialized
+ERROR - 2019-01-12 21:27:40 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:27:48 --> Config Class Initialized
+INFO - 2019-01-12 21:27:48 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:27:48 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:27:49 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:27:49 --> URI Class Initialized
+INFO - 2019-01-12 21:27:49 --> Router Class Initialized
+INFO - 2019-01-12 21:27:49 --> Output Class Initialized
+INFO - 2019-01-12 21:27:49 --> Security Class Initialized
+DEBUG - 2019-01-12 21:27:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:27:49 --> Input Class Initialized
+INFO - 2019-01-12 21:27:49 --> Language Class Initialized
+INFO - 2019-01-12 21:27:49 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:27:49 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:27:49 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:27:49 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:27:49 --> Email Class Initialized
+DEBUG - 2019-01-12 21:27:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:27:49 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:27:49 --> Controller Class Initialized
+INFO - 2019-01-12 21:27:49 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:27:49 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:27:49 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:27:49 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:27:49 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:27:49 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:27:49 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-12 21:27:49 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:27:50 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:27:50 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:27:50 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:27:50 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:27:50 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:27:50 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:27:50 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:27:50 --> Final output sent to browser
+DEBUG - 2019-01-12 21:27:50 --> Total execution time: 1.5770
+INFO - 2019-01-12 21:27:50 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:27:50 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:27:50 --> Config Class Initialized
+INFO - 2019-01-12 21:27:50 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:27:50 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:27:51 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:27:51 --> URI Class Initialized
+INFO - 2019-01-12 21:27:51 --> Router Class Initialized
+INFO - 2019-01-12 21:27:51 --> Output Class Initialized
+INFO - 2019-01-12 21:27:51 --> Security Class Initialized
+INFO - 2019-01-12 21:27:51 --> Config Class Initialized
+DEBUG - 2019-01-12 21:27:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:27:51 --> Input Class Initialized
+INFO - 2019-01-12 21:27:51 --> Language Class Initialized
+ERROR - 2019-01-12 21:27:51 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:27:51 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:27:51 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:27:51 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:27:51 --> URI Class Initialized
+INFO - 2019-01-12 21:27:51 --> Router Class Initialized
+INFO - 2019-01-12 21:27:51 --> Output Class Initialized
+INFO - 2019-01-12 21:27:51 --> Security Class Initialized
+DEBUG - 2019-01-12 21:27:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:27:51 --> Input Class Initialized
+INFO - 2019-01-12 21:27:51 --> Language Class Initialized
+ERROR - 2019-01-12 21:27:51 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:28:09 --> Config Class Initialized
+INFO - 2019-01-12 21:28:09 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:28:09 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:28:10 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:28:10 --> URI Class Initialized
+INFO - 2019-01-12 21:28:10 --> Router Class Initialized
+INFO - 2019-01-12 21:28:10 --> Output Class Initialized
+INFO - 2019-01-12 21:28:10 --> Security Class Initialized
+DEBUG - 2019-01-12 21:28:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:28:10 --> Input Class Initialized
+INFO - 2019-01-12 21:28:10 --> Language Class Initialized
+INFO - 2019-01-12 21:28:10 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:28:10 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:28:10 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:28:10 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:28:10 --> Email Class Initialized
+DEBUG - 2019-01-12 21:28:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:28:10 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:28:10 --> Controller Class Initialized
+INFO - 2019-01-12 21:28:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:28:10 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:28:10 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:28:10 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:28:10 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:28:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:28:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-12 21:28:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:28:10 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:28:10 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:28:10 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:28:10 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:28:10 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:28:10 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:28:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:28:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:28:11 --> Final output sent to browser
+INFO - 2019-01-12 21:28:11 --> Config Class Initialized
+DEBUG - 2019-01-12 21:28:11 --> Total execution time: 1.3683
+INFO - 2019-01-12 21:28:11 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:28:11 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:28:11 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:28:11 --> URI Class Initialized
+INFO - 2019-01-12 21:28:11 --> Router Class Initialized
+INFO - 2019-01-12 21:28:11 --> Output Class Initialized
+INFO - 2019-01-12 21:28:11 --> Security Class Initialized
+DEBUG - 2019-01-12 21:28:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:28:11 --> Input Class Initialized
+INFO - 2019-01-12 21:28:12 --> Language Class Initialized
+INFO - 2019-01-12 21:28:12 --> Config Class Initialized
+INFO - 2019-01-12 21:28:12 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:28:12 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+ERROR - 2019-01-12 21:28:12 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:28:12 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:28:12 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:28:12 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:28:12 --> URI Class Initialized
+INFO - 2019-01-12 21:28:12 --> Router Class Initialized
+INFO - 2019-01-12 21:28:12 --> Output Class Initialized
+INFO - 2019-01-12 21:28:12 --> Security Class Initialized
+DEBUG - 2019-01-12 21:28:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:28:12 --> Input Class Initialized
+INFO - 2019-01-12 21:28:12 --> Language Class Initialized
+ERROR - 2019-01-12 21:28:12 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:31:02 --> Config Class Initialized
+INFO - 2019-01-12 21:31:02 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:31:02 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:02 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:02 --> URI Class Initialized
+INFO - 2019-01-12 21:31:02 --> Router Class Initialized
+INFO - 2019-01-12 21:31:02 --> Output Class Initialized
+INFO - 2019-01-12 21:31:03 --> Security Class Initialized
+DEBUG - 2019-01-12 21:31:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:03 --> Input Class Initialized
+INFO - 2019-01-12 21:31:03 --> Language Class Initialized
+INFO - 2019-01-12 21:31:03 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:31:03 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:31:03 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:31:03 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:31:03 --> Email Class Initialized
+DEBUG - 2019-01-12 21:31:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:31:03 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:31:03 --> Controller Class Initialized
+INFO - 2019-01-12 21:31:03 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:31:03 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:31:03 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:31:03 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:31:03 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:31:03 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:31:03 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-12 21:31:03 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:31:04 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:31:04 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:31:04 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:31:04 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:31:04 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:31:04 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:31:04 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:31:04 --> Final output sent to browser
+INFO - 2019-01-12 21:31:04 --> Config Class Initialized
+DEBUG - 2019-01-12 21:31:04 --> Total execution time: 1.6479
+INFO - 2019-01-12 21:31:04 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:31:04 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:04 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:04 --> URI Class Initialized
+INFO - 2019-01-12 21:31:04 --> Router Class Initialized
+INFO - 2019-01-12 21:31:04 --> Output Class Initialized
+INFO - 2019-01-12 21:31:04 --> Config Class Initialized
+INFO - 2019-01-12 21:31:04 --> Config Class Initialized
+INFO - 2019-01-12 21:31:04 --> Config Class Initialized
+INFO - 2019-01-12 21:31:04 --> Config Class Initialized
+INFO - 2019-01-12 21:31:04 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:31:04 --> Hooks Class Initialized
+INFO - 2019-01-12 21:31:04 --> Security Class Initialized
+INFO - 2019-01-12 21:31:04 --> Hooks Class Initialized
+INFO - 2019-01-12 21:31:04 --> Hooks Class Initialized
+INFO - 2019-01-12 21:31:04 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:31:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-12 21:31:04 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:04 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+DEBUG - 2019-01-12 21:31:04 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:31:04 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:04 --> Input Class Initialized
+INFO - 2019-01-12 21:31:04 --> Utf8 Class Initialized
+DEBUG - 2019-01-12 21:31:04 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:04 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:04 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:05 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:05 --> Language Class Initialized
+INFO - 2019-01-12 21:31:05 --> URI Class Initialized
+INFO - 2019-01-12 21:31:05 --> URI Class Initialized
+INFO - 2019-01-12 21:31:05 --> URI Class Initialized
+INFO - 2019-01-12 21:31:05 --> Router Class Initialized
+ERROR - 2019-01-12 21:31:05 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-12 21:31:05 --> Router Class Initialized
+INFO - 2019-01-12 21:31:05 --> URI Class Initialized
+INFO - 2019-01-12 21:31:05 --> Output Class Initialized
+INFO - 2019-01-12 21:31:05 --> Router Class Initialized
+INFO - 2019-01-12 21:31:05 --> Router Class Initialized
+INFO - 2019-01-12 21:31:05 --> Output Class Initialized
+INFO - 2019-01-12 21:31:05 --> Security Class Initialized
+INFO - 2019-01-12 21:31:05 --> Output Class Initialized
+INFO - 2019-01-12 21:31:05 --> Security Class Initialized
+INFO - 2019-01-12 21:31:05 --> Output Class Initialized
+INFO - 2019-01-12 21:31:05 --> Security Class Initialized
+DEBUG - 2019-01-12 21:31:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:05 --> Security Class Initialized
+DEBUG - 2019-01-12 21:31:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-12 21:31:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:05 --> Input Class Initialized
+INFO - 2019-01-12 21:31:05 --> Input Class Initialized
+DEBUG - 2019-01-12 21:31:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:05 --> Input Class Initialized
+INFO - 2019-01-12 21:31:05 --> Language Class Initialized
+INFO - 2019-01-12 21:31:05 --> Language Class Initialized
+INFO - 2019-01-12 21:31:05 --> Input Class Initialized
+ERROR - 2019-01-12 21:31:05 --> 404 Page Not Found: Images/item-cart-02.jpg
+INFO - 2019-01-12 21:31:05 --> Language Class Initialized
+ERROR - 2019-01-12 21:31:05 --> 404 Page Not Found: Images/item-cart-01.jpg
+ERROR - 2019-01-12 21:31:05 --> 404 Page Not Found: Images/item-cart-03.jpg
+INFO - 2019-01-12 21:31:05 --> Language Class Initialized
+ERROR - 2019-01-12 21:31:05 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-12 21:31:07 --> Config Class Initialized
+INFO - 2019-01-12 21:31:07 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:31:07 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:07 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:07 --> URI Class Initialized
+INFO - 2019-01-12 21:31:07 --> Router Class Initialized
+INFO - 2019-01-12 21:31:07 --> Output Class Initialized
+INFO - 2019-01-12 21:31:07 --> Security Class Initialized
+DEBUG - 2019-01-12 21:31:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:07 --> Input Class Initialized
+INFO - 2019-01-12 21:31:07 --> Language Class Initialized
+INFO - 2019-01-12 21:31:07 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:31:07 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:31:07 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:31:08 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:31:08 --> Email Class Initialized
+DEBUG - 2019-01-12 21:31:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:31:08 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:31:08 --> Controller Class Initialized
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:31:08 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:31:08 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:31:08 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:31:08 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:31:08 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:31:08 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:31:08 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:31:08 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:31:08 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:31:08 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:31:08 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:31:09 --> Final output sent to browser
+INFO - 2019-01-12 21:31:09 --> Config Class Initialized
+DEBUG - 2019-01-12 21:31:09 --> Total execution time: 1.6059
+INFO - 2019-01-12 21:31:09 --> Hooks Class Initialized
+INFO - 2019-01-12 21:31:09 --> Config Class Initialized
+INFO - 2019-01-12 21:31:09 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:31:09 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:09 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:31:09 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+DEBUG - 2019-01-12 21:31:09 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:09 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:09 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:09 --> URI Class Initialized
+INFO - 2019-01-12 21:31:09 --> URI Class Initialized
+INFO - 2019-01-12 21:31:09 --> Router Class Initialized
+INFO - 2019-01-12 21:31:09 --> Router Class Initialized
+INFO - 2019-01-12 21:31:09 --> Output Class Initialized
+INFO - 2019-01-12 21:31:09 --> Output Class Initialized
+INFO - 2019-01-12 21:31:09 --> Security Class Initialized
+INFO - 2019-01-12 21:31:09 --> Security Class Initialized
+DEBUG - 2019-01-12 21:31:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-12 21:31:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:09 --> Input Class Initialized
+INFO - 2019-01-12 21:31:09 --> Input Class Initialized
+INFO - 2019-01-12 21:31:09 --> Language Class Initialized
+INFO - 2019-01-12 21:31:09 --> Loader Class Initialized
+INFO - 2019-01-12 21:31:09 --> Language Class Initialized
+DEBUG - 2019-01-12 21:31:09 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+ERROR - 2019-01-12 21:31:09 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-12 21:31:09 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:31:09 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:31:09 --> Email Class Initialized
+DEBUG - 2019-01-12 21:31:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:31:09 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:31:09 --> Controller Class Initialized
+INFO - 2019-01-12 21:31:09 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:31:10 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:31:10 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:31:10 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:31:10 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:31:10 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:31:10 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:31:10 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:31:10 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:31:10 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:31:10 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:31:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:31:10 --> Final output sent to browser
+INFO - 2019-01-12 21:31:11 --> Config Class Initialized
+DEBUG - 2019-01-12 21:31:11 --> Total execution time: 1.7396
+INFO - 2019-01-12 21:31:11 --> Hooks Class Initialized
+INFO - 2019-01-12 21:31:11 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:31:11 --> Config Class Initialized
+INFO - 2019-01-12 21:31:11 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:31:11 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:11 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:11 --> URI Class Initialized
+INFO - 2019-01-12 21:31:11 --> Router Class Initialized
+INFO - 2019-01-12 21:31:11 --> Output Class Initialized
+INFO - 2019-01-12 21:31:11 --> Security Class Initialized
+DEBUG - 2019-01-12 21:31:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:11 --> Input Class Initialized
+INFO - 2019-01-12 21:31:11 --> Language Class Initialized
+ERROR - 2019-01-12 21:31:11 --> 404 Page Not Found: Images/item-cart-03.jpg
+DEBUG - 2019-01-12 21:31:11 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:11 --> Config Class Initialized
+INFO - 2019-01-12 21:31:11 --> Config Class Initialized
+INFO - 2019-01-12 21:31:11 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:31:11 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:31:11 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:11 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:11 --> URI Class Initialized
+INFO - 2019-01-12 21:31:11 --> Router Class Initialized
+INFO - 2019-01-12 21:31:11 --> Output Class Initialized
+INFO - 2019-01-12 21:31:11 --> Security Class Initialized
+DEBUG - 2019-01-12 21:31:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:12 --> Input Class Initialized
+INFO - 2019-01-12 21:31:12 --> Language Class Initialized
+ERROR - 2019-01-12 21:31:12 --> 404 Page Not Found: Images/item-cart-01.jpg
+INFO - 2019-01-12 21:31:12 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:12 --> Hooks Class Initialized
+INFO - 2019-01-12 21:31:12 --> URI Class Initialized
+INFO - 2019-01-12 21:31:12 --> Router Class Initialized
+DEBUG - 2019-01-12 21:31:12 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:12 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:12 --> Output Class Initialized
+INFO - 2019-01-12 21:31:12 --> URI Class Initialized
+INFO - 2019-01-12 21:31:12 --> Security Class Initialized
+INFO - 2019-01-12 21:31:12 --> Router Class Initialized
+DEBUG - 2019-01-12 21:31:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:12 --> Output Class Initialized
+INFO - 2019-01-12 21:31:12 --> Input Class Initialized
+INFO - 2019-01-12 21:31:12 --> Security Class Initialized
+INFO - 2019-01-12 21:31:12 --> Language Class Initialized
+DEBUG - 2019-01-12 21:31:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:12 --> Input Class Initialized
+ERROR - 2019-01-12 21:31:12 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-12 21:31:12 --> Language Class Initialized
+ERROR - 2019-01-12 21:31:12 --> 404 Page Not Found: Images/item-cart-02.jpg
+INFO - 2019-01-12 21:31:27 --> Config Class Initialized
+INFO - 2019-01-12 21:31:27 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:31:27 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:28 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:28 --> URI Class Initialized
+INFO - 2019-01-12 21:31:28 --> Router Class Initialized
+INFO - 2019-01-12 21:31:28 --> Output Class Initialized
+INFO - 2019-01-12 21:31:28 --> Security Class Initialized
+DEBUG - 2019-01-12 21:31:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:28 --> Input Class Initialized
+INFO - 2019-01-12 21:31:28 --> Language Class Initialized
+INFO - 2019-01-12 21:31:28 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:31:28 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:31:28 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:31:28 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:31:28 --> Email Class Initialized
+DEBUG - 2019-01-12 21:31:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:31:28 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:31:28 --> Controller Class Initialized
+INFO - 2019-01-12 21:31:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:31:28 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:31:28 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:31:28 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:31:28 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:31:29 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:31:29 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:31:29 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:31:29 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:31:29 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:31:29 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:31:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:31:29 --> Final output sent to browser
+INFO - 2019-01-12 21:31:29 --> Config Class Initialized
+DEBUG - 2019-01-12 21:31:29 --> Total execution time: 1.6993
+INFO - 2019-01-12 21:31:29 --> Hooks Class Initialized
+INFO - 2019-01-12 21:31:29 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:31:29 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+DEBUG - 2019-01-12 21:31:29 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:29 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:29 --> URI Class Initialized
+INFO - 2019-01-12 21:31:29 --> Router Class Initialized
+INFO - 2019-01-12 21:31:30 --> Output Class Initialized
+INFO - 2019-01-12 21:31:30 --> Security Class Initialized
+DEBUG - 2019-01-12 21:31:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:30 --> Input Class Initialized
+INFO - 2019-01-12 21:31:30 --> Language Class Initialized
+ERROR - 2019-01-12 21:31:30 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:31:34 --> Config Class Initialized
+INFO - 2019-01-12 21:31:34 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:31:34 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:31:34 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:31:34 --> URI Class Initialized
+INFO - 2019-01-12 21:31:34 --> Router Class Initialized
+INFO - 2019-01-12 21:31:34 --> Output Class Initialized
+INFO - 2019-01-12 21:31:34 --> Security Class Initialized
+DEBUG - 2019-01-12 21:31:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:31:34 --> Input Class Initialized
+INFO - 2019-01-12 21:31:35 --> Language Class Initialized
+ERROR - 2019-01-12 21:31:35 --> 404 Page Not Found: Indexhtml/index
+INFO - 2019-01-12 21:32:00 --> Config Class Initialized
+INFO - 2019-01-12 21:32:00 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:32:00 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:32:00 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:32:00 --> URI Class Initialized
+INFO - 2019-01-12 21:32:00 --> Router Class Initialized
+INFO - 2019-01-12 21:32:00 --> Output Class Initialized
+INFO - 2019-01-12 21:32:00 --> Security Class Initialized
+DEBUG - 2019-01-12 21:32:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:32:00 --> Input Class Initialized
+INFO - 2019-01-12 21:32:00 --> Language Class Initialized
+INFO - 2019-01-12 21:32:00 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:32:00 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:32:00 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:32:00 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:32:00 --> Email Class Initialized
+DEBUG - 2019-01-12 21:32:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:32:00 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:32:00 --> Controller Class Initialized
+INFO - 2019-01-12 21:32:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:32:01 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:32:01 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:32:01 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:32:01 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:32:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:32:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:32:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:32:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:32:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:32:01 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:32:01 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:32:01 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:32:01 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:32:01 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:32:01 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:32:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:32:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:32:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:32:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:32:02 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:32:02 --> Final output sent to browser
+DEBUG - 2019-01-12 21:32:02 --> Total execution time: 2.1093
+INFO - 2019-01-12 21:32:02 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:32:02 --> Config Class Initialized
+INFO - 2019-01-12 21:32:02 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:32:02 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:32:02 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:32:02 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:32:02 --> URI Class Initialized
+INFO - 2019-01-12 21:32:02 --> Router Class Initialized
+INFO - 2019-01-12 21:32:02 --> Output Class Initialized
+INFO - 2019-01-12 21:32:02 --> Security Class Initialized
+DEBUG - 2019-01-12 21:32:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:32:02 --> Input Class Initialized
+INFO - 2019-01-12 21:32:02 --> Language Class Initialized
+ERROR - 2019-01-12 21:32:02 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:32:04 --> Config Class Initialized
+INFO - 2019-01-12 21:32:04 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:32:05 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:32:05 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:32:05 --> URI Class Initialized
+INFO - 2019-01-12 21:32:05 --> Router Class Initialized
+INFO - 2019-01-12 21:32:05 --> Output Class Initialized
+INFO - 2019-01-12 21:32:05 --> Security Class Initialized
+DEBUG - 2019-01-12 21:32:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:32:05 --> Input Class Initialized
+INFO - 2019-01-12 21:32:05 --> Language Class Initialized
+ERROR - 2019-01-12 21:32:05 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:32:10 --> Config Class Initialized
+INFO - 2019-01-12 21:32:10 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:32:10 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:32:10 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:32:10 --> URI Class Initialized
+INFO - 2019-01-12 21:32:10 --> Router Class Initialized
+INFO - 2019-01-12 21:32:10 --> Output Class Initialized
+INFO - 2019-01-12 21:32:10 --> Security Class Initialized
+DEBUG - 2019-01-12 21:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:32:10 --> Input Class Initialized
+INFO - 2019-01-12 21:32:10 --> Language Class Initialized
+ERROR - 2019-01-12 21:32:10 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:32:10 --> Config Class Initialized
+INFO - 2019-01-12 21:32:10 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:32:10 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:32:10 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:32:11 --> URI Class Initialized
+INFO - 2019-01-12 21:32:11 --> Router Class Initialized
+INFO - 2019-01-12 21:32:11 --> Output Class Initialized
+INFO - 2019-01-12 21:32:11 --> Security Class Initialized
+DEBUG - 2019-01-12 21:32:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:32:11 --> Input Class Initialized
+INFO - 2019-01-12 21:32:11 --> Language Class Initialized
+ERROR - 2019-01-12 21:32:11 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:32:50 --> Config Class Initialized
+INFO - 2019-01-12 21:32:50 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:32:50 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:32:50 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:32:50 --> URI Class Initialized
+INFO - 2019-01-12 21:32:50 --> Router Class Initialized
+INFO - 2019-01-12 21:32:50 --> Output Class Initialized
+INFO - 2019-01-12 21:32:50 --> Security Class Initialized
+DEBUG - 2019-01-12 21:32:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:32:50 --> Input Class Initialized
+INFO - 2019-01-12 21:32:50 --> Language Class Initialized
+INFO - 2019-01-12 21:32:50 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:32:50 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:32:50 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:32:50 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:32:51 --> Email Class Initialized
+DEBUG - 2019-01-12 21:32:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:32:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:32:51 --> Controller Class Initialized
+INFO - 2019-01-12 21:32:51 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:32:51 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:32:51 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:32:51 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:32:51 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:32:51 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:32:51 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:32:51 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:32:51 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:32:51 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:32:51 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:32:51 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:32:51 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:32:51 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:32:51 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:32:51 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:32:51 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:32:51 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:32:51 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:32:52 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:32:52 --> Final output sent to browser
+DEBUG - 2019-01-12 21:32:52 --> Total execution time: 1.7793
+INFO - 2019-01-12 21:32:52 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:32:52 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:32:53 --> Config Class Initialized
+INFO - 2019-01-12 21:32:53 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:32:53 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:32:53 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:32:53 --> URI Class Initialized
+INFO - 2019-01-12 21:32:53 --> Router Class Initialized
+INFO - 2019-01-12 21:32:53 --> Output Class Initialized
+INFO - 2019-01-12 21:32:53 --> Security Class Initialized
+DEBUG - 2019-01-12 21:32:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:32:53 --> Input Class Initialized
+INFO - 2019-01-12 21:32:53 --> Language Class Initialized
+ERROR - 2019-01-12 21:32:53 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:36:22 --> Config Class Initialized
+INFO - 2019-01-12 21:36:22 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:36:22 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:36:22 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:36:22 --> URI Class Initialized
+INFO - 2019-01-12 21:36:22 --> Router Class Initialized
+INFO - 2019-01-12 21:36:22 --> Output Class Initialized
+INFO - 2019-01-12 21:36:22 --> Security Class Initialized
+DEBUG - 2019-01-12 21:36:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:36:22 --> Input Class Initialized
+INFO - 2019-01-12 21:36:22 --> Language Class Initialized
+INFO - 2019-01-12 21:36:22 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:36:22 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:36:22 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:36:22 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:36:22 --> Email Class Initialized
+DEBUG - 2019-01-12 21:36:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:36:22 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:36:22 --> Controller Class Initialized
+INFO - 2019-01-12 21:36:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:36:23 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:36:23 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:36:23 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:36:23 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:36:23 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:36:23 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:36:23 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:36:23 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:36:23 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:36:23 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:36:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:36:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:36:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:36:24 --> Final output sent to browser
+DEBUG - 2019-01-12 21:36:24 --> Total execution time: 1.7979
+INFO - 2019-01-12 21:36:24 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:36:24 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:36:25 --> Config Class Initialized
+INFO - 2019-01-12 21:36:25 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:36:25 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:36:25 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:36:25 --> URI Class Initialized
+INFO - 2019-01-12 21:36:25 --> Router Class Initialized
+INFO - 2019-01-12 21:36:25 --> Output Class Initialized
+INFO - 2019-01-12 21:36:25 --> Security Class Initialized
+DEBUG - 2019-01-12 21:36:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:36:25 --> Input Class Initialized
+INFO - 2019-01-12 21:36:25 --> Language Class Initialized
+ERROR - 2019-01-12 21:36:25 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:36:27 --> Config Class Initialized
+INFO - 2019-01-12 21:36:27 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:36:27 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:36:27 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:36:27 --> URI Class Initialized
+INFO - 2019-01-12 21:36:27 --> Router Class Initialized
+INFO - 2019-01-12 21:36:27 --> Output Class Initialized
+INFO - 2019-01-12 21:36:27 --> Security Class Initialized
+DEBUG - 2019-01-12 21:36:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:36:27 --> Input Class Initialized
+INFO - 2019-01-12 21:36:27 --> Language Class Initialized
+INFO - 2019-01-12 21:36:27 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:36:27 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:36:27 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:36:27 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:36:27 --> Email Class Initialized
+DEBUG - 2019-01-12 21:36:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:36:27 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:36:27 --> Controller Class Initialized
+INFO - 2019-01-12 21:36:27 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:36:27 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:36:28 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:36:28 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:36:28 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:36:28 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:36:28 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:36:28 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:36:28 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:36:28 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:36:28 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:36:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:36:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:36:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:36:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:36:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:36:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:36:29 --> Final output sent to browser
+DEBUG - 2019-01-12 21:36:29 --> Total execution time: 1.9421
+INFO - 2019-01-12 21:36:29 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:36:29 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:36:29 --> Config Class Initialized
+INFO - 2019-01-12 21:36:29 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:36:29 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:36:29 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:36:29 --> URI Class Initialized
+INFO - 2019-01-12 21:36:29 --> Router Class Initialized
+INFO - 2019-01-12 21:36:29 --> Output Class Initialized
+INFO - 2019-01-12 21:36:29 --> Security Class Initialized
+DEBUG - 2019-01-12 21:36:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:36:29 --> Input Class Initialized
+INFO - 2019-01-12 21:36:29 --> Language Class Initialized
+ERROR - 2019-01-12 21:36:29 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:36:38 --> Config Class Initialized
+INFO - 2019-01-12 21:36:38 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:36:39 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:36:39 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:36:39 --> URI Class Initialized
+INFO - 2019-01-12 21:36:39 --> Router Class Initialized
+INFO - 2019-01-12 21:36:39 --> Output Class Initialized
+INFO - 2019-01-12 21:36:39 --> Security Class Initialized
+DEBUG - 2019-01-12 21:36:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:36:39 --> Input Class Initialized
+INFO - 2019-01-12 21:36:39 --> Language Class Initialized
+INFO - 2019-01-12 21:36:39 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:36:39 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:36:39 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:36:39 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:36:39 --> Email Class Initialized
+DEBUG - 2019-01-12 21:36:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:36:39 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:36:39 --> Controller Class Initialized
+INFO - 2019-01-12 21:36:39 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:36:39 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:36:39 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:36:39 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:36:40 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:36:40 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:36:40 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:36:40 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:36:40 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:36:40 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:36:40 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:36:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:36:40 --> Final output sent to browser
+DEBUG - 2019-01-12 21:36:40 --> Total execution time: 1.8005
+INFO - 2019-01-12 21:36:40 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:36:41 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:36:41 --> Config Class Initialized
+INFO - 2019-01-12 21:36:41 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:36:41 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:36:41 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:36:41 --> URI Class Initialized
+INFO - 2019-01-12 21:36:41 --> Router Class Initialized
+INFO - 2019-01-12 21:36:41 --> Output Class Initialized
+INFO - 2019-01-12 21:36:41 --> Security Class Initialized
+DEBUG - 2019-01-12 21:36:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:36:42 --> Input Class Initialized
+INFO - 2019-01-12 21:36:42 --> Language Class Initialized
+ERROR - 2019-01-12 21:36:42 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:41:31 --> Config Class Initialized
+INFO - 2019-01-12 21:41:31 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:41:31 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:41:31 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:41:31 --> URI Class Initialized
+INFO - 2019-01-12 21:41:31 --> Router Class Initialized
+INFO - 2019-01-12 21:41:31 --> Output Class Initialized
+INFO - 2019-01-12 21:41:31 --> Security Class Initialized
+DEBUG - 2019-01-12 21:41:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:41:31 --> Input Class Initialized
+INFO - 2019-01-12 21:41:31 --> Language Class Initialized
+INFO - 2019-01-12 21:41:31 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:41:31 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:41:31 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:41:31 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:41:31 --> Email Class Initialized
+DEBUG - 2019-01-12 21:41:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:41:31 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:41:32 --> Controller Class Initialized
+INFO - 2019-01-12 21:41:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:41:32 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:41:32 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:41:32 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:41:32 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:41:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:41:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:41:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:41:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:41:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:41:32 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:41:32 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:41:32 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:41:32 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:41:32 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:41:32 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:41:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:41:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:41:33 --> Final output sent to browser
+DEBUG - 2019-01-12 21:41:33 --> Total execution time: 2.0079
+INFO - 2019-01-12 21:41:33 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:41:33 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:41:34 --> Config Class Initialized
+INFO - 2019-01-12 21:41:34 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:41:34 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:41:34 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:41:34 --> URI Class Initialized
+INFO - 2019-01-12 21:41:34 --> Router Class Initialized
+INFO - 2019-01-12 21:41:34 --> Output Class Initialized
+INFO - 2019-01-12 21:41:34 --> Security Class Initialized
+DEBUG - 2019-01-12 21:41:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:41:34 --> Input Class Initialized
+INFO - 2019-01-12 21:41:34 --> Language Class Initialized
+ERROR - 2019-01-12 21:41:34 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:41:36 --> Config Class Initialized
+INFO - 2019-01-12 21:41:36 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:41:36 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:41:36 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:41:36 --> URI Class Initialized
+INFO - 2019-01-12 21:41:36 --> Router Class Initialized
+INFO - 2019-01-12 21:41:36 --> Output Class Initialized
+INFO - 2019-01-12 21:41:36 --> Security Class Initialized
+DEBUG - 2019-01-12 21:41:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:41:36 --> Input Class Initialized
+INFO - 2019-01-12 21:41:36 --> Language Class Initialized
+INFO - 2019-01-12 21:41:36 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:41:36 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:41:36 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:41:36 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:41:36 --> Email Class Initialized
+DEBUG - 2019-01-12 21:41:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:41:36 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:41:36 --> Controller Class Initialized
+INFO - 2019-01-12 21:41:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:41:36 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:41:36 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:41:37 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:41:37 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:41:37 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:41:37 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:41:37 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:41:37 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:41:37 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:41:37 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:41:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:41:37 --> Final output sent to browser
+DEBUG - 2019-01-12 21:41:37 --> Total execution time: 1.6225
+INFO - 2019-01-12 21:41:37 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:41:38 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:41:38 --> Config Class Initialized
+INFO - 2019-01-12 21:41:38 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:41:38 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:41:38 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:41:38 --> URI Class Initialized
+INFO - 2019-01-12 21:41:38 --> Router Class Initialized
+INFO - 2019-01-12 21:41:38 --> Output Class Initialized
+INFO - 2019-01-12 21:41:38 --> Security Class Initialized
+DEBUG - 2019-01-12 21:41:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:41:38 --> Input Class Initialized
+INFO - 2019-01-12 21:41:38 --> Language Class Initialized
+ERROR - 2019-01-12 21:41:38 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:41:53 --> Config Class Initialized
+INFO - 2019-01-12 21:41:53 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:41:53 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:41:53 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:41:53 --> URI Class Initialized
+INFO - 2019-01-12 21:41:53 --> Router Class Initialized
+INFO - 2019-01-12 21:41:53 --> Output Class Initialized
+INFO - 2019-01-12 21:41:53 --> Security Class Initialized
+DEBUG - 2019-01-12 21:41:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:41:53 --> Input Class Initialized
+INFO - 2019-01-12 21:41:53 --> Language Class Initialized
+INFO - 2019-01-12 21:41:53 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:41:53 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:41:53 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:41:53 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:41:53 --> Email Class Initialized
+DEBUG - 2019-01-12 21:41:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:41:53 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:41:53 --> Controller Class Initialized
+INFO - 2019-01-12 21:41:53 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:41:54 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:41:54 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:41:54 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:41:54 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:41:54 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:41:54 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:41:54 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:41:54 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:41:54 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:41:54 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:41:54 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:41:55 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:41:55 --> Final output sent to browser
+DEBUG - 2019-01-12 21:41:55 --> Total execution time: 1.7261
+INFO - 2019-01-12 21:41:55 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:41:55 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:43:23 --> Config Class Initialized
+INFO - 2019-01-12 21:43:23 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:43:23 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:43:23 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:43:23 --> URI Class Initialized
+INFO - 2019-01-12 21:43:23 --> Router Class Initialized
+INFO - 2019-01-12 21:43:23 --> Output Class Initialized
+INFO - 2019-01-12 21:43:23 --> Security Class Initialized
+DEBUG - 2019-01-12 21:43:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:43:23 --> Input Class Initialized
+INFO - 2019-01-12 21:43:23 --> Language Class Initialized
+INFO - 2019-01-12 21:43:23 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:43:23 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:43:24 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:43:24 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:43:24 --> Email Class Initialized
+DEBUG - 2019-01-12 21:43:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:43:24 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:43:24 --> Controller Class Initialized
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:43:24 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:43:24 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:43:24 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:43:24 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/index.php
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:43:24 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:43:24 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:43:24 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:43:24 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:43:24 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:43:24 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:43:24 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:43:25 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:43:25 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:43:25 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:43:25 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:43:25 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:43:25 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:43:25 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:43:25 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:43:25 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:43:25 --> Final output sent to browser
+DEBUG - 2019-01-12 21:43:25 --> Total execution time: 1.5457
+INFO - 2019-01-12 21:43:25 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:43:25 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:43:34 --> Config Class Initialized
+INFO - 2019-01-12 21:43:34 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:43:34 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:43:34 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:43:34 --> URI Class Initialized
+INFO - 2019-01-12 21:43:34 --> Router Class Initialized
+INFO - 2019-01-12 21:43:34 --> Output Class Initialized
+INFO - 2019-01-12 21:43:34 --> Security Class Initialized
+DEBUG - 2019-01-12 21:43:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:43:34 --> Input Class Initialized
+INFO - 2019-01-12 21:43:34 --> Language Class Initialized
+INFO - 2019-01-12 21:43:35 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:43:35 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:43:35 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:43:35 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:43:35 --> Email Class Initialized
+DEBUG - 2019-01-12 21:43:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:43:35 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:43:35 --> Controller Class Initialized
+INFO - 2019-01-12 21:43:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:43:35 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:43:35 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:43:35 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:43:35 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:43:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:43:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:43:35 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:43:35 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:43:35 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:43:35 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:43:35 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:43:35 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:43:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:43:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:43:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:43:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:43:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:43:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:43:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:43:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:43:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:43:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:43:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:43:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:43:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:43:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:43:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:43:36 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:43:36 --> Final output sent to browser
+DEBUG - 2019-01-12 21:43:36 --> Total execution time: 1.4803
+INFO - 2019-01-12 21:43:36 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:43:36 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:43:37 --> Config Class Initialized
+INFO - 2019-01-12 21:43:37 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:43:37 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:43:37 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:43:37 --> URI Class Initialized
+INFO - 2019-01-12 21:43:37 --> Router Class Initialized
+INFO - 2019-01-12 21:43:37 --> Output Class Initialized
+INFO - 2019-01-12 21:43:37 --> Security Class Initialized
+DEBUG - 2019-01-12 21:43:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:43:37 --> Input Class Initialized
+INFO - 2019-01-12 21:43:37 --> Language Class Initialized
+ERROR - 2019-01-12 21:43:37 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:43:42 --> Config Class Initialized
+INFO - 2019-01-12 21:43:42 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:43:42 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:43:42 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:43:42 --> URI Class Initialized
+INFO - 2019-01-12 21:43:42 --> Router Class Initialized
+INFO - 2019-01-12 21:43:43 --> Output Class Initialized
+INFO - 2019-01-12 21:43:43 --> Security Class Initialized
+DEBUG - 2019-01-12 21:43:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:43:43 --> Input Class Initialized
+INFO - 2019-01-12 21:43:43 --> Language Class Initialized
+INFO - 2019-01-12 21:43:43 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:43:43 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:43:43 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:43:43 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:43:43 --> Email Class Initialized
+DEBUG - 2019-01-12 21:43:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:43:43 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:43:43 --> Controller Class Initialized
+INFO - 2019-01-12 21:43:43 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:43:43 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:43:43 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:43:43 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:43:43 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:43:43 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:43:43 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:43:43 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-banner.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/home-index.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:43:44 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:43:44 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:43:44 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:43:44 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:43:44 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:43:44 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:43:44 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:43:44 --> Final output sent to browser
+DEBUG - 2019-01-12 21:43:44 --> Total execution time: 1.7422
+INFO - 2019-01-12 21:43:44 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:43:44 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:43:46 --> Config Class Initialized
+INFO - 2019-01-12 21:43:46 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:43:46 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:43:46 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:43:46 --> URI Class Initialized
+INFO - 2019-01-12 21:43:46 --> Router Class Initialized
+INFO - 2019-01-12 21:43:46 --> Output Class Initialized
+INFO - 2019-01-12 21:43:46 --> Security Class Initialized
+DEBUG - 2019-01-12 21:43:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:43:46 --> Input Class Initialized
+INFO - 2019-01-12 21:43:46 --> Language Class Initialized
+ERROR - 2019-01-12 21:43:46 --> 404 Page Not Found: Assets/themes
+INFO - 2019-01-12 21:55:10 --> Config Class Initialized
+INFO - 2019-01-12 21:55:10 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:10 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:10 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:10 --> URI Class Initialized
+INFO - 2019-01-12 21:55:10 --> Router Class Initialized
+INFO - 2019-01-12 21:55:10 --> Output Class Initialized
+INFO - 2019-01-12 21:55:10 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:10 --> Input Class Initialized
+INFO - 2019-01-12 21:55:10 --> Language Class Initialized
+INFO - 2019-01-12 21:55:10 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:55:10 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:55:10 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:55:10 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:55:10 --> Email Class Initialized
+DEBUG - 2019-01-12 21:55:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:55:10 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:55:10 --> Controller Class Initialized
+INFO - 2019-01-12 21:55:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:55:10 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:10 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:10 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:10 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/about.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:55:11 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:55:11 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:55:11 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:55:11 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:55:11 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:55:11 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:55:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:55:11 --> Final output sent to browser
+DEBUG - 2019-01-12 21:55:11 --> Total execution time: 1.6392
+INFO - 2019-01-12 21:55:11 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:11 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:11 --> Config Class Initialized
+INFO - 2019-01-12 21:55:12 --> Config Class Initialized
+INFO - 2019-01-12 21:55:12 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:12 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:12 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:12 --> URI Class Initialized
+INFO - 2019-01-12 21:55:12 --> Router Class Initialized
+INFO - 2019-01-12 21:55:12 --> Output Class Initialized
+INFO - 2019-01-12 21:55:12 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:12 --> Input Class Initialized
+INFO - 2019-01-12 21:55:12 --> Language Class Initialized
+ERROR - 2019-01-12 21:55:12 --> 404 Page Not Found: Images/about-01.jpg
+INFO - 2019-01-12 21:55:12 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:12 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:12 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:12 --> URI Class Initialized
+INFO - 2019-01-12 21:55:12 --> Router Class Initialized
+INFO - 2019-01-12 21:55:12 --> Output Class Initialized
+INFO - 2019-01-12 21:55:12 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:12 --> Input Class Initialized
+INFO - 2019-01-12 21:55:12 --> Language Class Initialized
+INFO - 2019-01-12 21:55:12 --> Config Class Initialized
+ERROR - 2019-01-12 21:55:13 --> 404 Page Not Found: Images/about-02.jpg
+INFO - 2019-01-12 21:55:13 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:13 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:13 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:13 --> URI Class Initialized
+INFO - 2019-01-12 21:55:13 --> Router Class Initialized
+INFO - 2019-01-12 21:55:13 --> Output Class Initialized
+INFO - 2019-01-12 21:55:13 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:13 --> Input Class Initialized
+INFO - 2019-01-12 21:55:13 --> Language Class Initialized
+ERROR - 2019-01-12 21:55:13 --> 404 Page Not Found: Images/bg-01.jpg
+INFO - 2019-01-12 21:55:19 --> Config Class Initialized
+INFO - 2019-01-12 21:55:19 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:19 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:19 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:19 --> URI Class Initialized
+INFO - 2019-01-12 21:55:19 --> Router Class Initialized
+INFO - 2019-01-12 21:55:19 --> Output Class Initialized
+INFO - 2019-01-12 21:55:20 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:20 --> Input Class Initialized
+INFO - 2019-01-12 21:55:20 --> Language Class Initialized
+INFO - 2019-01-12 21:55:20 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:55:20 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:55:20 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:55:20 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:55:20 --> Email Class Initialized
+DEBUG - 2019-01-12 21:55:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:55:20 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:55:20 --> Controller Class Initialized
+INFO - 2019-01-12 21:55:20 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:55:21 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:21 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:21 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:21 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/about.php
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:55:22 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:55:22 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:55:22 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:55:22 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:55:22 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:55:22 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:55:22 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:55:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:55:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:55:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:55:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:55:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:55:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:55:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:55:23 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:55:23 --> Config Class Initialized
+INFO - 2019-01-12 21:55:23 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:23 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:23 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:23 --> URI Class Initialized
+INFO - 2019-01-12 21:55:23 --> Router Class Initialized
+INFO - 2019-01-12 21:55:23 --> Output Class Initialized
+INFO - 2019-01-12 21:55:24 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:24 --> Input Class Initialized
+INFO - 2019-01-12 21:55:24 --> Language Class Initialized
+INFO - 2019-01-12 21:55:24 --> Config Class Initialized
+INFO - 2019-01-12 21:55:24 --> Final output sent to browser
+INFO - 2019-01-12 21:55:24 --> Config Class Initialized
+INFO - 2019-01-12 21:55:24 --> Config Class Initialized
+INFO - 2019-01-12 21:55:24 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:55:24 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:55:24 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:55:24 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:55:24 --> Email Class Initialized
+DEBUG - 2019-01-12 21:55:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:55:24 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:24 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:24 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:24 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:24 --> URI Class Initialized
+DEBUG - 2019-01-12 21:55:24 --> Total execution time: 3.9248
+INFO - 2019-01-12 21:55:24 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:24 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:25 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:25 --> URI Class Initialized
+INFO - 2019-01-12 21:55:25 --> Router Class Initialized
+INFO - 2019-01-12 21:55:25 --> Output Class Initialized
+INFO - 2019-01-12 21:55:25 --> Config Class Initialized
+INFO - 2019-01-12 21:55:25 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:25 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:25 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:55:25 --> Router Class Initialized
+INFO - 2019-01-12 21:55:25 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:25 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:25 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:25 --> Controller Class Initialized
+DEBUG - 2019-01-12 21:55:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:25 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:55:25 --> Input Class Initialized
+INFO - 2019-01-12 21:55:25 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:25 --> Config Class Initialized
+INFO - 2019-01-12 21:55:25 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:26 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:26 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:26 --> URI Class Initialized
+INFO - 2019-01-12 21:55:26 --> Router Class Initialized
+INFO - 2019-01-12 21:55:26 --> Output Class Initialized
+INFO - 2019-01-12 21:55:26 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:27 --> Output Class Initialized
+DEBUG - 2019-01-12 21:55:27 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:27 --> URI Class Initialized
+INFO - 2019-01-12 21:55:27 --> Input Class Initialized
+INFO - 2019-01-12 21:55:27 --> Language Class Initialized
+INFO - 2019-01-12 21:55:27 --> Language Class Initialized
+INFO - 2019-01-12 21:55:27 --> Security Class Initialized
+INFO - 2019-01-12 21:55:27 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:27 --> Router Class Initialized
+ERROR - 2019-01-12 21:55:27 --> 404 Page Not Found: Images/about-01.jpg
+INFO - 2019-01-12 21:55:27 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:27 --> Config Class Initialized
+INFO - 2019-01-12 21:55:27 --> Output Class Initialized
+INFO - 2019-01-12 21:55:27 --> URI Class Initialized
+INFO - 2019-01-12 21:55:27 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:27 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:55:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:27 --> Input Class Initialized
+INFO - 2019-01-12 21:55:27 --> Language Class Initialized
+DEBUG - 2019-01-12 21:55:27 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:27 --> Loader Class Initialized
+INFO - 2019-01-12 21:55:27 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:27 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+DEBUG - 2019-01-12 21:55:27 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:55:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:27 --> Input Class Initialized
+DEBUG - 2019-01-12 21:55:27 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:55:27 --> Router Class Initialized
+INFO - 2019-01-12 21:55:27 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:55:27 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:27 --> Language Class Initialized
+INFO - 2019-01-12 21:55:27 --> URI Class Initialized
+INFO - 2019-01-12 21:55:27 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:55:27 --> Output Class Initialized
+INFO - 2019-01-12 21:55:27 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:55:27 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:27 --> Loader Class Initialized
+INFO - 2019-01-12 21:55:27 --> Router Class Initialized
+INFO - 2019-01-12 21:55:27 --> Email Class Initialized
+INFO - 2019-01-12 21:55:27 --> Security Class Initialized
+INFO - 2019-01-12 21:55:27 --> Helper loaded: url_helper
+DEBUG - 2019-01-12 21:55:27 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:55:27 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:55:27 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:55:27 --> Email Class Initialized
+DEBUG - 2019-01-12 21:55:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:55:27 --> Output Class Initialized
+INFO - 2019-01-12 21:55:27 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:28 --> Input Class Initialized
+DEBUG - 2019-01-12 21:55:28 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:55:28 --> Email Class Initialized
+DEBUG - 2019-01-12 21:55:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:55:28 --> Language Class Initialized
+DEBUG - 2019-01-12 21:55:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-12 21:55:28 --> 404 Page Not Found: Images/about-02.jpg
+DEBUG - 2019-01-12 21:55:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:55:28 --> Input Class Initialized
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:55:28 --> Language Class Initialized
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/about.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+ERROR - 2019-01-12 21:55:28 --> 404 Page Not Found: Images/bg-01.jpg
+DEBUG - 2019-01-12 21:55:28 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:55:28 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:55:28 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:55:28 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:55:28 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:55:28 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:55:28 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:55:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:55:29 --> Final output sent to browser
+DEBUG - 2019-01-12 21:55:29 --> Total execution time: 5.6126
+INFO - 2019-01-12 21:55:29 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:55:29 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:29 --> Controller Class Initialized
+INFO - 2019-01-12 21:55:29 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:29 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:55:29 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:29 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:30 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:30 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/about.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:55:30 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:55:30 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:55:30 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:55:30 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:55:30 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:55:30 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:55:30 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:55:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:55:31 --> Final output sent to browser
+DEBUG - 2019-01-12 21:55:31 --> Total execution time: 7.5436
+INFO - 2019-01-12 21:55:31 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:55:31 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:31 --> Controller Class Initialized
+INFO - 2019-01-12 21:55:31 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:31 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:55:31 --> Config Class Initialized
+INFO - 2019-01-12 21:55:31 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:31 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:31 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:31 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:31 --> URI Class Initialized
+INFO - 2019-01-12 21:55:31 --> Router Class Initialized
+INFO - 2019-01-12 21:55:31 --> Output Class Initialized
+INFO - 2019-01-12 21:55:31 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:31 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:31 --> Input Class Initialized
+INFO - 2019-01-12 21:55:31 --> Language Class Initialized
+INFO - 2019-01-12 21:55:31 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:55:31 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:55:31 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:55:32 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:32 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:55:32 --> Email Class Initialized
+DEBUG - 2019-01-12 21:55:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2019-01-12 21:55:32 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/about.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:55:32 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:55:32 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:55:32 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:55:32 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:55:32 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:55:32 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:55:32 --> Config Class Initialized
+INFO - 2019-01-12 21:55:32 --> Config Class Initialized
+INFO - 2019-01-12 21:55:32 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:32 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:55:32 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+DEBUG - 2019-01-12 21:55:33 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:55:33 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:55:33 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:33 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:33 --> URI Class Initialized
+INFO - 2019-01-12 21:55:33 --> URI Class Initialized
+INFO - 2019-01-12 21:55:33 --> Final output sent to browser
+DEBUG - 2019-01-12 21:55:33 --> Total execution time: 9.5353
+INFO - 2019-01-12 21:55:33 --> Router Class Initialized
+INFO - 2019-01-12 21:55:33 --> Router Class Initialized
+INFO - 2019-01-12 21:55:33 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:55:33 --> Output Class Initialized
+INFO - 2019-01-12 21:55:33 --> Controller Class Initialized
+INFO - 2019-01-12 21:55:33 --> Config Class Initialized
+INFO - 2019-01-12 21:55:33 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:33 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:55:33 --> Output Class Initialized
+INFO - 2019-01-12 21:55:33 --> Security Class Initialized
+INFO - 2019-01-12 21:55:33 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:33 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:33 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-12 21:55:33 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:33 --> Input Class Initialized
+INFO - 2019-01-12 21:55:33 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:33 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:33 --> Language Class Initialized
+INFO - 2019-01-12 21:55:33 --> Input Class Initialized
+INFO - 2019-01-12 21:55:33 --> URI Class Initialized
+ERROR - 2019-01-12 21:55:33 --> 404 Page Not Found: Images/about-01.jpg
+INFO - 2019-01-12 21:55:33 --> Language Class Initialized
+INFO - 2019-01-12 21:55:33 --> Router Class Initialized
+ERROR - 2019-01-12 21:55:33 --> 404 Page Not Found: Images/bg-01.jpg
+INFO - 2019-01-12 21:55:33 --> Output Class Initialized
+INFO - 2019-01-12 21:55:33 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:33 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:33 --> Input Class Initialized
+INFO - 2019-01-12 21:55:33 --> Language Class Initialized
+INFO - 2019-01-12 21:55:33 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+ERROR - 2019-01-12 21:55:33 --> 404 Page Not Found: Images/about-02.jpg
+DEBUG - 2019-01-12 21:55:33 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/about.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:55:34 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:55:34 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:55:34 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:55:34 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:55:34 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:55:34 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:55:34 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:55:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:55:35 --> Final output sent to browser
+DEBUG - 2019-01-12 21:55:35 --> Total execution time: 11.4982
+INFO - 2019-01-12 21:55:35 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:35 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:55:35 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:35 --> Controller Class Initialized
+INFO - 2019-01-12 21:55:35 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:55:35 --> Config Class Initialized
+INFO - 2019-01-12 21:55:35 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:35 --> Config Class Initialized
+DEBUG - 2019-01-12 21:55:35 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:35 --> Config Class Initialized
+INFO - 2019-01-12 21:55:35 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:35 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:36 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:36 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:36 --> URI Class Initialized
+INFO - 2019-01-12 21:55:36 --> Router Class Initialized
+INFO - 2019-01-12 21:55:36 --> Output Class Initialized
+INFO - 2019-01-12 21:55:36 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:36 --> Input Class Initialized
+INFO - 2019-01-12 21:55:36 --> Language Class Initialized
+ERROR - 2019-01-12 21:55:36 --> 404 Page Not Found: Images/bg-01.jpg
+INFO - 2019-01-12 21:55:36 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:36 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:36 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:36 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:36 --> URI Class Initialized
+INFO - 2019-01-12 21:55:36 --> URI Class Initialized
+DEBUG - 2019-01-12 21:55:36 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:36 --> Router Class Initialized
+INFO - 2019-01-12 21:55:36 --> Output Class Initialized
+INFO - 2019-01-12 21:55:36 --> Router Class Initialized
+INFO - 2019-01-12 21:55:36 --> Output Class Initialized
+INFO - 2019-01-12 21:55:36 --> Security Class Initialized
+INFO - 2019-01-12 21:55:36 --> Security Class Initialized
+INFO - 2019-01-12 21:55:36 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:36 --> Input Class Initialized
+DEBUG - 2019-01-12 21:55:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:36 --> Input Class Initialized
+INFO - 2019-01-12 21:55:36 --> Language Class Initialized
+INFO - 2019-01-12 21:55:36 --> Language Class Initialized
+DEBUG - 2019-01-12 21:55:36 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+ERROR - 2019-01-12 21:55:36 --> 404 Page Not Found: Images/about-02.jpg
+ERROR - 2019-01-12 21:55:37 --> 404 Page Not Found: Images/about-01.jpg
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/cart.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:55:37 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:55:37 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:55:37 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:55:37 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:55:37 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:55:37 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:55:37 --> Config Class Initialized
+INFO - 2019-01-12 21:55:37 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:37 --> Config Class Initialized
+DEBUG - 2019-01-12 21:55:37 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:37 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:37 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:55:37 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:37 --> Config Class Initialized
+DEBUG - 2019-01-12 21:55:37 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:37 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:37 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:38 --> URI Class Initialized
+INFO - 2019-01-12 21:55:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+DEBUG - 2019-01-12 21:55:38 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:38 --> Router Class Initialized
+INFO - 2019-01-12 21:55:38 --> URI Class Initialized
+INFO - 2019-01-12 21:55:38 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:55:38 --> Output Class Initialized
+INFO - 2019-01-12 21:55:38 --> Router Class Initialized
+INFO - 2019-01-12 21:55:38 --> URI Class Initialized
+INFO - 2019-01-12 21:55:38 --> Security Class Initialized
+INFO - 2019-01-12 21:55:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:55:38 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:55:38 --> Final output sent to browser
+INFO - 2019-01-12 21:55:38 --> Router Class Initialized
+INFO - 2019-01-12 21:55:38 --> Output Class Initialized
+DEBUG - 2019-01-12 21:55:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-12 21:55:38 --> Total execution time: 6.9607
+INFO - 2019-01-12 21:55:38 --> Output Class Initialized
+INFO - 2019-01-12 21:55:38 --> Input Class Initialized
+INFO - 2019-01-12 21:55:38 --> Security Class Initialized
+INFO - 2019-01-12 21:55:38 --> Language Class Initialized
+INFO - 2019-01-12 21:55:38 --> Security Class Initialized
+INFO - 2019-01-12 21:55:38 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+DEBUG - 2019-01-12 21:55:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-12 21:55:38 --> 404 Page Not Found: Images/bg-01.jpg
+INFO - 2019-01-12 21:55:38 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+DEBUG - 2019-01-12 21:55:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:38 --> Input Class Initialized
+INFO - 2019-01-12 21:55:38 --> Input Class Initialized
+INFO - 2019-01-12 21:55:38 --> Language Class Initialized
+INFO - 2019-01-12 21:55:38 --> Config Class Initialized
+INFO - 2019-01-12 21:55:38 --> Language Class Initialized
+ERROR - 2019-01-12 21:55:38 --> 404 Page Not Found: Images/about-01.jpg
+ERROR - 2019-01-12 21:55:38 --> 404 Page Not Found: Images/about-02.jpg
+INFO - 2019-01-12 21:55:38 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:38 --> Config Class Initialized
+DEBUG - 2019-01-12 21:55:38 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:38 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:38 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:38 --> URI Class Initialized
+DEBUG - 2019-01-12 21:55:38 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:38 --> Router Class Initialized
+INFO - 2019-01-12 21:55:38 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:38 --> URI Class Initialized
+INFO - 2019-01-12 21:55:38 --> Output Class Initialized
+INFO - 2019-01-12 21:55:39 --> Config Class Initialized
+INFO - 2019-01-12 21:55:39 --> Security Class Initialized
+INFO - 2019-01-12 21:55:39 --> Router Class Initialized
+INFO - 2019-01-12 21:55:39 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:39 --> Output Class Initialized
+DEBUG - 2019-01-12 21:55:39 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:39 --> Input Class Initialized
+INFO - 2019-01-12 21:55:39 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:39 --> Security Class Initialized
+INFO - 2019-01-12 21:55:39 --> Language Class Initialized
+DEBUG - 2019-01-12 21:55:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:39 --> Input Class Initialized
+INFO - 2019-01-12 21:55:39 --> Language Class Initialized
+ERROR - 2019-01-12 21:55:39 --> 404 Page Not Found: Images/item-cart-05.jpg
+INFO - 2019-01-12 21:55:39 --> URI Class Initialized
+ERROR - 2019-01-12 21:55:39 --> 404 Page Not Found: Images/item-cart-04.jpg
+INFO - 2019-01-12 21:55:39 --> Router Class Initialized
+INFO - 2019-01-12 21:55:39 --> Output Class Initialized
+INFO - 2019-01-12 21:55:39 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:39 --> Input Class Initialized
+INFO - 2019-01-12 21:55:39 --> Language Class Initialized
+INFO - 2019-01-12 21:55:39 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:55:39 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:55:39 --> Config Class Initialized
+INFO - 2019-01-12 21:55:39 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:55:39 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:39 --> Config Class Initialized
+DEBUG - 2019-01-12 21:55:39 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:40 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:40 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:55:40 --> Config Class Initialized
+INFO - 2019-01-12 21:55:40 --> Utf8 Class Initialized
+DEBUG - 2019-01-12 21:55:40 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:40 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:40 --> Email Class Initialized
+INFO - 2019-01-12 21:55:40 --> URI Class Initialized
+INFO - 2019-01-12 21:55:40 --> Utf8 Class Initialized
+DEBUG - 2019-01-12 21:55:40 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:55:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:55:40 --> Router Class Initialized
+INFO - 2019-01-12 21:55:40 --> URI Class Initialized
+INFO - 2019-01-12 21:55:40 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:55:40 --> Output Class Initialized
+INFO - 2019-01-12 21:55:40 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:40 --> Controller Class Initialized
+INFO - 2019-01-12 21:55:40 --> Router Class Initialized
+INFO - 2019-01-12 21:55:40 --> Security Class Initialized
+INFO - 2019-01-12 21:55:40 --> Output Class Initialized
+INFO - 2019-01-12 21:55:40 --> URI Class Initialized
+INFO - 2019-01-12 21:55:40 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+DEBUG - 2019-01-12 21:55:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:40 --> Input Class Initialized
+INFO - 2019-01-12 21:55:40 --> Security Class Initialized
+INFO - 2019-01-12 21:55:40 --> Router Class Initialized
+INFO - 2019-01-12 21:55:40 --> Language Class Initialized
+INFO - 2019-01-12 21:55:40 --> Output Class Initialized
+DEBUG - 2019-01-12 21:55:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:40 --> Security Class Initialized
+INFO - 2019-01-12 21:55:40 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-12 21:55:40 --> 404 Page Not Found: Images/bg-01.jpg
+INFO - 2019-01-12 21:55:40 --> Input Class Initialized
+INFO - 2019-01-12 21:55:40 --> Input Class Initialized
+INFO - 2019-01-12 21:55:40 --> Language Class Initialized
+INFO - 2019-01-12 21:55:40 --> Language Class Initialized
+DEBUG - 2019-01-12 21:55:40 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+ERROR - 2019-01-12 21:55:40 --> 404 Page Not Found: Images/about-01.jpg
+ERROR - 2019-01-12 21:55:40 --> 404 Page Not Found: Images/about-02.jpg
+INFO - 2019-01-12 21:55:40 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:41 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/contact.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:55:41 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:55:41 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:55:41 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:55:41 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:55:41 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:55:41 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:55:41 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:55:41 --> Final output sent to browser
+DEBUG - 2019-01-12 21:55:41 --> Total execution time: 2.6878
+INFO - 2019-01-12 21:55:41 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:41 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:41 --> Config Class Initialized
+INFO - 2019-01-12 21:55:41 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:41 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:41 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:41 --> URI Class Initialized
+INFO - 2019-01-12 21:55:42 --> Router Class Initialized
+INFO - 2019-01-12 21:55:42 --> Config Class Initialized
+INFO - 2019-01-12 21:55:42 --> Output Class Initialized
+INFO - 2019-01-12 21:55:42 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:42 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:42 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:55:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:42 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:42 --> Input Class Initialized
+INFO - 2019-01-12 21:55:42 --> URI Class Initialized
+INFO - 2019-01-12 21:55:42 --> Language Class Initialized
+INFO - 2019-01-12 21:55:42 --> Router Class Initialized
+ERROR - 2019-01-12 21:55:42 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-12 21:55:42 --> Output Class Initialized
+INFO - 2019-01-12 21:55:42 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:42 --> Input Class Initialized
+INFO - 2019-01-12 21:55:42 --> Language Class Initialized
+ERROR - 2019-01-12 21:55:42 --> 404 Page Not Found: Images/bg-01.jpg
+INFO - 2019-01-12 21:55:45 --> Config Class Initialized
+INFO - 2019-01-12 21:55:46 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:46 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:46 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:46 --> URI Class Initialized
+INFO - 2019-01-12 21:55:46 --> Router Class Initialized
+INFO - 2019-01-12 21:55:46 --> Output Class Initialized
+INFO - 2019-01-12 21:55:46 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:46 --> Input Class Initialized
+INFO - 2019-01-12 21:55:46 --> Language Class Initialized
+INFO - 2019-01-12 21:55:46 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:55:46 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:55:46 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:55:46 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:55:46 --> Email Class Initialized
+DEBUG - 2019-01-12 21:55:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:55:46 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:55:46 --> Controller Class Initialized
+INFO - 2019-01-12 21:55:46 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:55:46 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:46 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:55:46 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:55:47 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/cart.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:55:47 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:55:47 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:55:47 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:55:47 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:55:47 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:55:47 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:55:47 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:55:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:55:48 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:55:48 --> Final output sent to browser
+DEBUG - 2019-01-12 21:55:48 --> Total execution time: 2.1917
+INFO - 2019-01-12 21:55:48 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:48 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:55:48 --> Config Class Initialized
+INFO - 2019-01-12 21:55:48 --> Config Class Initialized
+INFO - 2019-01-12 21:55:48 --> Hooks Class Initialized
+INFO - 2019-01-12 21:55:48 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:48 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:55:48 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:48 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:48 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:48 --> URI Class Initialized
+INFO - 2019-01-12 21:55:48 --> URI Class Initialized
+INFO - 2019-01-12 21:55:48 --> Router Class Initialized
+INFO - 2019-01-12 21:55:48 --> Router Class Initialized
+INFO - 2019-01-12 21:55:48 --> Output Class Initialized
+INFO - 2019-01-12 21:55:48 --> Output Class Initialized
+INFO - 2019-01-12 21:55:48 --> Security Class Initialized
+INFO - 2019-01-12 21:55:48 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:48 --> Input Class Initialized
+DEBUG - 2019-01-12 21:55:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:48 --> Input Class Initialized
+INFO - 2019-01-12 21:55:48 --> Language Class Initialized
+INFO - 2019-01-12 21:55:48 --> Language Class Initialized
+ERROR - 2019-01-12 21:55:48 --> 404 Page Not Found: Images/item-cart-05.jpg
+ERROR - 2019-01-12 21:55:48 --> 404 Page Not Found: Images/item-cart-04.jpg
+INFO - 2019-01-12 21:55:59 --> Config Class Initialized
+INFO - 2019-01-12 21:55:59 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:55:59 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:55:59 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:55:59 --> URI Class Initialized
+INFO - 2019-01-12 21:55:59 --> Router Class Initialized
+INFO - 2019-01-12 21:55:59 --> Output Class Initialized
+INFO - 2019-01-12 21:55:59 --> Security Class Initialized
+DEBUG - 2019-01-12 21:55:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:55:59 --> Input Class Initialized
+INFO - 2019-01-12 21:55:59 --> Language Class Initialized
+INFO - 2019-01-12 21:55:59 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:55:59 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:55:59 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:55:59 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:55:59 --> Email Class Initialized
+DEBUG - 2019-01-12 21:55:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:56:00 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:56:00 --> Controller Class Initialized
+INFO - 2019-01-12 21:56:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:56:00 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:56:00 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:56:00 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:56:00 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:56:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:56:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:56:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/detail.php
+INFO - 2019-01-12 21:56:00 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:56:00 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:56:00 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:56:00 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:56:00 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:56:01 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:56:01 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:56:01 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:56:01 --> Final output sent to browser
+DEBUG - 2019-01-12 21:56:01 --> Total execution time: 1.9495
+INFO - 2019-01-12 21:56:01 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:56:01 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:56:02 --> Config Class Initialized
+INFO - 2019-01-12 21:56:02 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:02 --> Config Class Initialized
+INFO - 2019-01-12 21:56:02 --> Config Class Initialized
+INFO - 2019-01-12 21:56:02 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:02 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:02 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:02 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:02 --> URI Class Initialized
+DEBUG - 2019-01-12 21:56:02 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:56:02 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:02 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:02 --> Router Class Initialized
+INFO - 2019-01-12 21:56:02 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:02 --> URI Class Initialized
+INFO - 2019-01-12 21:56:02 --> Output Class Initialized
+INFO - 2019-01-12 21:56:02 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:02 --> Input Class Initialized
+INFO - 2019-01-12 21:56:02 --> Language Class Initialized
+INFO - 2019-01-12 21:56:02 --> Router Class Initialized
+INFO - 2019-01-12 21:56:02 --> URI Class Initialized
+INFO - 2019-01-12 21:56:02 --> Output Class Initialized
+ERROR - 2019-01-12 21:56:02 --> 404 Page Not Found: Images/product-detail-02.jpg
+INFO - 2019-01-12 21:56:02 --> Router Class Initialized
+INFO - 2019-01-12 21:56:02 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:02 --> Output Class Initialized
+INFO - 2019-01-12 21:56:02 --> Input Class Initialized
+INFO - 2019-01-12 21:56:02 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:02 --> Input Class Initialized
+INFO - 2019-01-12 21:56:02 --> Language Class Initialized
+INFO - 2019-01-12 21:56:02 --> Language Class Initialized
+ERROR - 2019-01-12 21:56:02 --> 404 Page Not Found: Images/product-detail-01.jpg
+ERROR - 2019-01-12 21:56:03 --> 404 Page Not Found: Images/product-detail-03.jpg
+INFO - 2019-01-12 21:56:03 --> Config Class Initialized
+INFO - 2019-01-12 21:56:03 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:03 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:03 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:03 --> URI Class Initialized
+INFO - 2019-01-12 21:56:03 --> Router Class Initialized
+INFO - 2019-01-12 21:56:03 --> Output Class Initialized
+INFO - 2019-01-12 21:56:03 --> Config Class Initialized
+INFO - 2019-01-12 21:56:03 --> Config Class Initialized
+INFO - 2019-01-12 21:56:03 --> Security Class Initialized
+INFO - 2019-01-12 21:56:03 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:03 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:03 --> Input Class Initialized
+INFO - 2019-01-12 21:56:03 --> Language Class Initialized
+ERROR - 2019-01-12 21:56:03 --> 404 Page Not Found: Images/avatar-01.jpg
+DEBUG - 2019-01-12 21:56:03 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:56:03 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:03 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:03 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:03 --> Config Class Initialized
+INFO - 2019-01-12 21:56:03 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:03 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:03 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:03 --> URI Class Initialized
+INFO - 2019-01-12 21:56:03 --> URI Class Initialized
+INFO - 2019-01-12 21:56:03 --> Router Class Initialized
+INFO - 2019-01-12 21:56:03 --> URI Class Initialized
+INFO - 2019-01-12 21:56:03 --> Output Class Initialized
+INFO - 2019-01-12 21:56:03 --> Router Class Initialized
+INFO - 2019-01-12 21:56:03 --> Router Class Initialized
+INFO - 2019-01-12 21:56:03 --> Security Class Initialized
+INFO - 2019-01-12 21:56:03 --> Output Class Initialized
+INFO - 2019-01-12 21:56:03 --> Output Class Initialized
+DEBUG - 2019-01-12 21:56:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:04 --> Input Class Initialized
+INFO - 2019-01-12 21:56:04 --> Language Class Initialized
+INFO - 2019-01-12 21:56:04 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:04 --> Input Class Initialized
+INFO - 2019-01-12 21:56:04 --> Security Class Initialized
+ERROR - 2019-01-12 21:56:04 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-12 21:56:04 --> Language Class Initialized
+DEBUG - 2019-01-12 21:56:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:04 --> Config Class Initialized
+ERROR - 2019-01-12 21:56:04 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-12 21:56:04 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:04 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:04 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:04 --> URI Class Initialized
+INFO - 2019-01-12 21:56:04 --> Input Class Initialized
+INFO - 2019-01-12 21:56:04 --> Router Class Initialized
+INFO - 2019-01-12 21:56:04 --> Config Class Initialized
+INFO - 2019-01-12 21:56:04 --> Language Class Initialized
+INFO - 2019-01-12 21:56:04 --> Hooks Class Initialized
+ERROR - 2019-01-12 21:56:04 --> 404 Page Not Found: Images/product-01.jpg
+DEBUG - 2019-01-12 21:56:04 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:04 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:04 --> URI Class Initialized
+INFO - 2019-01-12 21:56:04 --> Router Class Initialized
+INFO - 2019-01-12 21:56:04 --> Output Class Initialized
+INFO - 2019-01-12 21:56:04 --> Config Class Initialized
+INFO - 2019-01-12 21:56:04 --> Security Class Initialized
+INFO - 2019-01-12 21:56:04 --> Output Class Initialized
+INFO - 2019-01-12 21:56:04 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-12 21:56:04 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:04 --> Security Class Initialized
+INFO - 2019-01-12 21:56:04 --> Input Class Initialized
+INFO - 2019-01-12 21:56:04 --> Utf8 Class Initialized
+DEBUG - 2019-01-12 21:56:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:04 --> URI Class Initialized
+INFO - 2019-01-12 21:56:04 --> Router Class Initialized
+INFO - 2019-01-12 21:56:05 --> Output Class Initialized
+INFO - 2019-01-12 21:56:05 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:05 --> Input Class Initialized
+INFO - 2019-01-12 21:56:05 --> Language Class Initialized
+INFO - 2019-01-12 21:56:05 --> Input Class Initialized
+INFO - 2019-01-12 21:56:05 --> Language Class Initialized
+ERROR - 2019-01-12 21:56:05 --> 404 Page Not Found: Images/product-02.jpg
+INFO - 2019-01-12 21:56:05 --> Language Class Initialized
+ERROR - 2019-01-12 21:56:05 --> 404 Page Not Found: Images/product-04.jpg
+ERROR - 2019-01-12 21:56:05 --> 404 Page Not Found: Images/product-03.jpg
+INFO - 2019-01-12 21:56:05 --> Config Class Initialized
+INFO - 2019-01-12 21:56:05 --> Config Class Initialized
+INFO - 2019-01-12 21:56:05 --> Config Class Initialized
+INFO - 2019-01-12 21:56:05 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:05 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:05 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:05 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:56:05 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:56:05 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:05 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:05 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:05 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:05 --> URI Class Initialized
+INFO - 2019-01-12 21:56:05 --> URI Class Initialized
+INFO - 2019-01-12 21:56:05 --> URI Class Initialized
+INFO - 2019-01-12 21:56:05 --> Router Class Initialized
+INFO - 2019-01-12 21:56:05 --> Router Class Initialized
+INFO - 2019-01-12 21:56:05 --> Router Class Initialized
+INFO - 2019-01-12 21:56:05 --> Output Class Initialized
+INFO - 2019-01-12 21:56:05 --> Output Class Initialized
+INFO - 2019-01-12 21:56:05 --> Output Class Initialized
+INFO - 2019-01-12 21:56:05 --> Security Class Initialized
+INFO - 2019-01-12 21:56:05 --> Security Class Initialized
+INFO - 2019-01-12 21:56:05 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-12 21:56:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:05 --> Input Class Initialized
+INFO - 2019-01-12 21:56:05 --> Input Class Initialized
+DEBUG - 2019-01-12 21:56:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:05 --> Language Class Initialized
+INFO - 2019-01-12 21:56:05 --> Language Class Initialized
+INFO - 2019-01-12 21:56:05 --> Input Class Initialized
+ERROR - 2019-01-12 21:56:05 --> 404 Page Not Found: Images/product-05.jpg
+ERROR - 2019-01-12 21:56:05 --> 404 Page Not Found: Images/product-07.jpg
+INFO - 2019-01-12 21:56:05 --> Language Class Initialized
+INFO - 2019-01-12 21:56:05 --> Config Class Initialized
+ERROR - 2019-01-12 21:56:06 --> 404 Page Not Found: Images/product-06.jpg
+INFO - 2019-01-12 21:56:06 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:06 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:06 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:06 --> URI Class Initialized
+INFO - 2019-01-12 21:56:06 --> Router Class Initialized
+INFO - 2019-01-12 21:56:06 --> Output Class Initialized
+INFO - 2019-01-12 21:56:06 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:06 --> Input Class Initialized
+INFO - 2019-01-12 21:56:06 --> Language Class Initialized
+ERROR - 2019-01-12 21:56:06 --> 404 Page Not Found: Images/product-08.jpg
+INFO - 2019-01-12 21:56:10 --> Config Class Initialized
+INFO - 2019-01-12 21:56:10 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:10 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:10 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:10 --> URI Class Initialized
+INFO - 2019-01-12 21:56:10 --> Router Class Initialized
+INFO - 2019-01-12 21:56:10 --> Output Class Initialized
+INFO - 2019-01-12 21:56:10 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:10 --> Input Class Initialized
+INFO - 2019-01-12 21:56:10 --> Language Class Initialized
+INFO - 2019-01-12 21:56:10 --> Loader Class Initialized
+DEBUG - 2019-01-12 21:56:10 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\maintenance_config.php
+INFO - 2019-01-12 21:56:10 --> Helper loaded: storehours_helper
+INFO - 2019-01-12 21:56:10 --> Helper loaded: url_helper
+INFO - 2019-01-12 21:56:10 --> Email Class Initialized
+DEBUG - 2019-01-12 21:56:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-01-12 21:56:10 --> Session: Class initialized using 'files' driver.
+INFO - 2019-01-12 21:56:10 --> Controller Class Initialized
+INFO - 2019-01-12 21:56:10 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer_javascript.php
+INFO - 2019-01-12 21:56:10 --> Development:xxxxxxxxxxx-0.0.1 is executing maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:56:10 --> While Development:xxxxxxxxxxx-0.0.1 is in maintenance mode, it was successfully  access by DESKTOP-225VK9J using the unit name Cocoy
+.
+INFO - 2019-01-12 21:56:10 --> Development:xxxxxxxxxxx-0.0.1 is executing ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hooks by DESKTOP-225VK9J with the unit name Cocoy
+.
+DEBUG - 2019-01-12 21:56:11 --> Development:xxxxxxxxxxx-0.0.1DESKTOP-225VK9J with the unit name Cocoy
+ is accessing with SSL Request.
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/navigation.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/header.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/product.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\themes/corastore/footer.php
+DEBUG - 2019-01-12 21:56:11 --> Config file loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\config/development\develbar.php
+INFO - 2019-01-12 21:56:11 --> Helper loaded: utility_helper
+INFO - 2019-01-12 21:56:11 --> Helper loaded: language_helper
+INFO - 2019-01-12 21:56:11 --> Helper loaded: text_helper
+INFO - 2019-01-12 21:56:11 --> Language file loaded: language/english/develbar_lang.php
+DEBUG - 2019-01-12 21:56:11 --> DevelBar Class Initialized !
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/benchmarks.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/memory_usage.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/request.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/database.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/hooks.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/ajax.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/libraries.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/helpers.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/views.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/config.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/session.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/models.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/css/develbar.css
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/develbar.js
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_app\views\utilities/develbar/develbar.php
+INFO - 2019-01-12 21:56:11 --> File loaded: C:\xampp\htdocs\nephi-networking\zerhuel_public\/assets/develbar/js/ajax.js
+INFO - 2019-01-12 21:56:11 --> Final output sent to browser
+DEBUG - 2019-01-12 21:56:11 --> Total execution time: 1.6193
+INFO - 2019-01-12 21:56:11 --> Development:xxxxxxxxxxx-0.0.1 maintenance_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:56:12 --> Development:xxxxxxxxxxx-0.0.1 ssl_hook file in C:\xampp\htdocs\nephi-networking\zerhuel_app\hook was executed completely.
+INFO - 2019-01-12 21:56:12 --> Config Class Initialized
+INFO - 2019-01-12 21:56:12 --> Config Class Initialized
+INFO - 2019-01-12 21:56:12 --> Config Class Initialized
+INFO - 2019-01-12 21:56:12 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:12 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:12 --> Config Class Initialized
+INFO - 2019-01-12 21:56:12 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:12 --> Config Class Initialized
+INFO - 2019-01-12 21:56:12 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:12 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:12 --> Config Class Initialized
+INFO - 2019-01-12 21:56:12 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:12 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:12 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:12 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:12 --> URI Class Initialized
+INFO - 2019-01-12 21:56:12 --> URI Class Initialized
+DEBUG - 2019-01-12 21:56:12 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:56:12 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:12 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:12 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:12 --> Router Class Initialized
+INFO - 2019-01-12 21:56:12 --> Output Class Initialized
+INFO - 2019-01-12 21:56:12 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:12 --> Input Class Initialized
+INFO - 2019-01-12 21:56:12 --> Language Class Initialized
+INFO - 2019-01-12 21:56:12 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:12 --> Router Class Initialized
+ERROR - 2019-01-12 21:56:12 --> 404 Page Not Found: Images/icons
+INFO - 2019-01-12 21:56:12 --> Utf8 Class Initialized
+DEBUG - 2019-01-12 21:56:12 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:12 --> Output Class Initialized
+INFO - 2019-01-12 21:56:12 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:12 --> URI Class Initialized
+INFO - 2019-01-12 21:56:12 --> Config Class Initialized
+INFO - 2019-01-12 21:56:12 --> URI Class Initialized
+INFO - 2019-01-12 21:56:12 --> Router Class Initialized
+INFO - 2019-01-12 21:56:12 --> Router Class Initialized
+INFO - 2019-01-12 21:56:13 --> Output Class Initialized
+INFO - 2019-01-12 21:56:13 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:13 --> URI Class Initialized
+INFO - 2019-01-12 21:56:13 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:13 --> Security Class Initialized
+INFO - 2019-01-12 21:56:13 --> Input Class Initialized
+INFO - 2019-01-12 21:56:13 --> Output Class Initialized
+INFO - 2019-01-12 21:56:13 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:13 --> Language Class Initialized
+INFO - 2019-01-12 21:56:13 --> Router Class Initialized
+INFO - 2019-01-12 21:56:13 --> Output Class Initialized
+INFO - 2019-01-12 21:56:13 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:13 --> Security Class Initialized
+ERROR - 2019-01-12 21:56:13 --> 404 Page Not Found: Images/product-04.jpg
+DEBUG - 2019-01-12 21:56:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-12 21:56:13 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:13 --> URI Class Initialized
+DEBUG - 2019-01-12 21:56:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:13 --> Input Class Initialized
+INFO - 2019-01-12 21:56:13 --> Input Class Initialized
+INFO - 2019-01-12 21:56:13 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:13 --> URI Class Initialized
+INFO - 2019-01-12 21:56:13 --> Router Class Initialized
+INFO - 2019-01-12 21:56:13 --> Language Class Initialized
+INFO - 2019-01-12 21:56:13 --> Config Class Initialized
+INFO - 2019-01-12 21:56:13 --> Router Class Initialized
+INFO - 2019-01-12 21:56:13 --> Language Class Initialized
+INFO - 2019-01-12 21:56:14 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:14 --> Output Class Initialized
+ERROR - 2019-01-12 21:56:14 --> 404 Page Not Found: Images/product-01.jpg
+INFO - 2019-01-12 21:56:14 --> Input Class Initialized
+ERROR - 2019-01-12 21:56:14 --> 404 Page Not Found: Images/icons
+DEBUG - 2019-01-12 21:56:14 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:14 --> Output Class Initialized
+INFO - 2019-01-12 21:56:14 --> Config Class Initialized
+INFO - 2019-01-12 21:56:14 --> Config Class Initialized
+INFO - 2019-01-12 21:56:14 --> Security Class Initialized
+INFO - 2019-01-12 21:56:14 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:14 --> Language Class Initialized
+INFO - 2019-01-12 21:56:14 --> Security Class Initialized
+INFO - 2019-01-12 21:56:14 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:14 --> Hooks Class Initialized
+DEBUG - 2019-01-12 21:56:14 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:56:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-12 21:56:14 --> 404 Page Not Found: Images/product-02.jpg
+INFO - 2019-01-12 21:56:14 --> URI Class Initialized
+DEBUG - 2019-01-12 21:56:14 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:14 --> Utf8 Class Initialized
+DEBUG - 2019-01-12 21:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:14 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:14 --> Input Class Initialized
+INFO - 2019-01-12 21:56:14 --> Config Class Initialized
+INFO - 2019-01-12 21:56:14 --> URI Class Initialized
+INFO - 2019-01-12 21:56:14 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:14 --> Router Class Initialized
+INFO - 2019-01-12 21:56:14 --> Router Class Initialized
+INFO - 2019-01-12 21:56:14 --> Language Class Initialized
+DEBUG - 2019-01-12 21:56:14 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:14 --> Input Class Initialized
+INFO - 2019-01-12 21:56:14 --> URI Class Initialized
+INFO - 2019-01-12 21:56:14 --> Utf8 Class Initialized
+ERROR - 2019-01-12 21:56:14 --> 404 Page Not Found: Images/product-08.jpg
+INFO - 2019-01-12 21:56:14 --> Output Class Initialized
+INFO - 2019-01-12 21:56:14 --> Output Class Initialized
+INFO - 2019-01-12 21:56:14 --> URI Class Initialized
+INFO - 2019-01-12 21:56:14 --> Router Class Initialized
+INFO - 2019-01-12 21:56:14 --> Language Class Initialized
+INFO - 2019-01-12 21:56:14 --> Config Class Initialized
+INFO - 2019-01-12 21:56:14 --> Security Class Initialized
+INFO - 2019-01-12 21:56:14 --> Router Class Initialized
+INFO - 2019-01-12 21:56:14 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:14 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:14 --> Input Class Initialized
+ERROR - 2019-01-12 21:56:14 --> 404 Page Not Found: Images/product-03.jpg
+INFO - 2019-01-12 21:56:14 --> Output Class Initialized
+INFO - 2019-01-12 21:56:14 --> Output Class Initialized
+DEBUG - 2019-01-12 21:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:14 --> Config Class Initialized
+INFO - 2019-01-12 21:56:14 --> Language Class Initialized
+INFO - 2019-01-12 21:56:14 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:14 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:14 --> Security Class Initialized
+INFO - 2019-01-12 21:56:14 --> Input Class Initialized
+DEBUG - 2019-01-12 21:56:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-12 21:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:14 --> Input Class Initialized
+INFO - 2019-01-12 21:56:14 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:14 --> Hooks Class Initialized
+ERROR - 2019-01-12 21:56:14 --> 404 Page Not Found: Images/product-15.jpg
+INFO - 2019-01-12 21:56:14 --> Language Class Initialized
+INFO - 2019-01-12 21:56:14 --> Input Class Initialized
+INFO - 2019-01-12 21:56:14 --> Config Class Initialized
+INFO - 2019-01-12 21:56:14 --> URI Class Initialized
+DEBUG - 2019-01-12 21:56:14 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:14 --> Language Class Initialized
+INFO - 2019-01-12 21:56:14 --> Language Class Initialized
+INFO - 2019-01-12 21:56:14 --> Utf8 Class Initialized
+ERROR - 2019-01-12 21:56:14 --> 404 Page Not Found: Images/product-09.jpg
+ERROR - 2019-01-12 21:56:14 --> 404 Page Not Found: Images/product-06.jpg
+ERROR - 2019-01-12 21:56:14 --> 404 Page Not Found: Images/product-12.jpg
+INFO - 2019-01-12 21:56:14 --> Router Class Initialized
+INFO - 2019-01-12 21:56:14 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:14 --> Config Class Initialized
+INFO - 2019-01-12 21:56:14 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:15 --> Config Class Initialized
+INFO - 2019-01-12 21:56:15 --> URI Class Initialized
+INFO - 2019-01-12 21:56:15 --> Config Class Initialized
+INFO - 2019-01-12 21:56:15 --> Output Class Initialized
+DEBUG - 2019-01-12 21:56:15 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:56:15 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:15 --> Router Class Initialized
+INFO - 2019-01-12 21:56:15 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:15 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:15 --> URI Class Initialized
+INFO - 2019-01-12 21:56:15 --> Output Class Initialized
+INFO - 2019-01-12 21:56:15 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:15 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:15 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:15 --> UTF-8 Support Enabled
+INFO - 2019-01-12 21:56:15 --> URI Class Initialized
+INFO - 2019-01-12 21:56:15 --> Router Class Initialized
+INFO - 2019-01-12 21:56:15 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-01-12 21:56:15 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:56:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:15 --> Router Class Initialized
+INFO - 2019-01-12 21:56:15 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:15 --> Output Class Initialized
+INFO - 2019-01-12 21:56:15 --> Input Class Initialized
+INFO - 2019-01-12 21:56:15 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:15 --> Input Class Initialized
+INFO - 2019-01-12 21:56:15 --> URI Class Initialized
+INFO - 2019-01-12 21:56:15 --> Output Class Initialized
+INFO - 2019-01-12 21:56:15 --> Security Class Initialized
+INFO - 2019-01-12 21:56:15 --> Language Class Initialized
+INFO - 2019-01-12 21:56:15 --> Language Class Initialized
+INFO - 2019-01-12 21:56:15 --> URI Class Initialized
+DEBUG - 2019-01-12 21:56:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:15 --> Router Class Initialized
+INFO - 2019-01-12 21:56:15 --> Security Class Initialized
+ERROR - 2019-01-12 21:56:15 --> 404 Page Not Found: Images/product-07.jpg
+INFO - 2019-01-12 21:56:15 --> Router Class Initialized
+INFO - 2019-01-12 21:56:15 --> Input Class Initialized
+ERROR - 2019-01-12 21:56:15 --> 404 Page Not Found: Images/product-05.jpg
+DEBUG - 2019-01-12 21:56:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:15 --> Output Class Initialized
+INFO - 2019-01-12 21:56:15 --> Config Class Initialized
+INFO - 2019-01-12 21:56:15 --> Language Class Initialized
+INFO - 2019-01-12 21:56:15 --> Input Class Initialized
+INFO - 2019-01-12 21:56:15 --> Output Class Initialized
+INFO - 2019-01-12 21:56:15 --> Hooks Class Initialized
+INFO - 2019-01-12 21:56:15 --> Security Class Initialized
+ERROR - 2019-01-12 21:56:15 --> 404 Page Not Found: Images/product-11.jpg
+INFO - 2019-01-12 21:56:15 --> Language Class Initialized
+INFO - 2019-01-12 21:56:15 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:15 --> UTF-8 Support Enabled
+DEBUG - 2019-01-12 21:56:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-01-12 21:56:15 --> 404 Page Not Found: Images/product-14.jpg
+INFO - 2019-01-12 21:56:15 --> Input Class Initialized
+DEBUG - 2019-01-12 21:56:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:15 --> Language Class Initialized
+INFO - 2019-01-12 21:56:15 --> Utf8 Class Initialized
+INFO - 2019-01-12 21:56:15 --> Input Class Initialized
+INFO - 2019-01-12 21:56:15 --> URI Class Initialized
+ERROR - 2019-01-12 21:56:15 --> 404 Page Not Found: Images/product-10.jpg
+INFO - 2019-01-12 21:56:15 --> Router Class Initialized
+INFO - 2019-01-12 21:56:15 --> Language Class Initialized
+INFO - 2019-01-12 21:56:15 --> Output Class Initialized
+ERROR - 2019-01-12 21:56:15 --> 404 Page Not Found: Images/product-16.jpg
+INFO - 2019-01-12 21:56:15 --> Security Class Initialized
+DEBUG - 2019-01-12 21:56:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-01-12 21:56:15 --> Input Class Initialized
+INFO - 2019-01-12 21:56:15 --> Language Class Initialized
+ERROR - 2019-01-12 21:56:15 --> 404 Page Not Found: Images/product-13.jpg

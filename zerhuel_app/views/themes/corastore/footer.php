@@ -113,29 +113,29 @@
 			<div class="p-t-40">
 				<div class="flex-c-m flex-w p-b-18">
 					<a href="#" class="m-all-1">
-						<img src="<?php echo base_url().'assets/themes/corastore/' ?>images/icons/icon-pay-01.png" alt="ICON-PAY">
+						<img src="<?php echo base_url().'assets/themes/corastore/'; ?>images/icons/icon-pay-01.png" alt="ICON-PAY">
 					</a>
 
 					<a href="#" class="m-all-1">
-						<img src="<?php echo base_url().'assets/themes/corastore/' ?>images/icons/icon-pay-02.png" alt="ICON-PAY">
+						<img src="<?php echo base_url().'assets/themes/corastore/'; ?>images/icons/icon-pay-02.png" alt="ICON-PAY">
 					</a>
 
 					<a href="#" class="m-all-1">
-						<img src="<?php echo base_url().'assets/themes/corastore/' ?>images/icons/icon-pay-03.png" alt="ICON-PAY">
+						<img src="<?php echo base_url().'assets/themes/corastore/'; ?>images/icons/icon-pay-03.png" alt="ICON-PAY">
 					</a>
 
 					<a href="#" class="m-all-1">
-						<img src="<?php echo base_url().'assets/themes/corastore/' ?>images/icons/icon-pay-04.png" alt="ICON-PAY">
+						<img src="<?php echo base_url().'assets/themes/corastore/'; ?>images/icons/icon-pay-04.png" alt="ICON-PAY">
 					</a>
 
 					<a href="#" class="m-all-1">
-						<img src="<?php echo base_url().'assets/themes/corastore/' ?>images/icons/icon-pay-05.png" alt="ICON-PAY">
+						<img src="<?php echo base_url().'assets/themes/corastore/'; ?>images/icons/icon-pay-05.png" alt="ICON-PAY">
 					</a>
 				</div>
 
 				<p class="stext-107 cl6 txt-center">
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://scarfonictech.com" target="_blank">Scarfonic Tech</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 
 				</p>
@@ -159,7 +159,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		<div class="container">
 			<div class="bg0 p-t-60 p-b-30 p-lr-15-lg how-pos3-parent">
 				<button class="how-pos3 hov3 trans-04 js-hide-modal1">
-					<img src="<?php echo base_url().'assets/themes/corastore/' ?>images/icons/icon-close.png" alt="CLOSE">
+					<img src="<?php echo base_url().'assets/themes/corastore/'; ?>images/icons/icon-close.png" alt="CLOSE">
 				</button>
 
 				<div class="row">
@@ -170,31 +170,31 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 								<div class="wrap-slick3-arrows flex-sb-m flex-w"></div>
 
 								<div class="slick3 gallery-lb">
-									<div class="item-slick3" data-thumb="<?php echo base_url().'assets/themes/corastore/' ?>images/product-detail-01.jpg">
+									<div class="item-slick3" data-thumb="<?php echo base_url().'assets/themes/corastore/'; ?>images/product-detail-01.jpg">
 										<div class="wrap-pic-w pos-relative">
-											<img src="<?php echo base_url().'assets/themes/corastore/' ?>images/product-detail-01.jpg" alt="IMG-PRODUCT">
+											<img src="<?php echo base_url().'assets/themes/corastore/'; ?>images/product-detail-01.jpg" alt="IMG-PRODUCT">
 
-											<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="images/product-detail-01.jpg">
+											<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="<?php echo base_url().'assets/themes/corastore/'; ?>images/product-detail-01.jpg">
 												<i class="fa fa-expand"></i>
 											</a>
 										</div>
 									</div>
 
-									<div class="item-slick3" data-thumb="<?php echo base_url().'assets/themes/corastore/' ?>images/product-detail-02.jpg">
+									<div class="item-slick3" data-thumb="<?php echo base_url().'assets/themes/corastore/'; ?>images/product-detail-02.jpg">
 										<div class="wrap-pic-w pos-relative">
-											<img src="<?php echo base_url().'assets/themes/corastore/' ?>images/product-detail-02.jpg" alt="IMG-PRODUCT">
+											<img src="<?php echo base_url().'assets/themes/corastore/'; ?>images/product-detail-02.jpg" alt="IMG-PRODUCT">
 
-											<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="images/product-detail-02.jpg">
+											<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="<?php echo base_url().'assets/themes/corastore/'; ?>images/product-detail-02.jpg">
 												<i class="fa fa-expand"></i>
 											</a>
 										</div>
 									</div>
 
-									<div class="item-slick3" data-thumb="<?php echo base_url().'assets/themes/corastore/' ?>images/product-detail-03.jpg">
+									<div class="item-slick3" data-thumb="<?php echo base_url().'assets/themes/corastore/'; ?>images/product-detail-03.jpg">
 										<div class="wrap-pic-w pos-relative">
-											<img src="<?php echo base_url().'assets/themes/corastore/' ?>images/product-detail-03.jpg" alt="IMG-PRODUCT">
+											<img src="<?php echo base_url().'assets/themes/corastore/'; ?>images/product-detail-03.jpg" alt="IMG-PRODUCT">
 
-											<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="images/product-detail-03.jpg">
+											<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="<?php echo base_url().'assets/themes/corastore/'; ?>images/product-detail-03.jpg">
 												<i class="fa fa-expand"></i>
 											</a>
 										</div>

@@ -12,7 +12,12 @@ class Home extends CI_Controller
     public function __construct()
     {
         parent::__construct();
-      
+      //todo: refactor the layout to one DRY
+	  // todo: add this meta tags
+	  	// <meta name="viewport" content="width=device-width, initial-scale=1">
+	// <meta name="description" content="E R H I U E L e-commerce website design by scarfonictech.com" />
+	// <meta name="keywords" content="scarfonictech, e-commerce, erhiuel, perfume, company website, networking" />
+	// <meta name="author" content="scarfonictech.com" />
         $this->layout->add_custom_meta('meta', array(
             'charset' => 'utf-8'
         ));
@@ -88,6 +93,7 @@ class Home extends CI_Controller
         $this->layout->set_body_attr(array('class' => 'animsition'));
 
         // load views and send data
+        $this->load->view('themes/corastore/navigation');
         $this->load->view('themes/corastore/header');
         $this->load->view('themes/corastore/home-banner');
         $this->load->view('themes/corastore/home-index');
