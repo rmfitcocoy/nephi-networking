@@ -55,16 +55,16 @@ date_default_timezone_set(DEFAULT_TIMEZONE);
  ************************************************/
 $protocol = is_https() ? "https://" : "http://";
 $host = isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : "";
-if(is_cli()){
+if(is_cli()){ 
    // $config['base_url'] = 'localhost:8080';
-   $config['base_url'] = 'https://scarfonictechtest0001.azurewebsites.net/';
+   $config['base_url'] = 'https://webapp00001-rafi-branchinfosystem.azurewebsites.net/';
 }
 else if(stristr($host, "localhost") !== FALSE || (stristr($host, '192.168.') !== FALSE) || (stristr($host, '127.0.0') !== FALSE)){
    // $config['base_url'] = $protocol.$host;
-   $config['base_url'] = 'https://scarfonictechtest0001.azurewebsites.net/';
+   $config['base_url'] = 'https://webapp00001-rafi-branchinfosystem.azurewebsites.net/';
 }
 else{
-    $allowed_hosts = ['https://scarfonictechtest0001.azurewebsites.net/', 'https://scarfonictechtest0001.azurewebsites.net/'];
+    $allowed_hosts = ['https://webapp00001-rafi-branchinfosystem.azurewebsites.net/', 'https://webapp00001-rafi-branchinfosystem.azurewebsites.net/'];
     $config['base_url'] = in_array($host, $allowed_hosts) ? $protocol.$host."/" : "we-do-not-recognise-this-host.com";
 }
 
