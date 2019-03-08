@@ -1,0 +1,46 @@
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+
+
+xx_public/user_guide_src/build/*
+xx_public/user_guide_src/cilexer/build/*
+xx_public/user_guide_src/cilexer/dist/*
+xx_public/user_guide_src/cilexer/pycilexer.egg-info/*
+
+
+#codeigniter 3
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+/vendor/
+
+
+.DS_Store
+xx_app/cache/*
+!xx_app/cache/index.html
+!xx_app/cache/.htaccess
+
+xx_app/logs/*
+!xx_app/logs/index.html
+!xx_app/logs/.htaccess
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
