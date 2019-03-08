@@ -117,12 +117,12 @@ if(! defined('ENVIRONMENT') )
 	{
 		$domain = strtolower($_SERVER['HTTP_HOST']);
 		switch($domain) {		
-			case 'localhost:8080' :
+			case 'localhost:8181' :
 			  defined('ENVIRONMENT') OR define('ENVIRONMENT', $development);
 			break;
 			
 			case 'localhost:8080' :
-			case 'localhost:8080' :
+			case 'localhost:8181' :
 			  defined('ENVIRONMENT') OR define('ENVIRONMENT', $testing);
 			break;
 			
