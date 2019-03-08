@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /scarfonictech-standard-ci3-microservice/xx_public/
+    RewriteBase /nephi-networking/xx_public/
 
     #Removes access to the system folder by users.
     #Additionally this will allow you to create a System.php controller,
