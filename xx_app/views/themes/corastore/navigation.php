@@ -53,8 +53,9 @@
 								<a href="<?php echo site_url('product'); ?>">Shop</a>
 							</li>
 
-							<li class="label1" data-label1="hot">
-								<a href="<?php echo site_url('cart'); ?>">Features</a>
+							<!--li class="label1" data-label1="hot"-->
+							<li >
+								<a href="<?php echo site_url('cart'); ?>">cart</a>
 							</li>
 
 							<li>
