@@ -62,7 +62,7 @@
 							</li>
 
 							<li>
-								<a href="c<?php echo site_url('contact');?>">Contact</a>
+								<a href="<?php echo site_url('contact');?>">Contact</a>
 							</li>
 						</ul>
 					</div>	
@@ -89,7 +89,7 @@
 		<div class="wrap-header-mobile">
 			<!-- Logo moblie -->		
 			<div class="logo-mobile">
-				<a href="index.html"><img src="<?php echo base_url().'assets/themes/corastore/' ?>images/v1/logo-1.0.0.png" alt="IMG-LOGO"></a>
+				<a href="<?php echo site_url(); ?>"><img src="<?php echo base_url().'assets/themes/corastore/' ?>images/v1/logo-1.0.0.png" alt="IMG-LOGO"></a>
 			</div>
 
 			<!-- Icon header -->
@@ -168,11 +168,12 @@
 				</li>
 
 				<li>
-					<a href="<?php echo site_url('about'); ?>">About</a>
+					
+					<a href="<?php echo site_url('contact'); ?>">Contact</a>
 				</li>
 
 				<li>
-					<a href="<?php echo site_url('contact'); ?>">Contact</a>
+					<a href="<?php echo site_url('about'); ?>">About</a>
 				</li>
 			</ul>
 		</div>
