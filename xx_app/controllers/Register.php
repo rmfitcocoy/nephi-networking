@@ -75,6 +75,7 @@ class Register extends CI_Controller
 
 
         $this->layout->add_js_rawtext($js_text_footer, 'footer');
+		$this->load->model('MRegister');	
 
     }
 
@@ -97,6 +98,25 @@ class Register extends CI_Controller
         $this->load->view('themes/corastore/header');
         $this->load->view('themes/corastore/about');
         $this->load->view('themes/corastore/footer');
+    }
+	
+	public function customer_post() {
+        if ($this->input->post('submit')) {
+            $this->form_validation->set_rules('name', 'Full Name', 'trim|required');
+            $this->form_validation->set_rules('email', 'Email Address', 'trim|required');
+            $this->form_validation->set_rules('phone', 'Phone No.', 'trim|required');
+            $this->form_validation->set_rules('address', 'Contact Address', 'trim|required');
+
+            if ($this->form_validation->run() !== FALSE) {
+                $result = $this->usermodel->insert_user($this->input->post('user'), $this->input->post('email'), $this->input->post('phone'), $this->input->post('address'));
+                $data['success'] = $result;
+                $this->load->view('user', $data);
+            } else {
+                $this->load->view('user');
+            }
+        } else {
+            $this->load->view('user');
+        }
     }
 }
 
