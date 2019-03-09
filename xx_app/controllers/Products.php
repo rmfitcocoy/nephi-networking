@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Product extends CI_Controller
+class Products extends CI_Controller
 {
     /**
      * __construct function.
@@ -75,7 +75,7 @@ class Product extends CI_Controller
 
 
         $this->layout->add_js_rawtext($js_text_footer, 'footer');
-
+$this->load->model('MProducts');
     }
 
     /**
@@ -97,6 +97,18 @@ class Product extends CI_Controller
         $this->load->view('themes/corastore/navigation');
         $this->load->view('themes/corastore/product');
         $this->load->view('themes/corastore/footer');
+    }
+	
+   public function products_getall()
+    {
+		$json = $this->MProducts->mproducts_getall();
+			
+		
+
+		$this->output
+		->set_content_type('application/json')
+		->set_output($json);	
+
     }
 }
 

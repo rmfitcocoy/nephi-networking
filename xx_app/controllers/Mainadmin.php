@@ -50,6 +50,11 @@ class Mainadmin extends CI_Controller
 			,'main.css'),
 		base_url().'assets/themes/corastore/css/');
 		
+		$this->layout->add_js_files(
+		array('jquery/jquery-3.2.1.min.js'
+			),
+		base_url().'assets/themes/corastore/vendor/');
+		
 		 
 		$this->layout->add_js_files(
 		array('jquery/jquery-3.2.1.min.js'
@@ -141,15 +146,18 @@ class Mainadmin extends CI_Controller
 	public function enter(){  
 	   if($this->session->userdata('username') != '')  
 	   {  
-			echo '<h2>Welcome - '.$this->session->userdata('username').'</h2>';  
+	        $this->layout->set_title('Admin Products');
+        $this->layout->set_body_attr(array('class' => 'animsition'));	
+
+			$this->load->view('themes/corastore/header-admin');
+			// $this->load->view('themes/corastore/navigation');
+			
+			$this->load->view("products");
+			  
+			$this->load->view('themes/corastore/footer-admin');		
 			
 			
-			$this->load->view("login", $data);  
 			
-			
-			
-			
-			echo '<label><a href="'.base_url().'mainadmin/logout">Logout</a></label>';  
 	   }  
 	   else  
 	   {  
