@@ -111,19 +111,19 @@ class Register extends CI_Controller
 					$this->input->post('add_address')
 				);
                 $data['success'] = $result;
-				$this->load->view('themes/corastore/navigation');
 				$this->load->view('themes/corastore/header');
+				$this->load->view('themes/corastore/navigation');
                 $this->load->view('themes/corastore/register', $data);
 				$this->load->view('themes/corastore/footer');
             } else {
-				$this->load->view('themes/corastore/navigation');
 				$this->load->view('themes/corastore/header');
+				$this->load->view('themes/corastore/navigation');
                 $this->load->view('themes/corastore/register');
 				$this->load->view('themes/corastore/footer');
             }
         } else {
-			$this->load->view('themes/corastore/navigation');
 			$this->load->view('themes/corastore/header');
+			$this->load->view('themes/corastore/navigation');
 			$this->load->view('themes/corastore/register');
 			$this->load->view('themes/corastore/footer');
         }	

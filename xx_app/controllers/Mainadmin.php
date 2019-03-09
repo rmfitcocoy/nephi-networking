@@ -93,10 +93,10 @@ class Mainadmin extends CI_Controller
         // $this->layout->set_body_attr(array('class' => 'animsition'));
 
         // load views and send data
-        // $this->load->view('themes/corastore/navigation');
-        // $this->load->view('themes/corastore/header');
-        // $this->load->view('themes/corastore/about');
-        // $this->load->view('themes/corastore/footer');
+        $this->load->view('themes/corastore/header');
+        $this->load->view('themes/corastore/navigation');
+        $this->load->view('themes/corastore/about');
+        $this->load->view('themes/corastore/footer');
     }
 	
 	public function login()  
@@ -142,6 +142,13 @@ class Mainadmin extends CI_Controller
 	   if($this->session->userdata('username') != '')  
 	   {  
 			echo '<h2>Welcome - '.$this->session->userdata('username').'</h2>';  
+			
+			
+			$this->load->view("login", $data);  
+			
+			
+			
+			
 			echo '<label><a href="'.base_url().'mainadmin/logout">Logout</a></label>';  
 	   }  
 	   else  
