@@ -75,7 +75,7 @@ class Register extends CI_Controller
 
 
         $this->layout->add_js_rawtext($js_text_footer, 'footer');
-		$this->load->model('MRegister');	
+		$this->load->model('MCustomer');	
 
     }
 
@@ -90,18 +90,47 @@ class Register extends CI_Controller
     {
 		//todo: get the file name  and replace the title and the id
 
-        $this->layout->set_title('About Us');
+        $this->layout->set_title('Registration');
         $this->layout->set_body_attr(array('class' => 'animsition'));
 
-        // load views and send data
-        $this->load->view('themes/corastore/navigation');
-        $this->load->view('themes/corastore/header');
-        $this->load->view('themes/corastore/about');
-        $this->load->view('themes/corastore/footer');
+		
+		if ($this->input->post('submit_customer_post')) {
+            $this->form_validation->set_rules('add_firstname', 'Full Name', 'trim|required');
+            $this->form_validation->set_rules('add_lastname', 'Full Name', 'trim|required');
+            $this->form_validation->set_rules('add_email', 'Full Name', 'trim|required');
+            $this->form_validation->set_rules('add_phonenumber', 'Full Name', 'trim|required');
+            $this->form_validation->set_rules('add_address', 'Full Name', 'trim|required');
+
+            if ($this->form_validation->run() !== FALSE) {
+                $result = $this->MCustomer->mcustomer_post(
+					$this->input->post('add_firstname'), 
+					$this->input->post('add_lastname'), 
+					$this->input->post('add_email'), 
+					$this->input->post('add_phonenumber'), 
+					$this->input->post('add_address'),
+					$this->input->post('add_address')
+				);
+                $data['success'] = $result;
+				$this->load->view('themes/corastore/navigation');
+				$this->load->view('themes/corastore/header');
+                $this->load->view('themes/corastore/register', $data);
+				$this->load->view('themes/corastore/footer');
+            } else {
+				$this->load->view('themes/corastore/navigation');
+				$this->load->view('themes/corastore/header');
+                $this->load->view('themes/corastore/register');
+				$this->load->view('themes/corastore/footer');
+            }
+        } else {
+			$this->load->view('themes/corastore/navigation');
+			$this->load->view('themes/corastore/header');
+			$this->load->view('themes/corastore/register');
+			$this->load->view('themes/corastore/footer');
+        }	
     }
 	
 	public function customer_post() {
-        if ($this->input->post('submit')) {
+		        if ($this->input->post('submit')) {
             $this->form_validation->set_rules('name', 'Full Name', 'trim|required');
             $this->form_validation->set_rules('email', 'Email Address', 'trim|required');
             $this->form_validation->set_rules('phone', 'Phone No.', 'trim|required');
@@ -117,6 +146,41 @@ class Register extends CI_Controller
         } else {
             $this->load->view('user');
         }
+	}
+	
+	public function customer_postby() {
+		//todo: get the file name  and replace the title and the id
+
+		 // var_dump(openssl_get_cert_locations());
+        $json = array();
+
+        $this->form_validation->set_rules('addfirstname', 'Firstname Name', 'required|max_length[70]|min_length[2]');
+
+        // $this->form_validation->set_message('required', 'You missed the input {field}!');
+
+        if (!$this->form_validation->run()) {
+            $json = json_encode(array(
+                'addfirstname' => form_error('addfirstname', '<p class="mt-3 text-danger">', '</p>')
+            ));
+        } else{
+
+
+			$data_array =  array(
+				"addfirstname"        	=> trim($this->input->post('addfirstname'))
+			);
+
+
+			// $json = callapioriginal('POST', 'https://rafi-it-webapp-standard-apim-prod.azure-api.net/ms00003/api/v1.0/sbu/', 
+			// '2239d671c47549e2b910809f96ac12d0',json_encode($data_array));
+			$json = 'success';
+			
+		}
+
+		$this->output
+		->set_content_type('application/json')
+		->set_output($json);
+		// echo $json;
+      
     }
 }
 

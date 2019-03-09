@@ -11,7 +11,7 @@ class MRegister extends CI_Model {
 						'_email' => $_email, '_address' => $_address,'_province' => $_province);
         $result = $this->db->query($insert_user_stored_proc, $data);
         if ($result !== NULL) {
-            return $query->result_array(); 
+            return TRUE;
         }
         return FALSE;
     }
